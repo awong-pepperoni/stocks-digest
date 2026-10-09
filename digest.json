@@ -41,7 +41,7 @@
               "sources": [
                 "r/stocks",
                 "Federal Reserve",
-                "forbes.com"
+                "Forbes"
               ],
               "due": null,
               "due_label": null
@@ -102,7 +102,7 @@
               "updated": null,
               "sources": [
                 "r/investing",
-                "osc.ny.gov"
+                "NY State Comptroller"
               ],
               "due": null,
               "due_label": null
@@ -124,8 +124,8 @@
               "sources": [
                 "r/investing",
                 "r/stocks",
-                "bloomberg.com",
-                "prnewswire.com"
+                "Bloomberg",
+                "PR Newswire"
               ],
               "due": null,
               "due_label": null
@@ -139,7 +139,7 @@
               "updated": null,
               "sources": [
                 "r/stocks",
-                "chinaselectcommittee.house.gov"
+                "House China Committee"
               ],
               "due": null,
               "due_label": null
@@ -153,7 +153,7 @@
               "updated": null,
               "sources": [
                 "r/stocks",
-                "news.samsung.com"
+                "Samsung"
               ],
               "due": null,
               "due_label": null
@@ -167,7 +167,7 @@
               "updated": null,
               "sources": [
                 "r/investing",
-                "investor.uber.com"
+                "Uber"
               ],
               "due": null,
               "due_label": null
@@ -356,7 +356,7 @@
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.prnewswire.com/news-releases/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex-302902974.html\" target=\"_blank\" rel=\"noopener noreferrer\">Grain's release</a> · 2026-10-09</p>",
           "updated": "2026-10-09",
           "sources": [
-            "prnewswire.com"
+            "PR Newswire"
           ],
           "due": null,
           "due_label": null
@@ -369,7 +369,7 @@
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://investor.uber.com/news-events/news/press-release-details/2026/Uber-to-Acquire-ezCater-as-it-Brings-Catering-to-Uber-Eats/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Uber's release</a> · 2026-10-09</p>",
           "updated": "2026-10-09",
           "sources": [
-            "investor.uber.com"
+            "Uber"
           ],
           "due": null,
           "due_label": null
