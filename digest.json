@@ -1,0 +1,411 @@
+{
+  "generated": "2026-10-09",
+  "meta": {
+    "feed": "stocks",
+    "title": "Stocks & Investing Digest",
+    "tagline": "What r/stocks and r/investing said, run by run",
+    "about": "Each digest is a snapshot of what r/stocks and r/investing were discussing when it ran, taken from Reddit's \"hot\" ranking, which has no time window. Everything is what Reddit users claim unless a line says it was checked against a primary source such as the Federal Reserve, an SEC filing or a company release. Market figures are quoted as posted or as reported, never computed here. Nothing here is financial advice. Dated events (Fed meetings, earnings, deal closings) are tracked in the Tracker tab.",
+    "durable_label": "Tracker",
+    "durable_heading": "Market tracker",
+    "topics": {
+      "mustknow": "Must know",
+      "macro": "Markets & macro",
+      "news": "Company news",
+      "practical": "Practical",
+      "debates": "Debates",
+      "sentiment": "Sentiment",
+      "unverified": "Unverified claims",
+      "coverage": "Coverage",
+      "other": "Other"
+    },
+    "source_note": "from Reddit's hot threads"
+  },
+  "digests": [
+    {
+      "date": "2026-10-09",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Both subs are watching rates and AI at the same time. The Fed's September minutes say another hike is likely by year end, the 10-year Treasury yield touched its highest level since 2002, and oil is back around $100. Yet the S&amp;P 500 set a record this week, carried by a few AI giants. A report that OpenAI's revenue is about $20 billion lower than the figure going around knocked AI stocks for a day. SpaceX, now public, had a busy week of deals.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Fed raised rates in September, and its minutes say another increase is &quot;likely&quot; by year end, while the 10-year Treasury yield hit its highest level since 2002.</strong>",
+              "html": "<p><strong>The Fed raised rates in September, and its minutes say another increase is &quot;likely&quot; by year end, while the 10-year Treasury yield hit its highest level since 2002.</strong> The rate hike was the first in three years, and the yield climb is what both subs keep pointing to.</p>\n<ul>\n<li><strong>Why it matters:</strong> higher yields raise borrowing costs for companies and mortgages, and they make bonds a real alternative to stocks. The subs are puzzled that the index held up anyway. <a href=\"https://www.reddit.com/r/stocks/comments/1x07jr6/\" target=\"_blank\" rel=\"noopener noreferrer\">The top macro thread</a> asks why the sell-off was &quot;so weak&quot; with the 10-year above 5.3% and oil above $100. The most-upvoted explanations are steady automatic buying from retirement accounts, and a market &quot;carried on the spending of a handful of hyperscalers&quot;.</li>\n<li><strong>What to watch:</strong> the next Fed meeting on 27–28 October, then 8–9 December; the next CPI and jobs releases; and whether the 10-year holds above 5.3%.</li>\n<li><strong>Numbers:</strong> the Fed raised its target range by a quarter point to 3.75–4.00%, by a 12–0 vote, on 16 September. The minutes, released 7 October, say most participants saw &quot;another increase in the target range for the federal funds rate would likely be appropriate by year end&quot;. Press reports put the 10-year at about 5.34–5.35% on 7 October, its highest since 2002; that figure is reported, not checked against Treasury's data.</li>\n<li><strong>Caveats:</strong> the minutes say future decisions depend on incoming data. Commenters' claims that the market &quot;can't crash before midterms&quot; or is &quot;undervalued&quot; on forward earnings are opinions.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's September minutes</a></li>\n</ul>",
+              "text": "The Fed raised rates in September, and its minutes say another increase is \"likely\" by year end, while the 10-year Treasury yield hit its highest level since 2002. The rate hike was the first in three years, and the yield climb is what both subs keep pointing to. Why it matters: higher yields raise borrowing costs for companies and mortgages, and they make bonds a real alternative to stocks. The subs are puzzled that the index held up anyway. The top macro thread asks why the sell-off was \"so weak\" with the 10-year above 5.3% and oil above $100. The most-upvoted explanations are steady automatic buying from retirement accounts, and a market \"carried on the spending of a handful of hyperscalers\". What to watch: the next Fed meeting on 27–28 October, then 8–9 December; the next CPI and jobs releases; and whether the 10-year holds above 5.3%. Numbers: the Fed raised its target range by a quarter point to 3.75–4.00%, by a 12–0 vote, on 16 September. The minutes, released 7 October, say most participants saw \"another increase in the target range for the federal funds rate would likely be appropriate by year end\". Press reports put the 10-year at about 5.34–5.35% on 7 October, its highest since 2002; that figure is reported, not checked against Treasury's data. Caveats: the minutes say future decisions depend on incoming data. Commenters' claims that the market \"can't crash before midterms\" or is \"undervalued\" on forward earnings are opinions. Read next: the Fed's September minutes Verified for the rate decision, vote and minutes against the Federal Reserve · the yield level is Reported, from Forbes and Reuters coverage",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the rate decision, vote and minutes against the Federal Reserve · the yield level is Reported, from <a href=\"https://www.forbes.com/sites/garthfriesen/2026/10/07/why-the-10-year-treasury-yield-just-hit-a-24-year-high/\" target=\"_blank\" rel=\"noopener noreferrer\">Forbes</a> and Reuters coverage</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "Federal Reserve",
+                "forbes.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>OpenAI's annualised revenue is about $50 billion, not the $70 billion going around, and AI stocks dipped on the news.</strong>",
+              "html": "<p><strong>OpenAI's annualised revenue is about $50 billion, not the $70 billion going around, and AI stocks dipped on the news.</strong> The gap comes from how revenue is counted, not from a collapse in sales.</p>\n<ul>\n<li><strong>Why it matters:</strong> OpenAI's revenue is the proof point behind the AI spending boom. <a href=\"https://www.reddit.com/r/stocks/comments/1x0x3qh/\" target=\"_blank\" rel=\"noopener noreferrer\">The top thread on r/stocks</a> (1,567 points) and <a href=\"https://www.reddit.com/r/stocks/comments/1x0z6vg/\" target=\"_blank\" rel=\"noopener noreferrer\">a follow-up</a> report Nvidia, Oracle and CoreWeave falling on Thursday. By the original poster's account, the dip was bought back in premarket the next day.</li>\n<li><strong>What to watch:</strong> OpenAI and Anthropic disclosing comparable revenue figures; the AI names' next earnings.</li>\n<li><strong>Numbers:</strong> per the Financial Times, via TechCrunch, OpenAI told investors its annualised revenue was &quot;approaching $50B&quot; at the end of September. The $70 billion figure was investors' own adjustment. The explanation in the thread is that Anthropic counts sales made through cloud partners like AWS and Google Cloud in full, while OpenAI counts only its share. The top comment's analogy: two drivers both keep $70 of a $100 fare, but one says he &quot;made $100&quot;.</li>\n<li><strong>Caveats:</strong> OpenAI declined to comment; &quot;annualised revenue&quot; is a run-rate, not reported results. A commenter's claim that much of both labs' revenue is round-tripped with their cloud partners is an argument, not a finding.</li>\n<li><strong>Read next:</strong> <a href=\"https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch's summary of the FT report</a></li>\n</ul>",
+              "text": "OpenAI's annualised revenue is about $50 billion, not the $70 billion going around, and AI stocks dipped on the news. The gap comes from how revenue is counted, not from a collapse in sales. Why it matters: OpenAI's revenue is the proof point behind the AI spending boom. The top thread on r/stocks (1,567 points) and a follow-up report Nvidia, Oracle and CoreWeave falling on Thursday. By the original poster's account, the dip was bought back in premarket the next day. What to watch: OpenAI and Anthropic disclosing comparable revenue figures; the AI names' next earnings. Numbers: per the Financial Times, via TechCrunch, OpenAI told investors its annualised revenue was \"approaching $50B\" at the end of September. The $70 billion figure was investors' own adjustment. The explanation in the thread is that Anthropic counts sales made through cloud partners like AWS and Google Cloud in full, while OpenAI counts only its share. The top comment's analogy: two drivers both keep $70 of a $100 fare, but one says he \"made $100\". Caveats: OpenAI declined to comment; \"annualised revenue\" is a run-rate, not reported results. A commenter's claim that much of both labs' revenue is round-tripped with their cloud partners is an argument, not a finding. Read next: TechCrunch's summary of the FT report Reported · the FT article is paywalled",
+              "status": "reported",
+              "status_html": "<p>Reported · the FT article is paywalled</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "TechCrunch"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Goldman Sachs traders say the S&amp;P 500 has &quot;disconnected&quot; from rates, oil and credit spreads, and moves on AI stocks alone.</strong>",
+              "html": "<p><strong>Goldman Sachs traders say the S&amp;P 500 has &quot;disconnected&quot; from rates, oil and credit spreads, and moves on AI stocks alone.</strong> That's according to <a href=\"https://www.reddit.com/r/investing/comments/1wyuvd5/\" target=\"_blank\" rel=\"noopener noreferrer\">the post</a>, the top thread of the run at 2,263 points. It says the note warns that cheap index hedges no longer protect against broader market risk. The top comment blames steady automatic index buying flowing into the biggest companies. The best reply puts it plainly: the top 10 stocks are now about 40% of the index against under 20% a decade ago. Others push back on the details: one notes that an equal-weight fund isn't a clean stand-in for &quot;the other 490&quot; because it leans toward value stocks.</p>",
+              "text": "Goldman Sachs traders say the S&P 500 has \"disconnected\" from rates, oil and credit spreads, and moves on AI stocks alone. That's according to the post , the top thread of the run at 2,263 points. It says the note warns that cheap index hedges no longer protect against broader market risk. The top comment blames steady automatic index buying flowing into the biggest companies. The best reply puts it plainly: the top 10 stocks are now about 40% of the index against under 20% a decade ago. Others push back on the details: one notes that an equal-weight fund isn't a clean stand-in for \"the other 490\" because it leans toward value stocks. Reported · the Goldman note itself isn't public, and all figures are as posted",
+              "status": "reported",
+              "status_html": "<p>Reported · the Goldman note itself isn't public, and all figures are as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The S&amp;P 500 and Nasdaq set intraday records on 6 October, as oil and yields eased for a day.</strong>",
+              "html": "<p><strong>The S&amp;P 500 and Nasdaq set intraday records on 6 October, as oil and yields eased for a day.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1wz2uqz/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> turned into an argument about breadth. One member claimed 60% of S&amp;P stocks were down 20% this year, then corrected it to 40%; another said 42% were down at all. A third cites second-quarter results showing 10 of 11 sectors grew earnings. Those figures are as posted and were not checked.</p>",
+              "text": "The S&P 500 and Nasdaq set intraday records on 6 October, as oil and yields eased for a day. The thread turned into an argument about breadth. One member claimed 60% of S&P stocks were down 20% this year, then corrected it to 40%; another said 42% were down at all. A third cites second-quarter results showing 10 of 11 sectors grew earnings. Those figures are as posted and were not checked. Reported",
+              "status": "reported",
+              "status_html": "<p>Reported</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Wall Street's securities industry earned $45.9 billion in the first half of 2026, up 51.3%, and could top $90 billion for the year.</strong>",
+              "html": "<p><strong>Wall Street's securities industry earned $45.9 billion in the first half of 2026, up 51.3%, and could top $90 billion for the year.</strong> That's the New York State Comptroller's finding, driven by AI-related deals, mergers and trading volumes; firms spent 18.8% more on pay. <a href=\"https://www.reddit.com/r/investing/comments/1wzu915/\" target=\"_blank\" rel=\"noopener noreferrer\">The r/investing thread</a> compares it to fee-driven profits before 2008. One commenter notes that banks earn fees whether or not the AI assets pay off.</p>",
+              "text": "Wall Street's securities industry earned $45.9 billion in the first half of 2026, up 51.3%, and could top $90 billion for the year. That's the New York State Comptroller's finding, driven by AI-related deals, mergers and trading volumes; firms spent 18.8% more on pay. The r/investing thread compares it to fee-driven profits before 2008. One commenter notes that banks earn fees whether or not the AI assets pay off. Verified against the Comptroller's release",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.osc.ny.gov/press/releases/2026/10/wall-street-first-half-profits-soar-nearly-46-billion\" target=\"_blank\" rel=\"noopener noreferrer\">the Comptroller's release</a></p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "osc.ny.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SpaceX agreed to buy Grain Management's nationwide 800 MHz spectrum, to take Starlink Mobile indoors and compete with the big three carriers.</strong>",
+              "html": "<p><strong>SpaceX agreed to buy Grain Management's nationwide 800 MHz spectrum, to take Starlink Mobile indoors and compete with the big three carriers.</strong> Grain's release, dated 8 October, gives no price and says the deal needs FCC approval. Some coverage puts it at about $8 billion; a commenter said $6 billion; neither matches anything in the release. Members on <a href=\"https://www.reddit.com/r/investing/comments/1x15r3v/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing</a> note the announcement landed a day before a lockup release of insider shares on 9 October, the 120-day mark after the June IPO. <a href=\"https://www.reddit.com/r/stocks/comments/1x136gz/\" target=\"_blank\" rel=\"noopener noreferrer\">On r/stocks</a>, commenters say carrier and AST SpaceMobile shares fell after hours, and argue a satellite network still needs ground infrastructure for good indoor coverage. Separately, SpaceX is reported to be seeking about $40 billion in debt to buy Nvidia chips, in early discussions per <a href=\"https://www.bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says\" target=\"_blank\" rel=\"noopener noreferrer\">Bloomberg citing the FT</a>.</p>",
+              "text": "SpaceX agreed to buy Grain Management's nationwide 800 MHz spectrum, to take Starlink Mobile indoors and compete with the big three carriers. Grain's release, dated 8 October, gives no price and says the deal needs FCC approval. Some coverage puts it at about $8 billion; a commenter said $6 billion; neither matches anything in the release. Members on r/investing note the announcement landed a day before a lockup release of insider shares on 9 October, the 120-day mark after the June IPO. On r/stocks , commenters say carrier and AST SpaceMobile shares fell after hours, and argue a satellite network still needs ground infrastructure for good indoor coverage. Separately, SpaceX is reported to be seeking about $40 billion in debt to buy Nvidia chips, in early discussions per Bloomberg citing the FT . Verified for the spectrum deal and its terms against Grain's release · the price, the lockup share count and the debt raise are Reported",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the spectrum deal and its terms against <a href=\"https://www.prnewswire.com/news-releases/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex-302902974.html\" target=\"_blank\" rel=\"noopener noreferrer\">Grain's release</a> · the price, the lockup share count and the debt raise are Reported</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "r/stocks",
+                "bloomberg.com",
+                "prnewswire.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Webull shares fell about 19% after a House committee said its China ties put American investors at risk.</strong>",
+              "html": "<p><strong>Webull shares fell about 19% after a House committee said its China ties put American investors at risk.</strong> The bipartisan Select Committee on China says &quot;Webull's data practices expose American investors to PRC legal and surveillance risk&quot;. It recommends five policy changes, such as bringing foreign-controlled broker-dealers under CFIUS review, but no ban or enforcement against Webull. Webull called the findings &quot;significantly inaccurate&quot;. The most useful comment in <a href=\"https://www.reddit.com/r/stocks/comments/1wzzd41/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> separates the stock from customer accounts: securities are held separately, SIPC covers up to $500,000 including $250,000 cash if a US broker fails, and a congressional report changes nothing for accounts today.</p>",
+              "text": "Webull shares fell about 19% after a House committee said its China ties put American investors at risk. The bipartisan Select Committee on China says \"Webull's data practices expose American investors to PRC legal and surveillance risk\". It recommends five policy changes, such as bringing foreign-controlled broker-dealers under CFIUS review, but no ban or enforcement against Webull. Webull called the findings \"significantly inaccurate\". The most useful comment in the thread separates the stock from customer accounts: securities are held separately, SIPC covers up to $500,000 including $250,000 cash if a US broker fails, and a congressional report changes nothing for accounts today. Verified against the committee's release · Webull's response is Reported; the SIPC limits are a commenter's and were not checked",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://chinaselectcommittee.house.gov/media/press-releases/examining-webull-s-china-links\" target=\"_blank\" rel=\"noopener noreferrer\">the committee's release</a> · Webull's response is Reported; the SIPC limits are a commenter's and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "chinaselectcommittee.house.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Samsung guided to a record third-quarter operating profit of about 107.4 trillion won, roughly $80 billion, up about 782% on memory chips for AI.</strong>",
+              "html": "<p><strong>Samsung guided to a record third-quarter operating profit of about 107.4 trillion won, roughly $80 billion, up about 782% on memory chips for AI.</strong> Sales came in at about 195 trillion won, up about 127%; it is the first time a Korean company has topped 100 trillion won in a quarter. <a href=\"https://www.reddit.com/r/stocks/comments/1x0bcf0/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> asks whether memory prices can keep rising without new supply.</p>",
+              "text": "Samsung guided to a record third-quarter operating profit of about 107.4 trillion won, roughly $80 billion, up about 782% on memory chips for AI. Sales came in at about 195 trillion won, up about 127%; it is the first time a Korean company has topped 100 trillion won in a quarter. The thread asks whether memory prices can keep rising without new supply. Reported, consistent across coverage of Samsung's guidance release , which timed out when fetched",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across coverage of <a href=\"https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Samsung's guidance release</a>, which timed out when fetched</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "news.samsung.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Uber is buying ezCater, the workplace catering platform, for $2.3 billion in cash.</strong>",
+              "html": "<p><strong>Uber is buying ezCater, the workplace catering platform, for $2.3 billion in cash.</strong> Per Uber, ezCater had over $2.5 billion in gross bookings over the past year, is profitable on an adjusted basis, and its average order is over $400; the deal is expected to close within months. <a href=\"https://www.reddit.com/r/investing/comments/1wz8ys0/\" target=\"_blank\" rel=\"noopener noreferrer\">Commenters</a> single out the $400 average order as a very different business from everyday food delivery.</p>",
+              "text": "Uber is buying ezCater, the workplace catering platform, for $2.3 billion in cash. Per Uber, ezCater had over $2.5 billion in gross bookings over the past year, is profitable on an adjusted basis, and its average order is over $400; the deal is expected to close within months. Commenters single out the $400 average order as a very different business from everyday food delivery. Verified against Uber's release",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://investor.uber.com/news-events/news/press-release-details/2026/Uber-to-Acquire-ezCater-as-it-Brings-Catering-to-Uber-Eats/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Uber's release</a></p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "investor.uber.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Can you lock in a 5% Treasury yield for six months? No, per the replies.</strong>",
+              "html": "<p><strong>Can you lock in a 5% Treasury yield for six months? No, per the replies.</strong> Commenters say six-month bills pay about 4.25–4.3%, and only maturities of about five years or more pay over 5%. Holding an individual bond to maturity locks in its yield; a bond fund's price moves because it keeps rolling its holdings. For a fixed end date, one commenter suggests target-maturity funds (BlackRock iBonds, Invesco BulletShares), which run out to about five years. <a href=\"https://www.reddit.com/r/investing/comments/1x0yqz4/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Can you lock in a 5% Treasury yield for six months? No, per the replies. Commenters say six-month bills pay about 4.25–4.3%, and only maturities of about five years or more pay over 5%. Holding an individual bond to maturity locks in its yield; a bond fund's price moves because it keeps rolling its holdings. For a fixed end date, one commenter suggests target-maturity funds (BlackRock iBonds, Invesco BulletShares), which run out to about five years. Thread Reported · the yields are commenters' and were not checked against Treasury's data",
+              "status": "reported",
+              "status_html": "<p>Reported · the yields are commenters' and were not checked against Treasury's data</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>How do you tell whether you're beating the S&amp;P 500 if you deposit every month?</strong>",
+              "html": "<p><strong>How do you tell whether you're beating the S&amp;P 500 if you deposit every month?</strong> Brokers' headline returns shift with each deposit, so the thread recommends a time- or money-weighted return. Google Sheets' free XIRR function does it from two columns: dates, and deposits entered as negative numbers. Schwab and Interactive Brokers are said to show it. One reply adds that you must compare like with like: model your own deposits into the index, rather than setting your money-weighted return against the index's annual growth rate. <a href=\"https://www.reddit.com/r/investing/comments/1wz5qbw/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "How do you tell whether you're beating the S&P 500 if you deposit every month? Brokers' headline returns shift with each deposit, so the thread recommends a time- or money-weighted return. Google Sheets' free XIRR function does it from two columns: dates, and deposits entered as negative numbers. Schwab and Interactive Brokers are said to show it. One reply adds that you must compare like with like: model your own deposits into the index, rather than setting your money-weighted return against the index's annual growth rate. Thread Single source · a method explanation; the broker features are commenters' reports",
+              "status": "single-source",
+              "status_html": "<p>Single source · a method explanation; the broker features are commenters' reports</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The mood is anxious but still buying.",
+              "html": "<p>The mood is anxious but still buying. Doom posts and &quot;don't time the bubbles&quot; posts get similar attention. The most repeated worry is concentration: the index rests on a few AI names while small caps lag (one commenter puts the Russell 2000 down 6% this month, as posted).</p>",
+              "text": "The mood is anxious but still buying. Doom posts and \"don't time the bubbles\" posts get similar attention. The most repeated worry is concentration: the index rests on a few AI names while small caps lag (one commenter puts the Russell 2000 down 6% this month, as posted).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Leverage behind AI is the new theme: SpaceX&#x27;s reported $40 billion debt raise for chips, banks&#x27; record fees from AI deals, and a widely read essay calling th…",
+              "html": "<p>Leverage behind AI is the new theme: SpaceX's reported $40 billion debt raise for chips, banks' record fees from AI deals, and a widely read essay calling the AI spending boom &quot;a bet on AGI, not current economics&quot;.</p>",
+              "text": "Leverage behind AI is the new theme: SpaceX's reported $40 billion debt raise for chips, banks' record fees from AI deals, and a widely read essay calling the AI spending boom \"a bet on AGI, not current economics\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Westinghouse is said to be heading for a $30–50 billion IPO as early as October.</strong>",
+              "html": "<p><strong>Westinghouse is said to be heading for a $30–50 billion IPO as early as October.</strong> <a href=\"https://www.reddit.com/r/investing/comments/1wz632e/\" target=\"_blank\" rel=\"noopener noreferrer\">A thread</a> asks what that means for Cameco, which owns 49%. Cameco's filings confirm Westinghouse confidentially submitted a draft IPO registration on 31 July, but give no valuation, size or date. The $50 billion figure traces to a Bloomberg report, not to either company.</p>",
+              "text": "Westinghouse is said to be heading for a $30–50 billion IPO as early as October. A thread asks what that means for Cameco, which owns 49%. Cameco's filings confirm Westinghouse confidentially submitted a draft IPO registration on 31 July, but give no valuation, size or date. The $50 billion figure traces to a Bloomberg report, not to either company. Unconfirmed for the valuation and timing · the confidential filing is Verified against Cameco's 6-K exhibit",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> for the valuation and timing · the confidential filing is <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001009001/000119312526327250/d307413dex991.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Cameco's 6-K exhibit</a></p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing.",
+              "html": "<p><strong>Read:</strong> stocks, investing. <strong>Sources checked:</strong> the Federal Reserve's monetary-policy releases (the September minutes on 7 October, the latest). The Treasury yield-curve page timed out, so yields are reported figures. The BLS release schedule refused automated requests and was not checked.</p>",
+              "text": "Read: stocks, investing. Sources checked: the Federal Reserve's monetary-policy releases (the September minutes on 7 October, the latest). The Treasury yield-curve page timed out, so yields are reported figures. The BLS release schedule refused automated requests and was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none found for the Fed in this window beyond the minutes, which the subs discussed.",
+              "html": "<p><strong>Announced, not discussed:</strong> none found for the Fed in this window beyond the minutes, which the subs discussed.</p>",
+              "text": "Announced, not discussed: none found for the Fed in this window beyond the minutes, which the subs discussed.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong>",
+              "html": "<p><strong>Flagged terms set aside:</strong></p>\n<ul>\n<li><em>spacex</em>, <em>openai</em>, <em>nvidia</em> and <em>webull</em>: covered above</li>\n<li><em>google</em>: appears in an unrelated portfolio post and a 7-point post on federal AI compute pledges</li>\n<li><em>december</em> and <em>u.s</em>: generic words</li>\n</ul>",
+              "text": "Flagged terms set aside: spacex , openai , nvidia and webull : covered above google : appears in an unrelated portfolio post and a 7-point post on federal AI compute pledges december and u.s : generic words",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Window:</strong> the first entry, with no previous one to compare against.",
+              "html": "<p><strong>Window:</strong> the first entry, with no previous one to compare against.</p>",
+              "text": "Window: the first entry, with no previous one to compare against.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "theme": "Macro calendar",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong>",
+          "html": "<p><strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong> The September minutes say most officials expect &quot;another increase in the target range for the federal funds rate&quot; to &quot;likely be appropriate by year end&quot;.</p>",
+          "text": "Next Fed meeting: 27–28 October 2026, then 8–9 December. The September minutes say most officials expect \"another increase in the target range for the federal funds rate\" to \"likely be appropriate by year end\". Verified against the Fed's calendar and the September minutes · 2026-10-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's calendar</a> and <a href=\"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the September minutes</a> · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [
+            "Federal Reserve"
+          ],
+          "due": "2026-10-28",
+          "due_label": "decision day"
+        }
+      ]
+    },
+    {
+      "theme": "Deals and listings",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>SpaceX insider-share lockups expire in stages after the 12 June IPO.</strong>",
+          "html": "<p><strong>SpaceX insider-share lockups expire in stages after the 12 June IPO.</strong> The standard 180-day lockup ends on 9 December, per secondary coverage of the schedule.</p>",
+          "text": "SpaceX insider-share lockups expire in stages after the 12 June IPO. The standard 180-day lockup ends on 9 December, per secondary coverage of the schedule. Reported · not checked against the prospectus · 2026-10-09",
+          "status": "reported",
+          "status_html": "<p>Reported · not checked against the prospectus · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [],
+          "due": "2026-12-09",
+          "due_label": "180-day lockup"
+        },
+        {
+          "headline": "<strong>SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval.</strong>",
+          "html": "<p><strong>SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval.</strong> Grain's release gives no price and no closing date.</p>",
+          "text": "SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval. Grain's release gives no price and no closing date. Verified against Grain's release · 2026-10-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.prnewswire.com/news-releases/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex-302902974.html\" target=\"_blank\" rel=\"noopener noreferrer\">Grain's release</a> · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [
+            "prnewswire.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Uber's $2.3 billion ezCater acquisition is expected to close &quot;within the next few months&quot;.</strong>",
+          "html": "<p><strong>Uber's $2.3 billion ezCater acquisition is expected to close &quot;within the next few months&quot;.</strong></p>",
+          "text": "Uber's $2.3 billion ezCater acquisition is expected to close \"within the next few months\". Verified against Uber's release · 2026-10-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://investor.uber.com/news-events/news/press-release-details/2026/Uber-to-Acquire-ezCater-as-it-Brings-Catering-to-Uber-Eats/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Uber's release</a> · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [
+            "investor.uber.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Westinghouse IPO: a draft registration was confidentially submitted on 31 July.</strong>",
+          "html": "<p><strong>Westinghouse IPO: a draft registration was confidentially submitted on 31 July.</strong> Valuation and timing are only reported.</p>",
+          "text": "Westinghouse IPO: a draft registration was confidentially submitted on 31 July. Valuation and timing are only reported. Verified for the filing against Cameco's 6-K exhibit · valuation and timing Unconfirmed · 2026-10-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the filing against <a href=\"https://www.sec.gov/Archives/edgar/data/0001009001/000119312526327250/d307413dex991.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Cameco's 6-K exhibit</a> · valuation and timing Unconfirmed · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "Recurring debates",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong>",
+          "html": "<p><strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong> The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter.</p>",
+          "text": "\"The S&P 500 is just an AI index now.\" The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter. Single source each time; figures as posted · 2026-10-09",
+          "status": "single-source",
+          "status_html": "<p>Single source each time; figures as posted · 2026-10-09</p>",
+          "updated": "2026-10-09",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    }
+  ]
+}
