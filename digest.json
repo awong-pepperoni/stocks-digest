@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-12",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,301 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-12",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Both subs spent the weekend on two things. One is an ethics filing: the top thread on r/stocks by a wide margin is President Trump's disclosed purchase of up to $5 million of SpaceX bonds two days before he signed a new national space transportation policy. The other is the week ahead, which stacks the September CPI print, ASML and TSMC into three days. The SpaceX spectrum deal covered in the last entry produced its market reaction after that entry was written: the three big carriers had their worst days in years.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>President Trump's August ethics filing shows he bought up to $5 million of SpaceX bonds two days before signing a space transportation policy aimed at a tenfold increase in US launches.</strong>",
+              "html": "<p><strong>President Trump's August ethics filing shows he bought up to $5 million of SpaceX bonds two days before signing a space transportation policy aimed at a tenfold increase in US launches.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x1kvo6/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> is the top post of the run at 5,679 points, more than twice the next one, and r/stocks' automod had to ask commenters to tie replies back to the market.</p>\n<ul>\n<li><strong>Why it matters:</strong> SpaceX is now publicly traded and holds large Pentagon and NASA contracts, so the subs read the disclosure as a signal about how federal policy will treat the company. The original poster's own conclusion is the one most repeated: &quot;It seems insane and awful but at the same time, don't bet against this stock seems like.&quot;</li>\n<li><strong>What to watch:</strong> the implementation deadlines in NSPM-17, which the policy sets at 90, 120, 180 and 240 days from 20 August 2026; and future monthly periodic transaction reports on the Office of Government Ethics site.</li>\n<li><strong>Numbers:</strong> as reported, the filing covers 517 August transactions and lists an 18 August purchase of between $1,000,001 and $5,000,000 of SpaceX senior unsecured bonds due July 2031 paying 5.35%. CNBC's analysis puts the 517 trades at roughly $74.3 million to $273.3 million in total and the largest at $5–25 million of Meta shares on 21 August. Those figures are reported, not read off the filing.</li>\n<li><strong>Caveats:</strong> the White House says the portfolio is managed by third-party institutions and that neither Trump nor his family can direct it. The comment section is mostly political reaction rather than analysis, and no commenter offered a mechanism linking the policy to the bonds' value. The amounts are disclosure brackets, not exact sums.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/\" target=\"_blank\" rel=\"noopener noreferrer\">the White House fact sheet on the policy</a></li>\n</ul>",
+              "text": "President Trump's August ethics filing shows he bought up to $5 million of SpaceX bonds two days before signing a space transportation policy aimed at a tenfold increase in US launches. The thread is the top post of the run at 5,679 points, more than twice the next one, and r/stocks' automod had to ask commenters to tie replies back to the market. Why it matters: SpaceX is now publicly traded and holds large Pentagon and NASA contracts, so the subs read the disclosure as a signal about how federal policy will treat the company. The original poster's own conclusion is the one most repeated: \"It seems insane and awful but at the same time, don't bet against this stock seems like.\" What to watch: the implementation deadlines in NSPM-17, which the policy sets at 90, 120, 180 and 240 days from 20 August 2026; and future monthly periodic transaction reports on the Office of Government Ethics site. Numbers: as reported, the filing covers 517 August transactions and lists an 18 August purchase of between $1,000,001 and $5,000,000 of SpaceX senior unsecured bonds due July 2031 paying 5.35%. CNBC's analysis puts the 517 trades at roughly $74.3 million to $273.3 million in total and the largest at $5–25 million of Meta shares on 21 August. Those figures are reported, not read off the filing. Caveats: the White House says the portfolio is managed by third-party institutions and that neither Trump nor his family can direct it. The comment section is mostly political reaction rather than analysis, and no commenter offered a mechanism linking the policy to the bonds' value. The amounts are disclosure brackets, not exact sums. Read next: the White House fact sheet on the policy Verified for the policy, its date and the 1,000-launches-by-2030 goal against the White House · the bond purchase is Reported, consistent across Quartz , CNBC and the Washington Post · the underlying OGE periodic transaction report was too large to fetch, so no line in it was read directly",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the policy, its date and the 1,000-launches-by-2030 goal against the White House · the bond purchase is Reported, consistent across <a href=\"https://qz.com/trump-spacex-bonds-space-policy-financial-disclosure-100926\" target=\"_blank\" rel=\"noopener noreferrer\">Quartz</a>, CNBC and the Washington Post · <a href=\"https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E590116FC9631E9885258E7A002DE209/$FILE/Donald-J-Trump-09.8.2026-278T.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">the underlying OGE periodic transaction report</a> was too large to fetch, so no line in it was read directly</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "whitehouse.gov",
+                "qz.com",
+                "extapps2.oge.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>September CPI lands on Wednesday morning, ASML reports the same day and TSMC the next, which puts the inflation print and the two best reads on AI capital spending inside 48 hours.</strong>",
+              "html": "<p><strong>September CPI lands on Wednesday morning, ASML reports the same day and TSMC the next, which puts the inflation print and the two best reads on AI capital spending inside 48 hours.</strong> A 10-point post on r/investing laid out the arithmetic better than anything upvoted this run.</p>\n<ul>\n<li><strong>Why it matters:</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x2tdgh/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> argues the real test is not whether AI demand holds but whether ASML delivers the second half its own July guidance promised, and that the market lost its independent check on that when ASML stopped reporting quarterly bookings after Q4 2025. One commenter put it as taking &quot;a Q4 number that's roughly 60% above the previous record on management's word alone&quot;.</li>\n<li><strong>What to watch:</strong> September CPI at 8:30 a.m. ET on 14 October; ASML's Q3 results before the US open the same day, and specifically its Q4 implication; TSMC's earnings call on 15 October and any change to 2026 capital-spending commentary. The same poster notes the market will read a soft ASML Q4 guide or trimmed TSMC capex as the first sign AI capital spending has peaked, whatever the headline numbers.</li>\n<li><strong>Numbers:</strong> ASML guided Q3 net sales of €11.0–12.0 billion against €9.3 billion in Q2, and full-year 2026 net sales of €43–45 billion; first-half sales were about €18.1 billion, so the poster's arithmetic is that a €11.5 billion Q3 leaves roughly €13.4 billion needed in Q4 for the low end, against a previous record quarter of €9.7 billion. TSMC has already reported Q3 revenue of NT$1.494 trillion, up 50.9% year on year. The poster also cites the options market pricing about a 5.6% move in ASML either way, which is as posted.</li>\n<li><strong>Caveats:</strong> the arithmetic is the poster's, not ASML's, and two commenters pushed back — one that the steep part of the ramp was already in the July guide (9.3 to 11.5 is +24%, 11.5 to 13.4 is +17%), another that revenue-recognition timing on High-NA and EUV shipments could explain much of the implied jump. A third commenter tried to correct the TSMC figure as impossibly large; the post's NT$1.494 trillion is right and the correction is wrong.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000680/tsm-revenue20261008.htm\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's September revenue report</a></li>\n</ul>",
+              "text": "September CPI lands on Wednesday morning, ASML reports the same day and TSMC the next, which puts the inflation print and the two best reads on AI capital spending inside 48 hours. A 10-point post on r/investing laid out the arithmetic better than anything upvoted this run. Why it matters: the thread argues the real test is not whether AI demand holds but whether ASML delivers the second half its own July guidance promised, and that the market lost its independent check on that when ASML stopped reporting quarterly bookings after Q4 2025. One commenter put it as taking \"a Q4 number that's roughly 60% above the previous record on management's word alone\". What to watch: September CPI at 8:30 a.m. ET on 14 October; ASML's Q3 results before the US open the same day, and specifically its Q4 implication; TSMC's earnings call on 15 October and any change to 2026 capital-spending commentary. The same poster notes the market will read a soft ASML Q4 guide or trimmed TSMC capex as the first sign AI capital spending has peaked, whatever the headline numbers. Numbers: ASML guided Q3 net sales of €11.0–12.0 billion against €9.3 billion in Q2, and full-year 2026 net sales of €43–45 billion; first-half sales were about €18.1 billion, so the poster's arithmetic is that a €11.5 billion Q3 leaves roughly €13.4 billion needed in Q4 for the low end, against a previous record quarter of €9.7 billion. TSMC has already reported Q3 revenue of NT$1.494 trillion, up 50.9% year on year. The poster also cites the options market pricing about a 5.6% move in ASML either way, which is as posted. Caveats: the arithmetic is the poster's, not ASML's, and two commenters pushed back — one that the steep part of the ramp was already in the July guide (9.3 to 11.5 is +24%, 11.5 to 13.4 is +17%), another that revenue-recognition timing on High-NA and EUV shipments could explain much of the implied jump. A third commenter tried to correct the TSMC figure as impossibly large; the post's NT$1.494 trillion is right and the correction is wrong. Read next: TSMC's September revenue report Verified — the CPI date against the BLS schedule , ASML's guidance and Q2 sales against its Q2 release , TSMC's Q3 revenue and the 15 October call against TSMC's filings and investor calendar",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> — the CPI date against <a href=\"https://www.bls.gov/schedule/news_release/cpi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the BLS schedule</a>, ASML's guidance and Q2 sales against <a href=\"https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results\" target=\"_blank\" rel=\"noopener noreferrer\">its Q2 release</a>, TSMC's Q3 revenue and the 15 October call against <a href=\"https://investor.tsmc.com/english/quarterly-results/teleconference\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's filings and investor calendar</a></p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "SEC filing",
+                "bls.gov",
+                "asml.com",
+                "investor.tsmc.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The three big carriers had their worst single days in years on the SpaceX spectrum news, and both subs spent the weekend arguing whether that was a repricing or a panic.</strong>",
+              "html": "<p><strong>The three big carriers had their worst single days in years on the SpaceX spectrum news, and both subs spent the weekend arguing whether that was a repricing or a panic.</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x1uno8/\" target=\"_blank\" rel=\"noopener noreferrer\">The r/investing thread</a> posts T-Mobile down 13% and Verizon and AT&amp;T around 10%; press coverage puts the closes at T-Mobile −13.27%, AT&amp;T −9.81% and Verizon −8.75%, described as their worst days since 2013, 2000 and July 2002 respectively. The most-upvoted replies call it oversold on unchanged fundamentals. The substantive objections run the other way on timing rather than direction: one commenter notes none of SpaceX's deployed satellites work with this spectrum, so it has to design, build and launch for it; another that the three carriers already lease most of their towers from Crown Castle, American Tower and SBA under master lease agreements, so SpaceX adding ground equipment is not a high barrier. The best-argued bull case for the threat is that Starlink's cost per user is not bounded by geography the way a tower network is, so the two cost curves may eventually cross.</p>",
+              "text": "The three big carriers had their worst single days in years on the SpaceX spectrum news, and both subs spent the weekend arguing whether that was a repricing or a panic. The r/investing thread posts T-Mobile down 13% and Verizon and AT&T around 10%; press coverage puts the closes at T-Mobile −13.27%, AT&T −9.81% and Verizon −8.75%, described as their worst days since 2013, 2000 and July 2002 respectively. The most-upvoted replies call it oversold on unchanged fundamentals. The substantive objections run the other way on timing rather than direction: one commenter notes none of SpaceX's deployed satellites work with this spectrum, so it has to design, build and launch for it; another that the three carriers already lease most of their towers from Crown Castle, American Tower and SBA under master lease agreements, so SpaceX adding ground equipment is not a high barrier. The best-argued bull case for the threat is that Starlink's cost per user is not bounded by geography the way a tower network is, so the two cost curves may eventually cross. Reported · the posted percentages are a commenter's and the closing figures are from press coverage, not measured here",
+              "status": "reported",
+              "status_html": "<p>Reported · the posted percentages are a commenter's and the closing figures are from press coverage, not measured here</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A widely read weekly-outlook post blamed Thursday's dip on &quot;the surprise interest rate hike in India&quot;, which happened on Tuesday.</strong>",
+              "html": "<p><strong>A widely read weekly-outlook post blamed Thursday's dip on &quot;the surprise interest rate hike in India&quot;, which happened on Tuesday.</strong> The Reserve Bank of India did raise its repo rate 25 basis points to 5.50% and shift its stance to calibrated tightening, but the resolution is dated 7 October, a day before the OpenAI revenue report and two days before Thursday's move. <a href=\"https://www.reddit.com/r/investing/comments/1x1yip9/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A widely read weekly-outlook post blamed Thursday's dip on \"the surprise interest rate hike in India\", which happened on Tuesday. The Reserve Bank of India did raise its repo rate 25 basis points to 5.50% and shift its stance to calibrated tightening, but the resolution is dated 7 October, a day before the OpenAI revenue report and two days before Thursday's move. Thread Verified for the hike and its date against the RBI's Monetary Policy Committee resolution of 5–7 October 2026 · the attribution of Thursday's move to it is the poster's and is contradicted by the dates",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the hike and its date against <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the RBI's Monetary Policy Committee resolution of 5–7 October 2026</a> · the attribution of Thursday's move to it is the poster's and is contradicted by the dates</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "rbi.org.in"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Labor Department has suspended Microsoft and seven other firms from filing green-card sponsorships, and r/stocks concluded it changes nothing for the stock.</strong>",
+              "html": "<p><strong>The Labor Department has suspended Microsoft and seven other firms from filing green-card sponsorships, and r/stocks concluded it changes nothing for the stock.</strong> Labor Secretary Keith Sonderling said on 8 October that the department will stop accepting new Permanent Labor Certification applications from the eight companies and will not process pending ones; the others named are Adobe, Capgemini, Cognizant, HCL, Infosys, Tata and Wipro. H-1B status and already-issued green cards are unaffected. <a href=\"https://www.reddit.com/r/stocks/comments/1x1r6oj/\" target=\"_blank\" rel=\"noopener noreferrer\">In the thread</a>, the arguments against any earnings effect are that Microsoft already hires in countries with easier visa rules and can simply shift headcount, and that the measure is tied to the current administration rather than to the business. One commenter noted the stock dipped on the news and recovered the next day; another replied that the move was the OpenAI revenue report, not this.</p>",
+              "text": "The Labor Department has suspended Microsoft and seven other firms from filing green-card sponsorships, and r/stocks concluded it changes nothing for the stock. Labor Secretary Keith Sonderling said on 8 October that the department will stop accepting new Permanent Labor Certification applications from the eight companies and will not process pending ones; the others named are Adobe, Capgemini, Cognizant, HCL, Infosys, Tata and Wipro. H-1B status and already-issued green cards are unaffected. In the thread , the arguments against any earnings effect are that Microsoft already hires in countries with easier visa rules and can simply shift headcount, and that the measure is tied to the current administration rather than to the business. One commenter noted the stock dipped on the news and recovered the next day; another replied that the move was the OpenAI revenue report, not this. Reported, consistent across immigration-law and trade coverage of the 8 October announcement · the Labor Department's own newsroom returned HTTP 403 and was not read",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across immigration-law and trade coverage of the 8 October announcement · the Labor Department's own newsroom returned HTTP 403 and was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>OpenAI's roughly $300 billion compute commitment to Oracle is about $60 billion a year from a customer at a $50 billion revenue run rate, which is the part the subs think actually matters.</strong>",
+              "html": "<p><strong>OpenAI's roughly $300 billion compute commitment to Oracle is about $60 billion a year from a customer at a $50 billion revenue run rate, which is the part the subs think actually matters.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x1k5qi/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (504 points) accepts that last week's revenue revision was a gross-versus-net footnote, then argues Oracle's $24 billion one-day loss was not about the footnote at all. The best reply is that the growth rate, reported as 233% year on year, makes the ratio less alarming than it looks; the best counter-reply is the original poster's own — that Oracle is not the only bill, with a further roughly $250 billion committed to Azure and $38 billion to AWS, as posted. Another frequently repeated reply reframes it as $50 billion of current revenue against $750 billion of capital commitments through 2030. The thread's most-agreed point is procedural: both OpenAI and Anthropic could end the argument by disclosing realised monthly revenue instead of run rates.</p>",
+              "text": "OpenAI's roughly $300 billion compute commitment to Oracle is about $60 billion a year from a customer at a $50 billion revenue run rate, which is the part the subs think actually matters. The post (504 points) accepts that last week's revenue revision was a gross-versus-net footnote, then argues Oracle's $24 billion one-day loss was not about the footnote at all. The best reply is that the growth rate, reported as 233% year on year, makes the ratio less alarming than it looks; the best counter-reply is the original poster's own — that Oracle is not the only bill, with a further roughly $250 billion committed to Azure and $38 billion to AWS, as posted. Another frequently repeated reply reframes it as $50 billion of current revenue against $750 billion of capital commitments through 2030. The thread's most-agreed point is procedural: both OpenAI and Anthropic could end the argument by disclosing realised monthly revenue instead of run rates. Reported · the $300 billion, $250 billion, $38 billion and $750 billion figures are as posted; none was checked against a contract or filing",
+              "status": "reported",
+              "status_html": "<p>Reported · the $300 billion, $250 billion, $38 billion and $750 billion figures are as posted; none was checked against a contract or filing</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Why does a municipal bond fund lose value when rates rise, if it keeps paying monthly? Because the fund's price is the present value of its bonds, and a higher discount rate lowers it.</strong>",
+              "html": "<p><strong>Why does a municipal bond fund lose value when rates rise, if it keeps paying monthly? Because the fund's price is the present value of its bonds, and a higher discount rate lowers it.</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x3fxy2/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> answers a tax-free California muni fund question. The explanations commenters gave: munis are exempt from federal tax and from the issuing state's own tax; when the market discounts a bond's future cash flows at a higher rate, its present value and therefore its market price must fall; and the monthly payout can still rise over time as the fund replaces maturing bonds with higher-yielding ones, which is why the income and the principal can move in opposite directions. Two separate replies flagged a fee rather than a rate problem — that the recommended fund carries a 3.75% front-end load, and that lower-cost California muni funds and ETFs exist. One reply added the test that decides whether a muni fund makes sense at all: the tax-equivalent yield against the holder's actual bracket, which may not beat Treasuries.</p>",
+              "text": "Why does a municipal bond fund lose value when rates rise, if it keeps paying monthly? Because the fund's price is the present value of its bonds, and a higher discount rate lowers it. The thread answers a tax-free California muni fund question. The explanations commenters gave: munis are exempt from federal tax and from the issuing state's own tax; when the market discounts a bond's future cash flows at a higher rate, its present value and therefore its market price must fall; and the monthly payout can still rise over time as the fund replaces maturing bonds with higher-yielding ones, which is why the income and the principal can move in opposite directions. Two separate replies flagged a fee rather than a rate problem — that the recommended fund carries a 3.75% front-end load, and that lower-cost California muni funds and ETFs exist. One reply added the test that decides whether a muni fund makes sense at all: the tax-equivalent yield against the holder's actual bracket, which may not beat Treasuries. Reported · the explanations and the 3.75% load are commenters' and were not checked against the fund's prospectus",
+              "status": "reported",
+              "status_html": "<p>Reported · the explanations and the 3.75% load are commenters' and were not checked against the fund's prospectus</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?&quot;</strong>",
+              "html": "<p><strong>&quot;Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?&quot;</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x2a9dn/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (607 points) works backwards: at a mature-tech 25x earnings, a $2 trillion valuation implies something like $80 billion of annual net profit. The top answer was &quot;That's the neat part: None.&quot; The two substantive camps: one commenter at an S&amp;P 500 company says Claude is now daily infrastructure there, &quot;like how I imagine Microsoft Excel was when it first came out&quot;; the replies argue that is exactly the fragile part, because prices are subsidised, enterprises are already working to limit vendor lock-in, and open-weight models give large customers a cheaper option that keeps their IP in house. All figures in the post are the poster's framing of reported numbers.</p>",
+              "text": "\"Anthropic: ~$145B raised, $2T IPO target. What profit makes that work?\" The post (607 points) works backwards: at a mature-tech 25x earnings, a $2 trillion valuation implies something like $80 billion of annual net profit. The top answer was \"That's the neat part: None.\" The two substantive camps: one commenter at an S&P 500 company says Claude is now daily infrastructure there, \"like how I imagine Microsoft Excel was when it first came out\"; the replies argue that is exactly the fragile part, because prices are subsidised, enterprises are already working to limit vendor lock-in, and open-weight models give large customers a cheaper option that keeps their IP in house. All figures in the post are the poster's framing of reported numbers. Single source · the $145 billion raised and the $2 trillion IPO target are as posted and were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the $145 billion raised and the $2 trillion IPO target are as posted and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Nike bull argued the Knight family must take the company private for a turnaround, and the thread's best correction was about Buffett rather than Nike.</strong>",
+              "html": "<p><strong>A Nike bull argued the Knight family must take the company private for a turnaround, and the thread's best correction was about Buffett rather than Nike.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x3p4lr/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> says the family controls 8 of 11 board seats through Class A shares and holds up Buffett and Munger's 1990s decision not to buy Nike as vindication. Commenters pointed out the opposite reading: Berkshire instead bought Dexter Shoe, which failed, and passing on Nike meant missing a return the replies put in the hundreds of percent. The separate objection was that nobody pays a premium to take a company private without a path to value creation, and the family's own inaction is evidence it does not see one. A second Nike thread the same day worried about Jordan's share of revenue; its figures are a shareholder's own and are not repeated here.</p>",
+              "text": "A Nike bull argued the Knight family must take the company private for a turnaround, and the thread's best correction was about Buffett rather than Nike. The post says the family controls 8 of 11 board seats through Class A shares and holds up Buffett and Munger's 1990s decision not to buy Nike as vindication. Commenters pointed out the opposite reading: Berkshire instead bought Dexter Shoe, which failed, and passing on Nike meant missing a return the replies put in the hundreds of percent. The separate objection was that nobody pays a premium to take a company private without a path to value creation, and the family's own inaction is evidence it does not see one. A second Nike thread the same day worried about Jordan's share of revenue; its figures are a shareholder's own and are not repeated here. Single source · the board-seat count, the 1998 price and the return figures are as posted",
+              "status": "single-source",
+              "status_html": "<p>Single source · the board-seat count, the 1998 price and the return figures are as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Micron's quarter is not automatically Sandisk's quarter, because HBM and NAND are different products on different pricing terms.</strong>",
+              "html": "<p><strong>Micron's quarter is not automatically Sandisk's quarter, because HBM and NAND are different products on different pricing terms.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x24b13/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> is the clearest small post of the run. The agreed distinction in the replies: Micron's HBM is locked into multi-year contracts at agreed prices and most of its 2027 output is already committed, while Sandisk sells NAND, priced on contract and spot terms, so it gets the general tightness story but not the backlog. One reply suggested the empirical test — whether Sandisk moved with Micron on the day after Micron reported tells you whether traders price them as one trade. Sandisk reports on 29 October.</p>",
+              "text": "Micron's quarter is not automatically Sandisk's quarter, because HBM and NAND are different products on different pricing terms. The thread is the clearest small post of the run. The agreed distinction in the replies: Micron's HBM is locked into multi-year contracts at agreed prices and most of its 2027 output is already committed, while Sandisk sells NAND, priced on contract and spot terms, so it gets the general tightness story but not the backlog. One reply suggested the empirical test — whether Sandisk moved with Micron on the day after Micron reported tells you whether traders price them as one trade. Sandisk reports on 29 October. Reported · the Micron call commentary and the \"more than 75% of 2027 output committed\" figure are as posted",
+              "status": "reported",
+              "status_html": "<p>Reported · the Micron call commentary and the &quot;more than 75% of 2027 output committed&quot; figure are as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Can ASTS actually compete with SpaceX long term?&quot;</strong>",
+              "html": "<p><strong>&quot;Can ASTS actually compete with SpaceX long term?&quot;</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x2iamb/\" target=\"_blank\" rel=\"noopener noreferrer\">The same question ran on both subs</a> and drew 209 and 50 comments. The partnership question — how much protection AT&amp;T and Verizon as partners actually provide — went largely unanswered; the discussion collapsed into the same satellites-versus-towers argument as the carrier threads.</p>",
+              "text": "\"Can ASTS actually compete with SpaceX long term?\" The same question ran on both subs and drew 209 and 50 comments. The partnership question — how much protection AT&T and Verizon as partners actually provide — went largely unanswered; the discussion collapsed into the same satellites-versus-towers argument as the carrier threads. Single source",
+              "status": "single-source",
+              "status_html": "<p>Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The mood is dip-buying with a political overlay.",
+              "html": "<p>The mood is dip-buying with a political overlay. On the carrier selloff and on AST SpaceMobile, the most-upvoted replies are variations of &quot;on sale&quot;; the most-upvoted replies on the Trump filing are about corruption rather than positioning, and several threads explicitly fold the two together as a reason not to bet against SpaceX.</p>",
+              "text": "The mood is dip-buying with a political overlay. On the carrier selloff and on AST SpaceMobile, the most-upvoted replies are variations of \"on sale\"; the most-upvoted replies on the Trump filing are about corruption rather than positioning, and several threads explicitly fold the two together as a reason not to bet against SpaceX.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The bubble argument has moved from valuation to concentration and to who is funding whom.",
+              "html": "<p>The bubble argument has moved from valuation to concentration and to who is funding whom. <a href=\"https://www.reddit.com/r/investing/comments/1x2lfc7/\" target=\"_blank\" rel=\"noopener noreferrer\">A r/investing thread</a> asking for the bear case got the two sharpest answers of the run: that the companies with excellent fundamentals sell to the companies that are not yet profitable, and that index weighting hides a flat-to-down market in the other 490 names. Both are arguments, and the figures in them are as posted.</p>",
+              "text": "The bubble argument has moved from valuation to concentration and to who is funding whom. A r/investing thread asking for the bear case got the two sharpest answers of the run: that the companies with excellent fundamentals sell to the companies that are not yet profitable, and that index weighting hides a flat-to-down market in the other 490 names. Both are arguments, and the figures in them are as posted.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The $8 billion price for SpaceX's spectrum purchase still has no primary source.</strong>",
+              "html": "<p><strong>The $8 billion price for SpaceX's spectrum purchase still has no primary source.</strong> Posts and press coverage this run repeat it, attributing it to the Wall Street Journal. Grain Management's own release announcing the agreement gives no price, and nothing filed states one. Checked: Grain's release and the coverage.</p>",
+              "text": "The $8 billion price for SpaceX's spectrum purchase still has no primary source. Posts and press coverage this run repeat it, attributing it to the Wall Street Journal. Grain Management's own release announcing the agreement gives no price, and nothing filed states one. Checked: Grain's release and the coverage. Unconfirmed · the price only; the agreement itself is Verified against Grain's release",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · the price only; the agreement itself is Verified against <a href=\"https://www.prnewswire.com/news-releases/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex-302902974.html\" target=\"_blank\" rel=\"noopener noreferrer\">Grain's release</a></p>",
+              "updated": null,
+              "sources": [
+                "PR Newswire"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing.",
+              "html": "<p><strong>Read:</strong> stocks, investing. <strong>Sources checked:</strong> the Federal Reserve's monetary-policy feed (nothing since the September minutes on 7 October), the BLS CPI release schedule (loaded this run, unlike the last one). The Treasury daily yield-curve page served 1990 data by default and rejected the parameterised and CSV requests with HTTP 406, so no yield level is quoted in this entry.</p>",
+              "text": "Read: stocks, investing. Sources checked: the Federal Reserve's monetary-policy feed (nothing since the September minutes on 7 October), the BLS CPI release schedule (loaded this run, unlike the last one). The Treasury daily yield-curve page served 1990 data by default and rejected the parameterised and CSV requests with HTTP 406, so no yield level is quoted in this entry.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The Fed published nothing in this window, no CPI or jobs release fell in it, and the dated events ahead are covered in Must know.</p>",
+              "text": "Announced, not discussed: none. The Fed published nothing in this window, no CPI or jobs release fell in it, and the dated events ahead are covered in Must know.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong>",
+              "html": "<p><strong>Flagged terms set aside:</strong></p>\n<ul>\n<li><em>asml</em>, <em>tsmc</em> and <em>wednesday</em>: covered in Must know; <em>verizon</em> and <em>elon</em> under the carrier selloff and the Trump filing; <em>nike</em> under Debates</li>\n<li><em>thursday</em>: a day of the week, recurring because the OpenAI revenue dip landed on one; the one claim that turned on it is corrected under Markets and macro</li>\n<li><em>cnbc</em>: a news outlet pasted as a source, not a subject</li>\n</ul>",
+              "text": "Flagged terms set aside: asml , tsmc and wednesday : covered in Must know; verizon and elon under the carrier selloff and the Trump filing; nike under Debates thursday : a day of the week, recurring because the OpenAI revenue dip landed on one; the one claim that turned on it is corrected under Markets and macro cnbc : a news outlet pasted as a source, not a subject",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Window:</strong> the previous entry was 2026-10-09, three days ago, which is the feed&#x27;s cadence; no gap to cover.",
+              "html": "<p><strong>Window:</strong> the previous entry was 2026-10-09, three days ago, which is the feed's cadence; no gap to cover.</p>",
+              "text": "Window: the previous entry was 2026-10-09, three days ago, which is the feed's cadence; no gap to cover.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "title": "Stocks & investing digest",
@@ -318,6 +613,19 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>September CPI is released 14 October at 8:30 a.m. ET, then October CPI on 10 November and November CPI on 10 December.</strong>",
+          "html": "<p><strong>September CPI is released 14 October at 8:30 a.m. ET, then October CPI on 10 November and November CPI on 10 December.</strong> The subs treat the 14 October print as the swing factor for semiconductor multiples, because ASML reports the same morning.</p>",
+          "text": "September CPI is released 14 October at 8:30 a.m. ET, then October CPI on 10 November and November CPI on 10 December. The subs treat the 14 October print as the swing factor for semiconductor multiples, because ASML reports the same morning. Verified against the BLS CPI release schedule · 2026-10-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.bls.gov/schedule/news_release/cpi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the BLS CPI release schedule</a> · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [
+            "bls.gov"
+          ],
+          "due": "2026-10-14",
+          "due_label": "September CPI"
+        },
+        {
           "headline": "<strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong>",
           "html": "<p><strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong> The September minutes say most officials expect &quot;another increase in the target range for the federal funds rate&quot; to &quot;likely be appropriate by year end&quot;.</p>",
           "text": "Next Fed meeting: 27–28 October 2026, then 8–9 December. The September minutes say most officials expect \"another increase in the target range for the federal funds rate\" to \"likely be appropriate by year end\". Verified against the Fed's calendar and the September minutes · 2026-10-09",
@@ -329,6 +637,19 @@
           ],
           "due": "2026-10-28",
           "due_label": "decision day"
+        },
+        {
+          "headline": "<strong>The Reserve Bank of India raised its repo rate 25 basis points to 5.50% on 7 October and moved its stance to &quot;calibrated tightening&quot;.</strong>",
+          "html": "<p><strong>The Reserve Bank of India raised its repo rate 25 basis points to 5.50% on 7 October and moved its stance to &quot;calibrated tightening&quot;.</strong> Its first increase since February 2023. Kept here because r/investing has started citing it as a driver of US moves, in one case mis-dated to Thursday 8 October.</p>",
+          "text": "The Reserve Bank of India raised its repo rate 25 basis points to 5.50% on 7 October and moved its stance to \"calibrated tightening\". Its first increase since February 2023. Kept here because r/investing has started citing it as a driver of US moves, in one case mis-dated to Thursday 8 October. Verified against the RBI's resolution of 5–7 October 2026 · 2026-10-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">the RBI's resolution of 5–7 October 2026</a> · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [
+            "rbi.org.in"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -337,6 +658,31 @@
       "sub": false,
       "lead_html": null,
       "items": [
+        {
+          "headline": "<strong>ASML reports Q3 2026 before the US open on 14 October; TSMC's earnings call is 15 October.</strong>",
+          "html": "<p><strong>ASML reports Q3 2026 before the US open on 14 October; TSMC's earnings call is 15 October.</strong> The test named in the threads is whether ASML's Q4 implication clears roughly €13.4 billion, against a €43–45 billion full-year guide and a €9.7 billion previous record quarter, and whether TSMC trims 2026 capital-spending commentary. ASML no longer discloses quarterly bookings, so the order book cannot be checked independently.</p>",
+          "text": "ASML reports Q3 2026 before the US open on 14 October; TSMC's earnings call is 15 October. The test named in the threads is whether ASML's Q4 implication clears roughly €13.4 billion, against a €43–45 billion full-year guide and a €9.7 billion previous record quarter, and whether TSMC trims 2026 capital-spending commentary. ASML no longer discloses quarterly bookings, so the order book cannot be checked independently. Verified for the guidance against ASML's Q2 release and for the call date against TSMC's teleconference page · the €13.4 billion threshold is a poster's arithmetic · 2026-10-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the guidance against <a href=\"https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results\" target=\"_blank\" rel=\"noopener noreferrer\">ASML's Q2 release</a> and for the call date against <a href=\"https://investor.tsmc.com/english/quarterly-results/teleconference\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's teleconference page</a> · the €13.4 billion threshold is a poster's arithmetic · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [
+            "asml.com",
+            "investor.tsmc.com"
+          ],
+          "due": "2026-10-14",
+          "due_label": "ASML Q3 results"
+        },
+        {
+          "headline": "<strong>Sandisk reports on 29 October.</strong>",
+          "html": "<p><strong>Sandisk reports on 29 October.</strong> The question the subs want answered is NAND pricing guidance and enterprise SSD mix, which Micron's HBM backlog does not speak to.</p>",
+          "text": "Sandisk reports on 29 October. The question the subs want answered is NAND pricing guidance and enterprise SSD mix, which Micron's HBM backlog does not speak to. Reported · the date is as posted and was not checked against Sandisk's investor calendar · 2026-10-12",
+          "status": "reported",
+          "status_html": "<p>Reported · the date is as posted and was not checked against Sandisk's investor calendar · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [],
+          "due": "2026-10-29",
+          "due_label": "Sandisk results"
+        },
         {
           "headline": "<strong>SpaceX insider-share lockups expire in stages after the 12 June IPO.</strong>",
           "html": "<p><strong>SpaceX insider-share lockups expire in stages after the 12 June IPO.</strong> The standard 180-day lockup ends on 9 December, per secondary coverage of the schedule.</p>",
@@ -350,11 +696,11 @@
         },
         {
           "headline": "<strong>SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval.</strong>",
-          "html": "<p><strong>SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval.</strong> Grain's release gives no price and no closing date.</p>",
-          "text": "SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval. Grain's release gives no price and no closing date. Verified against Grain's release · 2026-10-09",
+          "html": "<p><strong>SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval.</strong> Grain's release gives no price and no closing date. The $8 billion price repeated in posts and coverage traces to the Wall Street Journal and appears in no release or filing. The carriers' reaction has now happened: T-Mobile closed −13.27%, AT&amp;T −9.81% and Verizon −8.75% on 9 October, their worst days since 2013, 2000 and July 2002 respectively, per press coverage.</p>",
+          "text": "SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval. Grain's release gives no price and no closing date. The $8 billion price repeated in posts and coverage traces to the Wall Street Journal and appears in no release or filing. The carriers' reaction has now happened: T-Mobile closed −13.27%, AT&T −9.81% and Verizon −8.75% on 9 October, their worst days since 2013, 2000 and July 2002 respectively, per press coverage. Verified for the agreement and the FCC condition against Grain's release · the $8 billion price is Unconfirmed · the closing figures are Reported · 2026-10-12",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.prnewswire.com/news-releases/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex-302902974.html\" target=\"_blank\" rel=\"noopener noreferrer\">Grain's release</a> · 2026-10-09</p>",
-          "updated": "2026-10-09",
+          "status_html": "<p><strong>Verified</strong> for the agreement and the FCC condition against <a href=\"https://www.prnewswire.com/news-releases/grain-management-announces-definitive-agreement-to-sell-nationwide-800-mhz-spectrum-portfolio-to-spacex-302902974.html\" target=\"_blank\" rel=\"noopener noreferrer\">Grain's release</a> · the $8 billion price is <strong>Unconfirmed</strong> · the closing figures are Reported · 2026-10-12</p>",
+          "updated": "2026-10-12",
           "sources": [
             "PR Newswire"
           ],
@@ -396,11 +742,22 @@
       "items": [
         {
           "headline": "<strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong>",
-          "html": "<p><strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong> The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter.</p>",
-          "text": "\"The S&P 500 is just an AI index now.\" The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter. Single source each time; figures as posted · 2026-10-09",
+          "html": "<p><strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong> The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter. Corroborated on 2026-10-12 by a bull-case thread whose best replies both argued concentration rather than valuation: that index weighting sends about 41% of inflows to the top 10, and that the cap-weighted index rose while the equal-weighted one fell over the same stretch.</p>",
+          "text": "\"The S&P 500 is just an AI index now.\" The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter. Corroborated on 2026-10-12 by a bull-case thread whose best replies both argued concentration rather than valuation: that index weighting sends about 41% of inflows to the top 10, and that the cap-weighted index rose while the equal-weighted one fell over the same stretch. Single source each time; figures as posted · 2026-10-12",
           "status": "single-source",
-          "status_html": "<p>Single source each time; figures as posted · 2026-10-09</p>",
-          "updated": "2026-10-09",
+          "status_html": "<p>Single source each time; figures as posted · 2026-10-12</p>",
+          "updated": "2026-10-12",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>&quot;The AI capital-spending chain is circular.&quot;</strong>",
+          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: this run it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply.</p>",
+          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: this run it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. Single source each time; all figures as posted · 2026-10-12",
+          "status": "single-source",
+          "status_html": "<p>Single source each time; all figures as posted · 2026-10-12</p>",
+          "updated": "2026-10-12",
           "sources": [],
           "due": null,
           "due_label": null
