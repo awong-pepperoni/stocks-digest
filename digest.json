@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-15",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,344 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-15",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Both subs spent this run on two numbers. September CPI came in hotter than forecast on Wednesday morning and September PPI followed on Thursday with its largest annual gain since 2022, both driven by gasoline. Against that, the earnings the last entry flagged as the week's test arrived and were strong: ASML reported record sales and said its planned 2027 and 2028 supply will not meet demand, TSMC beat its own revenue guidance, and semiconductors fell anyway. Anthropic showed institutional investors Q3 revenue of $16.8 billion ahead of a reported November listing. The two subs read the same tape in opposite directions — r/stocks is shopping the dip, r/investing is asking whether to hold bonds instead.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>September inflation came in above forecasts on both measures: CPI at 3.7% a year and producer prices at 6.3%, the largest annual PPI gain since 2022, with gasoline doing most of the work.</strong>",
+              "html": "<p><strong>September inflation came in above forecasts on both measures: CPI at 3.7% a year and producer prices at 6.3%, the largest annual PPI gain since 2022, with gasoline doing most of the work.</strong> The CPI thread was the run's dominant post on r/stocks at 1,192 points, though almost all of its discussion was political rather than market analysis.</p>\n<ul>\n<li><strong>Why it matters:</strong> this was the last CPI print before the midterm elections and the last major inflation reading before the 27–28 October Fed meeting, whose September minutes already said another increase would &quot;likely be appropriate by year end&quot;. The subs' reading is that the transmission to stocks runs through the bond market rather than through the print itself: <a href=\"https://www.reddit.com/r/stocks/comments/1x5r67s/\" target=\"_blank\" rel=\"noopener noreferrer\">the one r/stocks thread that tried to connect them</a> argues AI names will not be sold unless yields spike far enough to force margin calls, and that everything else gets sold first — &quot;If there's a sudden big spike in bond yields it likely means something broke&quot;. On <a href=\"https://www.reddit.com/r/stocks/comments/1x6klne/\" target=\"_blank\" rel=\"noopener noreferrer\">the PPI thread</a> the most-upvoted observation was simply &quot;Market didn't even flinch&quot;.</li>\n<li><strong>What to watch:</strong> the FOMC decision on 27–28 October, then 8–9 December; October CPI on 10 November and November CPI on 10 December; the October jobs report on 6 November.</li>\n<li><strong>Numbers:</strong> CPI all items rose 0.6% in September and 3.7% over the year, against 3.4% for the 12 months to August; core rose 2.6% against 2.4%. Gasoline rose 9.1% in the month, &quot;accounting for over half of the monthly all items increase&quot;, and 34.2% over the year, inside an energy index up 20.4%. PPI final demand rose 1.3% in the month, its largest advance since 1.7% in March 2022, and 6.3% over the year, the largest since 6.4% in December 2022; final demand goods rose 2.6% with over 80% of that from energy prices up 10.8%. All of those are measurements from the BLS releases. The forecasts the posts compare them against — 3.6% headline and 2.5% core CPI, and 0.6% monthly and 5.5% annual PPI from a Dow Jones poll — are as posted.</li>\n<li><strong>Caveats:</strong> the CPI thread is almost entirely political argument; r/stocks' automod had to ask commenters to tie replies to the market, and no upvoted comment in it analysed the data. Commenters' attribution of the move to tariffs and to the US conflict with Iran is argument, not a finding in either release. One comment claiming the headline was &quot;cooked&quot; to 0.649% to stay below 0.7% is unsupported.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.bls.gov/news.release/cpi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the BLS CPI release for September</a></li>\n</ul>",
+              "text": "September inflation came in above forecasts on both measures: CPI at 3.7% a year and producer prices at 6.3%, the largest annual PPI gain since 2022, with gasoline doing most of the work. The CPI thread was the run's dominant post on r/stocks at 1,192 points, though almost all of its discussion was political rather than market analysis. Why it matters: this was the last CPI print before the midterm elections and the last major inflation reading before the 27–28 October Fed meeting, whose September minutes already said another increase would \"likely be appropriate by year end\". The subs' reading is that the transmission to stocks runs through the bond market rather than through the print itself: the one r/stocks thread that tried to connect them argues AI names will not be sold unless yields spike far enough to force margin calls, and that everything else gets sold first — \"If there's a sudden big spike in bond yields it likely means something broke\". On the PPI thread the most-upvoted observation was simply \"Market didn't even flinch\". What to watch: the FOMC decision on 27–28 October, then 8–9 December; October CPI on 10 November and November CPI on 10 December; the October jobs report on 6 November. Numbers: CPI all items rose 0.6% in September and 3.7% over the year, against 3.4% for the 12 months to August; core rose 2.6% against 2.4%. Gasoline rose 9.1% in the month, \"accounting for over half of the monthly all items increase\", and 34.2% over the year, inside an energy index up 20.4%. PPI final demand rose 1.3% in the month, its largest advance since 1.7% in March 2022, and 6.3% over the year, the largest since 6.4% in December 2022; final demand goods rose 2.6% with over 80% of that from energy prices up 10.8%. All of those are measurements from the BLS releases. The forecasts the posts compare them against — 3.6% headline and 2.5% core CPI, and 0.6% monthly and 5.5% annual PPI from a Dow Jones poll — are as posted. Caveats: the CPI thread is almost entirely political argument; r/stocks' automod had to ask commenters to tie replies to the market, and no upvoted comment in it analysed the data. Commenters' attribution of the move to tariffs and to the US conflict with Iran is argument, not a finding in either release. One comment claiming the headline was \"cooked\" to 0.649% to stay below 0.7% is unsupported. Read next: the BLS CPI release for September Verified — every CPI and PPI figure above against the BLS releases of 14 October and 15 October · the Fed meeting dates against the FOMC calendar · the forecast figures are Reported",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> — every CPI and PPI figure above against the BLS releases of <a href=\"https://www.bls.gov/news.release/cpi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">14 October</a> and <a href=\"https://www.bls.gov/news.release/ppi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">15 October</a> · the Fed meeting dates against <a href=\"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the FOMC calendar</a> · the forecast figures are Reported</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "bls.gov",
+                "Federal Reserve"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Anthropic told prospective investors its Q3 revenue was $16.8 billion and that it was profitable on an adjusted basis, and the subs spent the thread attacking the word &quot;adjusted&quot;.</strong>",
+              "html": "<p><strong>Anthropic told prospective investors its Q3 revenue was $16.8 billion and that it was profitable on an adjusted basis, and the subs spent the thread attacking the word &quot;adjusted&quot;.</strong> The last entry covered the arithmetic behind the $2 trillion IPO target as a debate; this run has the company's own numbers behind it.</p>\n<ul>\n<li><strong>Why it matters:</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x66gqa/\" target=\"_blank\" rel=\"noopener noreferrer\">the r/stocks thread</a> (447 points) is the clearest attempt either sub made to price the listing, and it frames the figure as a deceleration rather than a beat: 46% quarter-on-quarter growth against the 147% the poster attributes to Q2. The top comment, at 592 points, is &quot;Profitable on adjusted basis equals not profitable&quot;, and the most substantive reply argues the opposite case — that a business doing over $70 billion of revenue in year two with high double-digit growth would sit inside the top 62 names in the S&amp;P by revenue, and that Amazon was unprofitable for years too. The best counter was that Amazon was not asking $2 trillion while it was.</li>\n<li><strong>What to watch:</strong> the S-1, which is where &quot;adjusted&quot; gets defined; the reported November listing window; and whether growth re-accelerates toward the $100 billion run rate the poster says Anthropic has targeted for December.</li>\n<li><strong>Numbers:</strong> as reported, revenue of $16.8 billion in Q3 against about $11.5–11.6 billion in Q2 and $4.7 billion in Q1, an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability, positive free cash flow, at least $518 billion of compute commitments over the next decade, and a target valuation above $2 trillion. The derived figures in the post — 29.8x annualised Q3 revenue, 13.1% average monthly growth in Q3, a roughly $70 billion exit run rate for September, and the 12.9% monthly growth needed to reach $100 billion — are the poster's own arithmetic.</li>\n<li><strong>Caveats:</strong> Anthropic is private and published nothing; every figure traces to a Financial Times report of what the company told investors on 14 October, and the FT article is paywalled. The post's own title says &quot;up 50% QoQ&quot; while its body gives $16.8 billion against $11.5 billion, which is 46%; press coverage puts it at 45–46%. A commenter's claim that the revenue is gross of cloud partners' cut is an argument, not a disclosed fact.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC's writeup of the FT report</a></li>\n</ul>",
+              "text": "Anthropic told prospective investors its Q3 revenue was $16.8 billion and that it was profitable on an adjusted basis, and the subs spent the thread attacking the word \"adjusted\". The last entry covered the arithmetic behind the $2 trillion IPO target as a debate; this run has the company's own numbers behind it. Why it matters: the r/stocks thread (447 points) is the clearest attempt either sub made to price the listing, and it frames the figure as a deceleration rather than a beat: 46% quarter-on-quarter growth against the 147% the poster attributes to Q2. The top comment, at 592 points, is \"Profitable on adjusted basis equals not profitable\", and the most substantive reply argues the opposite case — that a business doing over $70 billion of revenue in year two with high double-digit growth would sit inside the top 62 names in the S&P by revenue, and that Amazon was unprofitable for years too. The best counter was that Amazon was not asking $2 trillion while it was. What to watch: the S-1, which is where \"adjusted\" gets defined; the reported November listing window; and whether growth re-accelerates toward the $100 billion run rate the poster says Anthropic has targeted for December. Numbers: as reported, revenue of $16.8 billion in Q3 against about $11.5–11.6 billion in Q2 and $4.7 billion in Q1, an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability, positive free cash flow, at least $518 billion of compute commitments over the next decade, and a target valuation above $2 trillion. The derived figures in the post — 29.8x annualised Q3 revenue, 13.1% average monthly growth in Q3, a roughly $70 billion exit run rate for September, and the 12.9% monthly growth needed to reach $100 billion — are the poster's own arithmetic. Caveats: Anthropic is private and published nothing; every figure traces to a Financial Times report of what the company told investors on 14 October, and the FT article is paywalled. The post's own title says \"up 50% QoQ\" while its body gives $16.8 billion against $11.5 billion, which is 46%; press coverage puts it at 45–46%. A commenter's claim that the revenue is gross of cloud partners' cut is an argument, not a disclosed fact. Read next: CNBC's writeup of the FT report Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of the FT report · the primary source is paywalled and the company has published nothing",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of the FT report · the primary source is paywalled and the company has published nothing</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "CNBC"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The 10-year Treasury yield closed at 5.19% on 14 October, up from 5.02% on 9 October, and the 30-year at 5.52%.</strong>",
+              "html": "<p><strong>The 10-year Treasury yield closed at 5.19% on 14 October, up from 5.02% on 9 October, and the 30-year at 5.52%.</strong> Several threads this run turn on &quot;yields above 5%&quot; without naming a maturity or a date, so the levels are worth stating: Treasury's own par yield curve gives 2-year 4.82%, 10-year 5.19% and 30-year 5.52% for 14 October. One r/investing post argued the rise is benign — that yields and earnings rise together because both respond to a stronger economy, and that &quot;the problem though... will come when earnings shows signs of easing, while yields are still high&quot;. <a href=\"https://www.reddit.com/r/investing/comments/1x5rfb8/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The 10-year Treasury yield closed at 5.19% on 14 October, up from 5.02% on 9 October, and the 30-year at 5.52%. Several threads this run turn on \"yields above 5%\" without naming a maturity or a date, so the levels are worth stating: Treasury's own par yield curve gives 2-year 4.82%, 10-year 5.19% and 30-year 5.52% for 14 October. One r/investing post argued the rise is benign — that yields and earnings rise together because both respond to a stronger economy, and that \"the problem though... will come when earnings shows signs of easing, while yields are still high\". Thread Verified for the yields against Treasury's daily yield curve · the argument is a poster's",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the yields against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's daily yield curve</a> · the argument is a poster's</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "home.treasury.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Gartner forecast that 80% of &quot;neoclouds&quot; will stop operating independently by 2030 was blamed for a selloff in CoreWeave, Nebius and IREN, and the thread's own top comments rejected the attribution.</strong>",
+              "html": "<p><strong>A Gartner forecast that 80% of &quot;neoclouds&quot; will stop operating independently by 2030 was blamed for a selloff in CoreWeave, Nebius and IREN, and the thread's own top comments rejected the attribution.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x5zfsd/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (263 points) is titled &quot;cease to exist&quot;; Gartner's wording, as quoted in trade coverage of its 14 October release, is that 80% of neocloud providers &quot;could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers&quot;. The highest-voted reply is &quot;No way this is what caused the drop today&quot;, answered by &quot;It didn't. It was the inflation reports that caused the drop.&quot; The most useful comment reframes the forecast as a consolidation call rather than a demand call — that compute demand keeps growing while the providers get acquired, merged or absorbed. Two commenters disputed Gartner's premise that GPUs depreciate rapidly, claiming H100s and consumer cards have held or gained value; that is their assertion, not a measurement.</p>",
+              "text": "A Gartner forecast that 80% of \"neoclouds\" will stop operating independently by 2030 was blamed for a selloff in CoreWeave, Nebius and IREN, and the thread's own top comments rejected the attribution. The post (263 points) is titled \"cease to exist\"; Gartner's wording, as quoted in trade coverage of its 14 October release, is that 80% of neocloud providers \"could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers\". The highest-voted reply is \"No way this is what caused the drop today\", answered by \"It didn't. It was the inflation reports that caused the drop.\" The most useful comment reframes the forecast as a consolidation call rather than a demand call — that compute demand keeps growing while the providers get acquired, merged or absorbed. Two commenters disputed Gartner's premise that GPUs depreciate rapidly, claiming H100s and consumer cards have held or gained value; that is their assertion, not a measurement. Verified for the 80% wording and the $3.5 trillion impairment figure against Telecompaper's quotation of Gartner's release · the $1 trillion 2026 spend, $6 trillion 2027–2030 spend, $8.5 trillion revenue requirement and $3.6 trillion forecast are Reported from the same coverage; Gartner's own newsroom page returned HTTP 403 and was not read",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the 80% wording and the $3.5 trillion impairment figure against <a href=\"https://www.telecompaper.com/news/gartner-sees-neoclouds-as-vulnerable-to-weak-returns-amid-insufficient-ai-revenue-in-run-up-to-2030--1585707\" target=\"_blank\" rel=\"noopener noreferrer\">Telecompaper's quotation of Gartner's release</a> · the $1 trillion 2026 spend, $6 trillion 2027–2030 spend, $8.5 trillion revenue requirement and $3.6 trillion forecast are Reported from the same coverage; Gartner's own newsroom page returned HTTP 403 and was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "telecompaper.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Broadcom's CEO did question whether AI spending pays off, which makes the sub's own correction the thing that was wrong.</strong>",
+              "html": "<p><strong>Broadcom's CEO did question whether AI spending pays off, which makes the sub's own correction the thing that was wrong.</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x4vsxx/\" target=\"_blank\" rel=\"noopener noreferrer\">An r/investing post</a> says chip stocks fell across three continents after Hock Tan &quot;publicly questioned whether the scale of AI spending can actually pay off&quot;; one commenter replied flatly &quot;Actually he didn't&quot;, and another said the comments were aimed only at smaller players and momentum investors. Press coverage of Tan's 12 October remarks at the DBS Asia Future Forward conference in Singapore has him saying capital and the cost of capital, not chips or memory or power, may be the biggest constraint on AI expansion, and comparing many AI investors to casino gamblers: &quot;People are just wasting money, spending tokens, trying to understand (AI).&quot; The post's separate claim that Bank of America's fund manager survey shows long global semiconductors as the most crowded trade is as posted.</p>",
+              "text": "Broadcom's CEO did question whether AI spending pays off, which makes the sub's own correction the thing that was wrong. An r/investing post says chip stocks fell across three continents after Hock Tan \"publicly questioned whether the scale of AI spending can actually pay off\"; one commenter replied flatly \"Actually he didn't\", and another said the comments were aimed only at smaller players and momentum investors. Press coverage of Tan's 12 October remarks at the DBS Asia Future Forward conference in Singapore has him saying capital and the cost of capital, not chips or memory or power, may be the biggest constraint on AI expansion, and comparing many AI investors to casino gamblers: \"People are just wasting money, spending tokens, trying to understand (AI).\" The post's separate claim that Bank of America's fund manager survey shows long global semiconductors as the most crowded trade is as posted. Reported, consistent across Quartz, Yahoo Finance and Benzinga coverage of the conference remarks · no transcript or recording was read, and the BofA survey figures were not checked",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across Quartz, Yahoo Finance and Benzinga coverage of the conference remarks · no transcript or recording was read, and the BofA survey figures were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A small post checked the data-centres-raise-your-power-bill claim against the CPI detail and found the increase is not in the last four months.</strong>",
+              "html": "<p><strong>A small post checked the data-centres-raise-your-power-bill claim against the CPI detail and found the increase is not in the last four months.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x6ep9s/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> notes the electricity index is up 4.4% over the 12 months to September, above both the 3.7% headline and the 2.6% core, but moved −1.0%, 0.1%, −0.2% and 0.2% in June through September, so the annual figure is mostly earlier in the year. The best reply is a mechanism rather than a rebuttal: utility rates reset through slow regulatory rate cases, so data-centre demand would show up in bills a year or more later, which means four flat months cannot rule it out. The poster's answer cited EIA commercial electricity sales, including data centres, up 5% in the third quarter year on year.</p>",
+              "text": "A small post checked the data-centres-raise-your-power-bill claim against the CPI detail and found the increase is not in the last four months. The thread notes the electricity index is up 4.4% over the 12 months to September, above both the 3.7% headline and the 2.6% core, but moved −1.0%, 0.1%, −0.2% and 0.2% in June through September, so the annual figure is mostly earlier in the year. The best reply is a mechanism rather than a rebuttal: utility rates reset through slow regulatory rate cases, so data-centre demand would show up in bills a year or more later, which means four flat months cannot rule it out. The poster's answer cited EIA commercial electricity sales, including data centres, up 5% in the third quarter year on year. Verified for the 4.4% electricity and 34.2% gasoline annual figures against the BLS CPI release · the month-by-month series and the EIA sales figure are as posted and were not checked",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the 4.4% electricity and 34.2% gasoline annual figures against <a href=\"https://www.bls.gov/news.release/cpi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the BLS CPI release</a> · the month-by-month series and the EIA sales figure are as posted and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "bls.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>ASML reported record Q3 sales and said its planned 2027 and 2028 supply will not meet customer demand, clearing the Q4 threshold the last entry flagged by a wide margin.</strong>",
+              "html": "<p><strong>ASML reported record Q3 sales and said its planned 2027 and 2028 supply will not meet customer demand, clearing the Q4 threshold the last entry flagged by a wide margin.</strong> Q3 total net sales were €11.7 billion with net income of €5.0 billion and a gross margin of 57.5%; Q4 is guided to €14.2–15.2 billion at around 57%, against the roughly €13.4 billion a poster's arithmetic said the low end of the full-year guide required. CEO Christophe Fouquet said &quot;our supply as currently planned for both 2027 and 2028 will not fully meet the demand of our customers&quot;, that ASML is &quot;investigating ways to increase capacity for 2028 beyond the 30% increase we previously communicated&quot;, and that &quot;some customers are expressing an interest in placing orders with us for 2029 and even 2030&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1x5ix8y/\" target=\"_blank\" rel=\"noopener noreferrer\">In the thread</a>, the sharpest comment picks the margin over the sales beat — 54% to 57.5% says pricing power while capacity is being added — and names the risk as customers' AI capex outrunning their own AI revenue, which would show up in ASML orders first. Another commenter reads the day as positioning rather than fundamentals: &quot;demand isn't the problem&quot;. The stock fell anyway.</p>",
+              "text": "ASML reported record Q3 sales and said its planned 2027 and 2028 supply will not meet customer demand, clearing the Q4 threshold the last entry flagged by a wide margin. Q3 total net sales were €11.7 billion with net income of €5.0 billion and a gross margin of 57.5%; Q4 is guided to €14.2–15.2 billion at around 57%, against the roughly €13.4 billion a poster's arithmetic said the low end of the full-year guide required. CEO Christophe Fouquet said \"our supply as currently planned for both 2027 and 2028 will not fully meet the demand of our customers\", that ASML is \"investigating ways to increase capacity for 2028 beyond the 30% increase we previously communicated\", and that \"some customers are expressing an interest in placing orders with us for 2029 and even 2030\". In the thread , the sharpest comment picks the margin over the sales beat — 54% to 57.5% says pricing power while capacity is being added — and names the risk as customers' AI capex outrunning their own AI revenue, which would show up in ASML orders first. Another commenter reads the day as positioning rather than fundamentals: \"demand isn't the problem\". The stock fell anyway. Verified — sales, income, margin, guidance and all three quotations against ASML's Q3 2026 release as filed with the SEC · ASML still does not report quarterly bookings, so the order interest cannot be checked independently",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> — sales, income, margin, guidance and all three quotations against <a href=\"https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm\" target=\"_blank\" rel=\"noopener noreferrer\">ASML's Q3 2026 release as filed with the SEC</a> · ASML still does not report quarterly bookings, so the order interest cannot be checked independently</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>TSMC beat its own Q3 revenue guidance and guided Q4 higher again, and the thread's reaction was that it would sell off regardless.</strong>",
+              "html": "<p><strong>TSMC beat its own Q3 revenue guidance and guided Q4 higher again, and the thread's reaction was that it would sell off regardless.</strong> TSMC reported Q3 revenue of US$46.72 billion against prior guidance of $44.6–45.8 billion, a gross margin of 66.4% and an operating margin of 58.7%, and guided Q4 to $52.3–54.3 billion at a 65.0–67.0% gross margin. <a href=\"https://www.reddit.com/r/stocks/comments/1x6dw15/\" target=\"_blank\" rel=\"noopener noreferrer\">The r/stocks thread</a> posts the NT dollar figures — NT$1,494.24 billion of revenue, NT$763.06 billion of net income and NT$29.43 diluted EPS, revenue up 50.9% and net income and EPS up 68.7% year on year — and its top comments are variations of &quot;The best i can do is -5%&quot;. One commenter argued the tech move was an &quot;AI isn't going to be worth it&quot; move rather than a macro one, on the grounds that bonds reversed the same session.</p>",
+              "text": "TSMC beat its own Q3 revenue guidance and guided Q4 higher again, and the thread's reaction was that it would sell off regardless. TSMC reported Q3 revenue of US$46.72 billion against prior guidance of $44.6–45.8 billion, a gross margin of 66.4% and an operating margin of 58.7%, and guided Q4 to $52.3–54.3 billion at a 65.0–67.0% gross margin. The r/stocks thread posts the NT dollar figures — NT$1,494.24 billion of revenue, NT$763.06 billion of net income and NT$29.43 diluted EPS, revenue up 50.9% and net income and EPS up 68.7% year on year — and its top comments are variations of \"The best i can do is -5%\". One commenter argued the tech move was an \"AI isn't going to be worth it\" move rather than a macro one, on the grounds that bonds reversed the same session. Verified for the US dollar revenue, the margins and the Q4 guidance against TSMC's Q3 2026 results page · the NT dollar figures and the year-on-year percentages are as posted; that page did not display net income or EPS",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the US dollar revenue, the margins and the Q4 guidance against <a href=\"https://investor.tsmc.com/english/quarterly-results/2026/q3\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's Q3 2026 results page</a> · the NT dollar figures and the year-on-year percentages are as posted; that page did not display net income or EPS</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "investor.tsmc.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Netflix is cutting roughly 6% of its workforce, mainly in product, tech, legal and HR.</strong>",
+              "html": "<p><strong>Netflix is cutting roughly 6% of its workforce, mainly in product, tech, legal and HR.</strong> Per the co-CEOs' memo as reported by CNBC, &quot;our business is strong and growing, and we remain on track to deliver our full year forecast&quot;, and the cuts are framed as prioritisation rather than retrenchment. <a href=\"https://www.reddit.com/r/stocks/comments/1x5rvwu/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> (339 points) is mostly derision about programming quality and a repeated expectation that AI-produced content is the plan. On the stock, the useful exchange is one commenter calling it &quot;the only stock that's tanking on the news of a layoff&quot; and the reply that it is down less than peers and the timing simply coincided with the inflation print.</p>",
+              "text": "Netflix is cutting roughly 6% of its workforce, mainly in product, tech, legal and HR. Per the co-CEOs' memo as reported by CNBC, \"our business is strong and growing, and we remain on track to deliver our full year forecast\", and the cuts are framed as prioritisation rather than retrenchment. The thread (339 points) is mostly derision about programming quality and a repeated expectation that AI-produced content is the plan. On the stock, the useful exchange is one commenter calling it \"the only stock that's tanking on the news of a layoff\" and the reply that it is down less than peers and the timing simply coincided with the inflation print. Reported · the memo was obtained by CNBC and Netflix declined further comment; nothing was filed, and no share-price move is quoted here",
+              "status": "reported",
+              "status_html": "<p>Reported · the memo was obtained by CNBC and Netflix declined further comment; nothing was filed, and no share-price move is quoted here</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Lockheed Martin signed a cooperation agreement with Avio for a third source of solid rocket motors for its GMLRS and Precision Strike Missile lines.</strong>",
+              "html": "<p><strong>Lockheed Martin signed a cooperation agreement with Avio for a third source of solid rocket motors for its GMLRS and Precision Strike Missile lines.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x5kobq/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> dates the agreement to 13 October at the AUSA annual meeting and describes Lockheed gaining access to a share of merchant motor capacity at Avio USA's new plant in Hurt, Virginia, behind an investment of more than $500 million, with construction finishing in late 2028 and production starting in early 2029. The poster's own framing is that solid rocket motors are the limiting layer of the US tactical missile supply chain, that any share moving to Avio comes out of Northrop Grumman's and L3Harris Aerojet Rocketdyne's books, and that the thing to watch is a first definitized order rather than the announcement. It drew one comment.</p>",
+              "text": "Lockheed Martin signed a cooperation agreement with Avio for a third source of solid rocket motors for its GMLRS and Precision Strike Missile lines. The post dates the agreement to 13 October at the AUSA annual meeting and describes Lockheed gaining access to a share of merchant motor capacity at Avio USA's new plant in Hurt, Virginia, behind an investment of more than $500 million, with construction finishing in late 2028 and production starting in early 2029. The poster's own framing is that solid rocket motors are the limiting layer of the US tactical missile supply chain, that any share moving to Avio comes out of Northrop Grumman's and L3Harris Aerojet Rocketdyne's books, and that the thing to watch is a first definitized order rather than the announcement. It drew one comment. Single source · the agreement, the dates and the investment figure are as posted from Breaking Defense coverage and were not checked against either company's release",
+              "status": "single-source",
+              "status_html": "<p>Single source · the agreement, the dates and the investment figure are as posted from Breaking Defense coverage and were not checked against either company's release</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Where is the &quot;5% with low risk&quot; the financial press keeps mentioning? In a Treasury note or bond held to maturity, not in a bond ETF.</strong>",
+              "html": "<p><strong>Where is the &quot;5% with low risk&quot; the financial press keeps mentioning? In a Treasury note or bond held to maturity, not in a bond ETF.</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x5vx8d/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> asks why every bond fund the poster looked at lost value this year. The distinction commenters drew: an individual Treasury held to maturity locks in its yield, while a fund keeps rolling its holdings, so its price falls when yields rise — and the fix if you still want a fund is duration, because short-duration funds take less damage from rising rates and reprice into higher yields faster. Commenters' quoted figures: the 10-year at about 5.2% and the 2-year at 4.84%, T-bill ETFs around 3.75%, and AAA CLO ETFs around 4.8% over the past year. One reply states the rule the question needed: &quot;Don't confuse <em>low risk</em> with no risk.&quot; Another notes the long-run real return on global equities is also about 5%, and is not low risk.</p>",
+              "text": "Where is the \"5% with low risk\" the financial press keeps mentioning? In a Treasury note or bond held to maturity, not in a bond ETF. The thread asks why every bond fund the poster looked at lost value this year. The distinction commenters drew: an individual Treasury held to maturity locks in its yield, while a fund keeps rolling its holdings, so its price falls when yields rise — and the fix if you still want a fund is duration, because short-duration funds take less damage from rising rates and reprice into higher yields faster. Commenters' quoted figures: the 10-year at about 5.2% and the 2-year at 4.84%, T-bill ETFs around 3.75%, and AAA CLO ETFs around 4.8% over the past year. One reply states the rule the question needed: \"Don't confuse low risk with no risk.\" Another notes the long-run real return on global equities is also about 5%, and is not low risk. Reported · the fund and bill yields are commenters' and were not checked; the 10-year and 2-year levels are close to Treasury's 14 October figures of 5.19% and 4.82%",
+              "status": "reported",
+              "status_html": "<p>Reported · the fund and bill yields are commenters' and were not checked; the 10-year and 2-year levels are close to Treasury's 14 October figures of 5.19% and 4.82%</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>What a closed-end fund's premium to NAV is, and why nothing drags it back.</strong>",
+              "html": "<p><strong>What a closed-end fund's premium to NAV is, and why nothing drags it back.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x5pzdk/\" target=\"_blank\" rel=\"noopener noreferrer\">An r/stocks post</a> uses a robotics closed-end fund that holds private companies, and whose own SEC filing is said to disclose a 151% premium — a $11.32 NAV per share at the end of July against roughly $28 on 20 August. The mechanism the poster explains is the useful part: a closed-end fund has no creation-and-redemption mechanism to keep price near NAV, so the premium can keep widening on demand and unwind just as fast, which is the same pattern a different fund showed earlier this year on pre-IPO exposure. The comments are mostly mood rather than analysis; one reply calls the premium &quot;the price of fomo on something that might be years from a real exit&quot;.</p>",
+              "text": "What a closed-end fund's premium to NAV is, and why nothing drags it back. An r/stocks post uses a robotics closed-end fund that holds private companies, and whose own SEC filing is said to disclose a 151% premium — a $11.32 NAV per share at the end of July against roughly $28 on 20 August. The mechanism the poster explains is the useful part: a closed-end fund has no creation-and-redemption mechanism to keep price near NAV, so the premium can keep widening on demand and unwind just as fast, which is the same pattern a different fund showed earlier this year on pre-IPO exposure. The comments are mostly mood rather than analysis; one reply calls the premium \"the price of fomo on something that might be years from a real exit\". Single source · the NAV, the price and the 151% figure are the poster's and were not checked against the filing",
+              "status": "single-source",
+              "status_html": "<p>Single source · the NAV, the price and the 151% figure are the poster's and were not checked against the filing</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>With the 10-year above 5%, what would still make someone choose stocks over bonds?</strong>",
+              "html": "<p><strong>With the 10-year above 5%, what would still make someone choose stocks over bonds?</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x5k7fx/\" target=\"_blank\" rel=\"noopener noreferrer\">The r/investing thread</a> (205 points) got the run's best exchange on exactly that. The top comment is &quot;QQQ is up 25% over the last 12 months. Why would I settle for 5%?&quot;; the reply that beat it, at 321 points, is that this compares a trailing number to a forward-looking one — &quot;its like driving using only the rearview mirror&quot;. The arguments for equities anyway: a long-run index average commenters put near 10%, that 5% is nominal while company revenues grow with inflation and coupons do not, and that Treasury interest is taxed less favourably than deferred capital gains. The most detailed bear case assembles concentration and cost of capital — that AI and hyperscaler outperformance hides most of the index, and that inflation and higher rates squeeze margins and debt service at the same time, with Berkshire's own Q2 cash and short-term Treasury position cited as the example. Several replies make the point the question skipped: it is not all-or-nothing, and the answer depends on how far someone is from needing the money.</p>",
+              "text": "With the 10-year above 5%, what would still make someone choose stocks over bonds? The r/investing thread (205 points) got the run's best exchange on exactly that. The top comment is \"QQQ is up 25% over the last 12 months. Why would I settle for 5%?\"; the reply that beat it, at 321 points, is that this compares a trailing number to a forward-looking one — \"its like driving using only the rearview mirror\". The arguments for equities anyway: a long-run index average commenters put near 10%, that 5% is nominal while company revenues grow with inflation and coupons do not, and that Treasury interest is taxed less favourably than deferred capital gains. The most detailed bear case assembles concentration and cost of capital — that AI and hyperscaler outperformance hides most of the index, and that inflation and higher rates squeeze margins and debt service at the same time, with Berkshire's own Q2 cash and short-term Treasury position cited as the example. Several replies make the point the question skipped: it is not all-or-nothing, and the answer depends on how far someone is from needing the money. Single source · every figure in it is a commenter's, including the Berkshire position and the index averages",
+              "status": "single-source",
+              "status_html": "<p>Single source · every figure in it is a commenter's, including the Berkshire position and the index averages</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The case against putting a whole portfolio in Alphabet drew a correction that undercut its own premise.</strong>",
+              "html": "<p><strong>The case against putting a whole portfolio in Alphabet drew a correction that undercut its own premise.</strong> <a href=\"https://www.reddit.com/r/investing/comments/1x4x9ak/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (309 points) revisits an earlier all-in-on-Google thread and argues the diversified-conglomerate defence is the same one GE had 30 years ago, with search as the core business most at risk from AI summarisation. The top comment, at 739 points, is that Google's core is not search but advertising — and the follow-ups extend it: ads, sources and YouTube embeds already appear inside AI answers, and an assistant can be trained to recommend products, which is a larger ad surface rather than a smaller one. The counterpoint that held up is the one the post actually argued, that no single company deserves a whole portfolio regardless of its moat.</p>",
+              "text": "The case against putting a whole portfolio in Alphabet drew a correction that undercut its own premise. The post (309 points) revisits an earlier all-in-on-Google thread and argues the diversified-conglomerate defence is the same one GE had 30 years ago, with search as the core business most at risk from AI summarisation. The top comment, at 739 points, is that Google's core is not search but advertising — and the follow-ups extend it: ads, sources and YouTube embeds already appear inside AI answers, and an assistant can be trained to recommend products, which is a larger ad surface rather than a smaller one. The counterpoint that held up is the one the post actually argued, that no single company deserves a whole portfolio regardless of its moat. Single source · the GE history and the Berkshire position sizes quoted in replies are commenters' and were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the GE history and the Berkshire position sizes quoted in replies are commenters' and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Micron looks cheap on forward earnings because the market is pricing the end of a memory cycle, not the current one.</strong>",
+              "html": "<p><strong>Micron looks cheap on forward earnings because the market is pricing the end of a memory cycle, not the current one.</strong> <a href=\"https://www.reddit.com/r/stocks/comments/1x5kjrh/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> (162 points) asks what a low forward multiple alongside record results is missing. The agreed answer is cyclicality, and the best replies split on whether it still applies: one argues memory is a near-commodity whose makers race to the bottom on price, so the ramp-up phase always ends in oversupply; another argues agentic and physical AI make demand structurally steadier than Wall Street expects. The most careful comment reframes the risk entirely — the old fear was overproduction into a buyer's market, while the current multiple reflects a different fear, that demand itself disappears, which is why a single CEO remark or a China oversupply headline moves the stock so much. A separate claim that the memory shortage persists to 2029 is a commenter's.</p>",
+              "text": "Micron looks cheap on forward earnings because the market is pricing the end of a memory cycle, not the current one. The thread (162 points) asks what a low forward multiple alongside record results is missing. The agreed answer is cyclicality, and the best replies split on whether it still applies: one argues memory is a near-commodity whose makers race to the bottom on price, so the ramp-up phase always ends in oversupply; another argues agentic and physical AI make demand structurally steadier than Wall Street expects. The most careful comment reframes the risk entirely — the old fear was overproduction into a buyer's market, while the current multiple reflects a different fear, that demand itself disappears, which is why a single CEO remark or a China oversupply headline moves the stock so much. A separate claim that the memory shortage persists to 2029 is a commenter's. Single source · all valuation and timing claims are commenters'",
+              "status": "single-source",
+              "status_html": "<p>Single source · all valuation and timing claims are commenters'</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The two subs have split.",
+              "html": "<p>The two subs have split. r/stocks is shopping: a 269-point thread asks for the week's best dip buys and a 548-point one asks which single stock to hold for ten years, and the dominant replies to the semiconductor selloff are that good prints were sold for positioning reasons. r/investing is de-risking: threads on pulling cash to the sidelines, surviving a recession, stop-loss orders on retirement funds, and whether a dividend ETF is the place to rotate into all drew heavy comment counts this run.</p>",
+              "text": "The two subs have split. r/stocks is shopping: a 269-point thread asks for the week's best dip buys and a 548-point one asks which single stock to hold for ten years, and the dominant replies to the semiconductor selloff are that good prints were sold for positioning reasons. r/investing is de-risking: threads on pulling cash to the sidelines, surviving a recession, stop-loss orders on retirement funds, and whether a dividend ETF is the place to rotate into all drew heavy comment counts this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "October crash lore is circulating as its own genre — a 103-point r/investing post lists 1907, 1929, 1987 and 2008 with no argument attached.",
+              "html": "<p>October crash lore is circulating as its own genre — a 103-point r/investing post lists 1907, 1929, 1987 and 2008 with no argument attached. Treat the mood, not the history, as the datapoint.</p>",
+              "text": "October crash lore is circulating as its own genre — a 103-point r/investing post lists 1907, 1929, 1987 and 2008 with no argument attached. Treat the mood, not the history, as the datapoint.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The bubble argument has narrowed again, from concentration last run to financing this one: CoreWeave&#x27;s bond yields, distressed data-centre debt, and whether…",
+              "html": "<p>The bubble argument has narrowed again, from concentration last run to financing this one: CoreWeave's bond yields, distressed data-centre debt, and whether unprofitable buyers can pay the committed bills are what the AI bears in both subs now reach for first. The specific figures in those comments are unsourced.</p>",
+              "text": "The bubble argument has narrowed again, from concentration last run to financing this one: CoreWeave's bond yields, distressed data-centre debt, and whether unprofitable buyers can pay the committed bills are what the AI bears in both subs now reach for first. The specific figures in those comments are unsourced.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing.",
+              "html": "<p><strong>Read:</strong> stocks, investing. <strong>Sources checked:</strong> the BLS CPI and PPI releases (both loaded), the BLS CPI and Employment Situation release schedules, the Federal Reserve monetary-policy feed and FOMC calendar, and Treasury's daily yield curve, which loaded correctly this run after failing with HTTP 406 in the last one. Gartner's own newsroom page returned HTTP 403 and ASML's investor-site release returned HTTP 403; the SEC-filed copy of the ASML release was read instead.</p>",
+              "text": "Read: stocks, investing. Sources checked: the BLS CPI and PPI releases (both loaded), the BLS CPI and Employment Situation release schedules, the Federal Reserve monetary-policy feed and FOMC calendar, and Treasury's daily yield curve, which loaded correctly this run after failing with HTTP 406 in the last one. Gartner's own newsroom page returned HTTP 403 and ASML's investor-site release returned HTTP 403; the SEC-filed copy of the ASML release was read instead.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the Federal Reserve published the minutes of its Board discount rate meetings of 17 August, 9 September and 16 September on 13 October.",
+              "html": "<p><strong>Announced, not discussed:</strong> the Federal Reserve published <a href=\"https://www.federalreserve.gov/feeds/press_monetary.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the minutes of its Board discount rate meetings of 17 August, 9 September and 16 September</a> on 13 October. Neither sub mentioned them in any post this run.</p>",
+              "text": "Announced, not discussed: the Federal Reserve published the minutes of its Board discount rate meetings of 17 August, 9 September and 16 September on 13 October. Neither sub mentioned them in any post this run. Verified against the Fed's monetary-policy release feed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Fed's monetary-policy release feed</p>",
+              "updated": null,
+              "sources": [
+                "Federal Reserve"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong>",
+              "html": "<p><strong>Flagged terms set aside:</strong></p>\n<ul>\n<li><em>iran</em>: covered in Must know — it is the energy-price mechanism the CPI and PPI posts attribute the prints to, which is the posters' attribution and not a finding in either BLS release</li>\n<li><em>nbis</em>: covered under the Gartner neocloud item in Markets and macro</li>\n<li><em>nvda</em>: appears only in two personal-pick threads — the week's dip buys and the single-stock-for-ten-years question — which this feed skips as portfolio posts rather than market news</li>\n</ul>",
+              "text": "Flagged terms set aside: iran : covered in Must know — it is the energy-price mechanism the CPI and PPI posts attribute the prints to, which is the posters' attribution and not a finding in either BLS release nbis : covered under the Gartner neocloud item in Markets and macro nvda : appears only in two personal-pick threads — the week's dip buys and the single-stock-for-ten-years question — which this feed skips as portfolio posts rather than market news",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Window:</strong> the previous entry was 2026-10-12, three days ago, which is the feed&#x27;s cadence; no gap to cover.",
+              "html": "<p><strong>Window:</strong> the previous entry was 2026-10-12, three days ago, which is the feed's cadence; no gap to cover.</p>",
+              "text": "Window: the previous entry was 2026-10-12, three days ago, which is the feed's cadence; no gap to cover.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "title": "Stocks & investing digest",
@@ -613,30 +951,43 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>September CPI is released 14 October at 8:30 a.m. ET, then October CPI on 10 November and November CPI on 10 December.</strong>",
-          "html": "<p><strong>September CPI is released 14 October at 8:30 a.m. ET, then October CPI on 10 November and November CPI on 10 December.</strong> The subs treat the 14 October print as the swing factor for semiconductor multiples, because ASML reports the same morning.</p>",
-          "text": "September CPI is released 14 October at 8:30 a.m. ET, then October CPI on 10 November and November CPI on 10 December. The subs treat the 14 October print as the swing factor for semiconductor multiples, because ASML reports the same morning. Verified against the BLS CPI release schedule · 2026-10-12",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.bls.gov/schedule/news_release/cpi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the BLS CPI release schedule</a> · 2026-10-12</p>",
-          "updated": "2026-10-12",
-          "sources": [
-            "bls.gov"
-          ],
-          "due": "2026-10-14",
-          "due_label": "September CPI"
-        },
-        {
           "headline": "<strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong>",
-          "html": "<p><strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong> The September minutes say most officials expect &quot;another increase in the target range for the federal funds rate&quot; to &quot;likely be appropriate by year end&quot;.</p>",
-          "text": "Next Fed meeting: 27–28 October 2026, then 8–9 December. The September minutes say most officials expect \"another increase in the target range for the federal funds rate\" to \"likely be appropriate by year end\". Verified against the Fed's calendar and the September minutes · 2026-10-09",
+          "html": "<p><strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong> The September minutes say most officials expect &quot;another increase in the target range for the federal funds rate&quot; to &quot;likely be appropriate by year end&quot;. September CPI and PPI both came in above forecasts ahead of it.</p>",
+          "text": "Next Fed meeting: 27–28 October 2026, then 8–9 December. The September minutes say most officials expect \"another increase in the target range for the federal funds rate\" to \"likely be appropriate by year end\". September CPI and PPI both came in above forecasts ahead of it. Verified against the Fed's calendar and the September minutes · re-checked 2026-10-15",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's calendar</a> and <a href=\"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the September minutes</a> · 2026-10-09</p>",
-          "updated": "2026-10-09",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's calendar</a> and <a href=\"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the September minutes</a> · re-checked 2026-10-15</p>",
+          "updated": "2026-10-15",
           "sources": [
             "Federal Reserve"
           ],
           "due": "2026-10-28",
           "due_label": "decision day"
+        },
+        {
+          "headline": "<strong>September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly.</strong>",
+          "html": "<p><strong>September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly.</strong> Gasoline did most of it — up 9.1% in the month and 34.2% over the year, more than half the monthly all-items increase. The PPI annual gain is the largest since December 2022. Next: October CPI on 10 November, November CPI on 10 December; October jobs on 6 November, November jobs on 4 December.</p>",
+          "text": "September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly. Gasoline did most of it — up 9.1% in the month and 34.2% over the year, more than half the monthly all-items increase. The PPI annual gain is the largest since December 2022. Next: October CPI on 10 November, November CPI on 10 December; October jobs on 6 November, November jobs on 4 December. Verified against the BLS releases of 14 October and 15 October , and the dates against the CPI and Employment Situation schedules · 2026-10-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against the BLS releases of <a href=\"https://www.bls.gov/news.release/cpi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">14 October</a> and <a href=\"https://www.bls.gov/news.release/ppi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">15 October</a>, and the dates against the <a href=\"https://www.bls.gov/schedule/news_release/cpi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">CPI</a> and <a href=\"https://www.bls.gov/schedule/news_release/empsit.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Employment Situation</a> schedules · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "bls.gov"
+          ],
+          "due": "2026-11-10",
+          "due_label": "October CPI"
+        },
+        {
+          "headline": "<strong>The 10-year Treasury yield closed at 5.19% on 14 October, the 2-year at 4.82% and the 30-year at 5.52%.</strong>",
+          "html": "<p><strong>The 10-year Treasury yield closed at 5.19% on 14 October, the 2-year at 4.82% and the 30-year at 5.52%.</strong> Kept because several threads argue from &quot;yields above 5%&quot; without naming a maturity or a date. The 10-year was 5.02% on 9 October.</p>",
+          "text": "The 10-year Treasury yield closed at 5.19% on 14 October, the 2-year at 4.82% and the 30-year at 5.52%. Kept because several threads argue from \"yields above 5%\" without naming a maturity or a date. The 10-year was 5.02% on 9 October. Verified against Treasury's daily yield curve · 2026-10-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's daily yield curve</a> · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "home.treasury.gov"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>The Reserve Bank of India raised its repo rate 25 basis points to 5.50% on 7 October and moved its stance to &quot;calibrated tightening&quot;.</strong>",
@@ -659,20 +1010,6 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>ASML reports Q3 2026 before the US open on 14 October; TSMC's earnings call is 15 October.</strong>",
-          "html": "<p><strong>ASML reports Q3 2026 before the US open on 14 October; TSMC's earnings call is 15 October.</strong> The test named in the threads is whether ASML's Q4 implication clears roughly €13.4 billion, against a €43–45 billion full-year guide and a €9.7 billion previous record quarter, and whether TSMC trims 2026 capital-spending commentary. ASML no longer discloses quarterly bookings, so the order book cannot be checked independently.</p>",
-          "text": "ASML reports Q3 2026 before the US open on 14 October; TSMC's earnings call is 15 October. The test named in the threads is whether ASML's Q4 implication clears roughly €13.4 billion, against a €43–45 billion full-year guide and a €9.7 billion previous record quarter, and whether TSMC trims 2026 capital-spending commentary. ASML no longer discloses quarterly bookings, so the order book cannot be checked independently. Verified for the guidance against ASML's Q2 release and for the call date against TSMC's teleconference page · the €13.4 billion threshold is a poster's arithmetic · 2026-10-12",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for the guidance against <a href=\"https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results\" target=\"_blank\" rel=\"noopener noreferrer\">ASML's Q2 release</a> and for the call date against <a href=\"https://investor.tsmc.com/english/quarterly-results/teleconference\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's teleconference page</a> · the €13.4 billion threshold is a poster's arithmetic · 2026-10-12</p>",
-          "updated": "2026-10-12",
-          "sources": [
-            "asml.com",
-            "investor.tsmc.com"
-          ],
-          "due": "2026-10-14",
-          "due_label": "ASML Q3 results"
-        },
-        {
           "headline": "<strong>Sandisk reports on 29 October.</strong>",
           "html": "<p><strong>Sandisk reports on 29 October.</strong> The question the subs want answered is NAND pricing guidance and enterprise SSD mix, which Micron's HBM backlog does not speak to.</p>",
           "text": "Sandisk reports on 29 October. The question the subs want answered is NAND pricing guidance and enterprise SSD mix, which Micron's HBM backlog does not speak to. Reported · the date is as posted and was not checked against Sandisk's investor calendar · 2026-10-12",
@@ -693,6 +1030,31 @@
           "sources": [],
           "due": "2026-12-09",
           "due_label": "180-day lockup"
+        },
+        {
+          "headline": "<strong>ASML and TSMC both cleared the test the subs set, and the open question moved to capacity.</strong>",
+          "html": "<p><strong>ASML and TSMC both cleared the test the subs set, and the open question moved to capacity.</strong> ASML's Q3 net sales were €11.7 billion with net income of €5.0 billion and a 57.5% gross margin; Q4 is guided to €14.2–15.2 billion, well above the roughly €13.4 billion a poster's arithmetic said the full-year low end needed, and the full year is now guided to €44–45 billion. ASML says planned 2027 and 2028 supply &quot;will not fully meet the demand of our customers&quot; and it is investigating capacity for 2028 beyond the 30% increase previously communicated. TSMC's Q3 revenue was US$46.72 billion against $44.6–45.8 billion guided, with Q4 guided to $52.3–54.3 billion. ASML still publishes no quarterly bookings, so the claimed order interest into 2029 and 2030 cannot be checked independently.</p>",
+          "text": "ASML and TSMC both cleared the test the subs set, and the open question moved to capacity. ASML's Q3 net sales were €11.7 billion with net income of €5.0 billion and a 57.5% gross margin; Q4 is guided to €14.2–15.2 billion, well above the roughly €13.4 billion a poster's arithmetic said the full-year low end needed, and the full year is now guided to €44–45 billion. ASML says planned 2027 and 2028 supply \"will not fully meet the demand of our customers\" and it is investigating capacity for 2028 beyond the 30% increase previously communicated. TSMC's Q3 revenue was US$46.72 billion against $44.6–45.8 billion guided, with Q4 guided to $52.3–54.3 billion. ASML still publishes no quarterly bookings, so the claimed order interest into 2029 and 2030 cannot be checked independently. Verified against ASML's Q3 release as filed with the SEC and TSMC's Q3 results page · neither company's Q4 reporting date was checked, so none is given here · 2026-10-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm\" target=\"_blank\" rel=\"noopener noreferrer\">ASML's Q3 release as filed with the SEC</a> and <a href=\"https://investor.tsmc.com/english/quarterly-results/2026/q3\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's Q3 results page</a> · neither company's Q4 reporting date was checked, so none is given here · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "SEC filing",
+            "investor.tsmc.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Anthropic is reported to be targeting an IPO as early as mid-November at a valuation above $2 trillion.</strong>",
+          "html": "<p><strong>Anthropic is reported to be targeting an IPO as early as mid-November at a valuation above $2 trillion.</strong> It told investors on 14 October that Q3 revenue was $16.8 billion, up about 46% on Q2, with an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability and positive free cash flow, against at least $518 billion of compute commitments over the next decade. &quot;Adjusted&quot; is undefined until the S-1.</p>",
+          "text": "Anthropic is reported to be targeting an IPO as early as mid-November at a valuation above $2 trillion. It told investors on 14 October that Q3 revenue was $16.8 billion, up about 46% on Q2, with an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability and positive free cash flow, against at least $518 billion of compute commitments over the next decade. \"Adjusted\" is undefined until the S-1. Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of a Financial Times report · the FT article is paywalled, the company has published nothing, and no listing date is confirmed · 2026-10-15",
+          "status": "reported",
+          "status_html": "<p>Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of a Financial Times report · the FT article is paywalled, the company has published nothing, and no listing date is confirmed · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>SpaceX's purchase of Grain's 800 MHz spectrum needs FCC approval.</strong>",
@@ -741,6 +1103,19 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument.</strong>",
+          "html": "<p><strong>Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument.</strong> Gartner's release of 14 October says more than $3.5 trillion of AI infrastructure spending &quot;could be exposed to impairment by the end of 2030&quot; and that 80% of neocloud providers &quot;could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers&quot;. Its figures as reported: nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion from 2027 to 2030, against a cumulative $8.5 trillion of revenue needed to cover capital, financing and a 12% return, and no more than $3.6 trillion forecast. Posts shorten &quot;cease independent operations&quot; to &quot;cease to exist&quot;, which Gartner does not say.</p>",
+          "text": "Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument. Gartner's release of 14 October says more than $3.5 trillion of AI infrastructure spending \"could be exposed to impairment by the end of 2030\" and that 80% of neocloud providers \"could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers\". Its figures as reported: nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion from 2027 to 2030, against a cumulative $8.5 trillion of revenue needed to cover capital, financing and a 12% return, and no more than $3.6 trillion forecast. Posts shorten \"cease independent operations\" to \"cease to exist\", which Gartner does not say. Verified for the 80% wording and the $3.5 trillion figure against Telecompaper's quotation of Gartner's release · the other figures are Reported; Gartner's own newsroom page returned HTTP 403 · 2026-10-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the 80% wording and the $3.5 trillion figure against <a href=\"https://www.telecompaper.com/news/gartner-sees-neoclouds-as-vulnerable-to-weak-returns-amid-insufficient-ai-revenue-in-run-up-to-2030--1585707\" target=\"_blank\" rel=\"noopener noreferrer\">Telecompaper's quotation of Gartner's release</a> · the other figures are Reported; Gartner's own newsroom page returned HTTP 403 · 2026-10-15</p>",
+          "updated": "2026-10-15",
+          "sources": [
+            "telecompaper.com"
+          ],
+          "due": "2030-12-31",
+          "due_label": "the forecast horizon"
+        },
+        {
           "headline": "<strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong>",
           "html": "<p><strong>&quot;The S&amp;P 500 is just an AI index now.&quot;</strong> The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter. Corroborated on 2026-10-12 by a bull-case thread whose best replies both argued concentration rather than valuation: that index weighting sends about 41% of inflows to the top 10, and that the cap-weighted index rose while the equal-weighted one fell over the same stretch.</p>",
           "text": "\"The S&P 500 is just an AI index now.\" The top 10 stocks are said to be about 40% of the index, and Goldman's traders say the index no longer tracks macro risk. The counterargument is that earnings breadth was strong in the second quarter. Corroborated on 2026-10-12 by a bull-case thread whose best replies both argued concentration rather than valuation: that index weighting sends about 41% of inflows to the top 10, and that the cap-weighted index rose while the equal-weighted one fell over the same stretch. Single source each time; figures as posted · 2026-10-12",
@@ -753,11 +1128,11 @@
         },
         {
           "headline": "<strong>&quot;The AI capital-spending chain is circular.&quot;</strong>",
-          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: this run it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply.</p>",
-          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: this run it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. Single source each time; all figures as posted · 2026-10-12",
+          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills.</p>",
+          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. Single source each time; all figures as posted · 2026-10-15",
           "status": "single-source",
-          "status_html": "<p>Single source each time; all figures as posted · 2026-10-12</p>",
-          "updated": "2026-10-12",
+          "status_html": "<p>Single source each time; all figures as posted · 2026-10-15</p>",
+          "updated": "2026-10-15",
           "sources": [],
           "due": null,
           "due_label": null
