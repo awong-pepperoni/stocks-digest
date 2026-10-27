@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-27",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,295 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-27",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Anthropic's public S-1, filed on 26 October, took over both subs: the run's top r/stocks post at 1,510 points, the top r/investing news post at 919, and a long bear case whose best reply rebuts it line by line from the filing. The rest of the run is the same funding story from other directions: Meta's $95 billion equity raise with Nvidia buying in, SpaceX's $40 billion of GPU debt and Musk's warning to the neoclouds, and the WSJ's account of how Broadcom's CEO kept Anthropic's chip-lease debt deal together. Microsoft's buyout offer to about 60,000 employees was the one non-financing story to draw near-thousand-point attention. The FOMC decision lands tomorrow, 28 October.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Anthropic filed its S-1 publicly on 26 October, and the subs' $80.7 billion loss headline is mostly a non-cash charge on convertible notes.</strong>",
+              "html": "<p><strong>Anthropic filed its S-1 publicly on 26 October, and the subs' $80.7 billion loss headline is mostly a non-cash charge on convertible notes.</strong> The filing is on EDGAR; the <a href=\"https://www.reddit.com/r/stocks/comments/1xfwuks/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread</a> (1,510 points, 513 comments) and the <a href=\"https://www.reddit.com/r/investing/comments/1xfwwbo/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing thread</a> (919 points, 477 comments) led their subs.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is the first time the financials of a frontier AI lab are public, and it settles the dispute in the last entry: the net loss is about $80 billion, not $8 billion, but commenters on both subs say about $72 billion of it is the convertible notes' fair-value mark, leaving an underlying loss of &quot;some 8 billion&quot;. It also puts numbers on the compute commitments that the &quot;circular AI spending&quot; debate has been arguing about with estimates.</li>\n<li><strong>What to watch:</strong> an amended S-1 with a price range and share count; the listing date, which no source confirms (the tracker carries a reported November window); the ticker &quot;ANT&quot;, as reported by Yahoo Finance.</li>\n<li><strong>Numbers:</strong> Reported by Yahoo Finance: revenue of $16.3 billion in the six months to June against $4.6 billion for all of 2025; a net loss of $80.7 billion through June and $42 billion in 2025; &quot;upward of $430 billion&quot; of locked-in compute deals, rising to as much as $637 billion with cancellable and smaller ones. As posted, from the filing but not checked by me: a $72.4 billion Q2 loss on the notes' fair value, $131.7 billion of cash and near-cash, a Q2 operating profit of $1.03 billion, $265.6 billion of fixed purchase commitments plus $321.4 billion of leases not yet started, and 48% of revenue through the AWS and Google marketplaces. A <a href=\"https://www.reddit.com/r/stocks/comments/1xg1vfi/\" target=\"_blank\" rel=\"noopener noreferrer\">unit-economics post</a> puts the H1 2026 gross margin at 85%, from 12% a year earlier, and the Q2 operating margin at 8%. A <a href=\"https://www.reddit.com/r/investing/comments/1xg3ih3/\" target=\"_blank\" rel=\"noopener noreferrer\">separate thread</a> on a SpaceX compute deal of &quot;up to $120.5 billion&quot; drew the correction that it is &quot;up to&quot; that amount, cancellable on 90 days' notice, roughly $3.1 billion a month.</li>\n<li><strong>Caveats:</strong> the run's most-read analysis, a <a href=\"https://www.reddit.com/r/stocks/comments/1xg9f2s/\" target=\"_blank\" rel=\"noopener noreferrer\">485-point bear case</a> arguing that the filing hides weak margins, uses the notes to subsidise training, and inflates revenue through the marketplaces, was answered point by point by a commenter citing the filing's notes. The commenter says cost of revenue is broken out at $2.38 billion against $16.29 billion of revenue, that the notes were issued for $11.25 billion in cash, not compute, that ASC 842 doesn't let leases be &quot;deferred indefinitely&quot;, and that gross reporting is correct when Anthropic is principal. The bear post's own later edit concedes the $72.4 billion is &quot;an unrealized equity fair-value mark&quot;, and one commenter says the post was written by AI. One substantive bear point was sourced in the replies: the filing's footnote says sales and marketing includes &quot;compute and infrastructure costs associated with providing free access&quot;, so some compute sits outside the compute line.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the S-1 on EDGAR</a>.</li>\n</ul>",
+              "text": "Anthropic filed its S-1 publicly on 26 October, and the subs' $80.7 billion loss headline is mostly a non-cash charge on convertible notes. The filing is on EDGAR; the r/stocks thread (1,510 points, 513 comments) and the r/investing thread (919 points, 477 comments) led their subs. Why it matters: it is the first time the financials of a frontier AI lab are public, and it settles the dispute in the last entry: the net loss is about $80 billion, not $8 billion, but commenters on both subs say about $72 billion of it is the convertible notes' fair-value mark, leaving an underlying loss of \"some 8 billion\". It also puts numbers on the compute commitments that the \"circular AI spending\" debate has been arguing about with estimates. What to watch: an amended S-1 with a price range and share count; the listing date, which no source confirms (the tracker carries a reported November window); the ticker \"ANT\", as reported by Yahoo Finance. Numbers: Reported by Yahoo Finance: revenue of $16.3 billion in the six months to June against $4.6 billion for all of 2025; a net loss of $80.7 billion through June and $42 billion in 2025; \"upward of $430 billion\" of locked-in compute deals, rising to as much as $637 billion with cancellable and smaller ones. As posted, from the filing but not checked by me: a $72.4 billion Q2 loss on the notes' fair value, $131.7 billion of cash and near-cash, a Q2 operating profit of $1.03 billion, $265.6 billion of fixed purchase commitments plus $321.4 billion of leases not yet started, and 48% of revenue through the AWS and Google marketplaces. A unit-economics post puts the H1 2026 gross margin at 85%, from 12% a year earlier, and the Q2 operating margin at 8%. A separate thread on a SpaceX compute deal of \"up to $120.5 billion\" drew the correction that it is \"up to\" that amount, cancellable on 90 days' notice, roughly $3.1 billion a month. Caveats: the run's most-read analysis, a 485-point bear case arguing that the filing hides weak margins, uses the notes to subsidise training, and inflates revenue through the marketplaces, was answered point by point by a commenter citing the filing's notes. The commenter says cost of revenue is broken out at $2.38 billion against $16.29 billion of revenue, that the notes were issued for $11.25 billion in cash, not compute, that ASC 842 doesn't let leases be \"deferred indefinitely\", and that gross reporting is correct when Anthropic is principal. The bear post's own later edit concedes the $72.4 billion is \"an unrealized equity fair-value mark\", and one commenter says the post was written by AI. One substantive bear point was sourced in the replies: the filing's footnote says sales and marketing includes \"compute and infrastructure costs associated with providing free access\", so some compute sits outside the compute line. Read next: the S-1 on EDGAR . Verified that Anthropic, PBC filed an S-1 on 26 October against EDGAR (accession 0001628280-26-067168) · revenue, net loss and commitments Reported from Yahoo Finance · the S-1 was too large to fetch, so every other figure, and the SpaceX deal's $120.5 billion and its terms, is as commenters state it and Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> that Anthropic, PBC filed an S-1 on 26 October against <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR</a> (accession 0001628280-26-067168) · revenue, net loss and commitments Reported from <a href=\"https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance</a> · the S-1 was too large to fetch, so every other figure, and the SpaceX deal's $120.5 billion and its terms, is as commenters state it and <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "SEC filing",
+                "Yahoo Finance"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The 10-year Treasury closed at 5.00% on 26 October, unchanged from Friday, with the 2-year at 4.68% and the 30-year at 5.31%.</strong>",
+              "html": "<p><strong>The 10-year Treasury closed at 5.00% on 26 October, unchanged from Friday, with the 2-year at 4.68% and the 30-year at 5.31%.</strong> A <a href=\"https://www.reddit.com/r/stocks/comments/1xfspoa/\" target=\"_blank\" rel=\"noopener noreferrer\">10-point r/stocks preview</a> of the week gives futures &quot;about 90% odds of a hold at 3.75-4.00%&quot; for the 28 October FOMC decision, and an <a href=\"https://www.reddit.com/r/investing/comments/1xeraf9/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing post</a> says hyperscaler capex guidance from Microsoft, Alphabet and Amazon matters more to equities than the Fed this week. A <a href=\"https://www.reddit.com/r/stocks/comments/1xf9ci5/\" target=\"_blank\" rel=\"noopener noreferrer\">247-point r/stocks thread</a> lists the earnings calendar: Microsoft and Alphabet after the Fed on Wednesday, Amazon, Intel and Eli Lilly on Thursday.</p>",
+              "text": "The 10-year Treasury closed at 5.00% on 26 October, unchanged from Friday, with the 2-year at 4.68% and the 30-year at 5.31%. A 10-point r/stocks preview of the week gives futures \"about 90% odds of a hold at 3.75-4.00%\" for the 28 October FOMC decision, and an r/investing post says hyperscaler capex guidance from Microsoft, Alphabet and Amazon matters more to equities than the Fed this week. A 247-point r/stocks thread lists the earnings calendar: Microsoft and Alphabet after the Fed on Wednesday, Amazon, Intel and Eli Lilly on Thursday. Verified for the yields against Treasury's October par curve and the meeting date against the Fed's calendar · the futures odds and the earnings dates are posters' and were not checked",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the yields against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's October par curve</a> and the meeting date against the Fed's calendar · the futures odds and the earnings dates are posters' and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "home.treasury.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Brent at $117 and the SPR has nothing left to give&quot; drew 362 points, and the best-sourced reply disputes the SPR half.</strong>",
+              "html": "<p><strong>&quot;Brent at $117 and the SPR has nothing left to give&quot; drew 362 points, and the best-sourced reply disputes the SPR half.</strong> The poster says Brent closed at $117.10 after Houthi strikes on Saudi energy infrastructure, and that the Strategic Petroleum Reserve is at its lowest since 1982. A commenter puts the reserve at 282.7 million barrels, down only 2 million since 11 September, against a statutory non-emergency floor of 252 million. Another asks whether $117.10 was a settlement or an intraday print. <a href=\"https://www.reddit.com/r/investing/comments/1xec7qy/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"Brent at $117 and the SPR has nothing left to give\" drew 362 points, and the best-sourced reply disputes the SPR half. The poster says Brent closed at $117.10 after Houthi strikes on Saudi energy infrastructure, and that the Strategic Petroleum Reserve is at its lowest since 1982. A commenter puts the reserve at 282.7 million barrels, down only 2 million since 11 September, against a statutory non-emergency floor of 252 million. Another asks whether $117.10 was a settlement or an intraday print. thread Single source · neither the Brent close nor the SPR figures were checked against EIA",
+              "status": "single-source",
+              "status_html": "<p>Single source · neither the Brent close nor the SPR figures were checked against EIA</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The S&amp;P 500 is down 2.5% since its 6 October record while about 70% of its stocks are up, according to a post arguing the selloff is narrow.</strong>",
+              "html": "<p><strong>The S&amp;P 500 is down 2.5% since its 6 October record while about 70% of its stocks are up, according to a post arguing the selloff is narrow.</strong> The poster gives a 7,819 record close and 7,624 on Friday, says Nvidia, Broadcom, Meta and Alphabet are about 17% of the index and down 8–14%, and adds the counterweight: the median stock is still 13% below its 52-week high. The poster's own follow-up reply estimates that Nvidia alone accounts for roughly one point of the 2.5. <a href=\"https://www.reddit.com/r/stocks/comments/1xfpwel/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "The S&P 500 is down 2.5% since its 6 October record while about 70% of its stocks are up, according to a post arguing the selloff is narrow. The poster gives a 7,819 record close and 7,624 on Friday, says Nvidia, Broadcom, Meta and Alphabet are about 17% of the index and down 8–14%, and adds the counterweight: the median stock is still 13% below its 52-week high. The poster's own follow-up reply estimates that Nvidia alone accounts for roughly one point of the 2.5. thread Single source · index levels and percentages are the poster's",
+              "status": "single-source",
+              "status_html": "<p>Single source · index levels and percentages are the poster's</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Meta launched a $95 billion stock offering, about $35 billion underwritten and $60 billion through an at-the-market programme, and Nvidia said it will buy $3 billion of it.</strong>",
+              "html": "<p><strong>Meta launched a $95 billion stock offering, about $35 billion underwritten and $60 billion through an at-the-market programme, and Nvidia said it will buy $3 billion of it.</strong> Meta said Nvidia, AMD and Broadcom were interested in buying up to $5 billion of shares; Nvidia's investment comes with an expanded partnership on Meta's Muse agent. Top comments call it a reversal from buying back stock with cheap debt, and one sketches a &quot;triple circle&quot; through Meta's AMD deal; the reply argues most of the $95 billion is &quot;outside the circle&quot;, since the chipmakers' stake is at most a small slice. Another reply notes that the at-the-market structure spreads the dilution over time. <a href=\"https://www.reddit.com/r/stocks/comments/1xfwnj5/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a> · <a href=\"https://www.reddit.com/r/stocks/comments/1xgptmy/\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia thread</a></p>",
+              "text": "Meta launched a $95 billion stock offering, about $35 billion underwritten and $60 billion through an at-the-market programme, and Nvidia said it will buy $3 billion of it. Meta said Nvidia, AMD and Broadcom were interested in buying up to $5 billion of shares; Nvidia's investment comes with an expanded partnership on Meta's Muse agent. Top comments call it a reversal from buying back stock with cheap debt, and one sketches a \"triple circle\" through Meta's AMD deal; the reply argues most of the $95 billion is \"outside the circle\", since the chipmakers' stake is at most a small slice. Another reply notes that the at-the-market structure spreads the dilution over time. thread · Nvidia thread Reported, consistent across CNBC as pasted, Yahoo Finance and Quartz · CNBC returned HTTP 403 to a direct fetch and Meta's statement was not read",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across <a href=\"https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> as pasted, <a href=\"https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-billion-meta-092301934.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance</a> and <a href=\"https://qz.com/nvidia-meta-3-billion-equity-offering-muse-ai-102726\" target=\"_blank\" rel=\"noopener noreferrer\">Quartz</a> · CNBC returned HTTP 403 to a direct fetch and Meta's statement was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "CNBC",
+                "Yahoo Finance",
+                "qz.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Microsoft offered voluntary buyouts to about 60,000 employees, about 27% of its workforce, by CNBC's count.</strong>",
+              "html": "<p><strong>Microsoft offered voluntary buyouts to about 60,000 employees, about 27% of its workforce, by CNBC's count.</strong> The offer covers the US, Canada, India and the UK at level 70 or below. The top reply (<a href=\"https://www.reddit.com/r/investing/comments/1xg1o4j/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing</a>, 995 points) says eligibility is not the expected take-up, and a correction beneath it says CNBC's source reports no target this time. Another commenter cites Yahoo Finance for packages of 8 to 39 weeks of base pay, and says decisions are due in December with exits on 31 December, which is when the charge might show. Several replies note that voluntary programmes often precede layoffs. <a href=\"https://www.reddit.com/r/stocks/comments/1xg2gtp/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread</a></p>",
+              "text": "Microsoft offered voluntary buyouts to about 60,000 employees, about 27% of its workforce, by CNBC's count. The offer covers the US, Canada, India and the UK at level 70 or below. The top reply ( r/investing , 995 points) says eligibility is not the expected take-up, and a correction beneath it says CNBC's source reports no target this time. Another commenter cites Yahoo Finance for packages of 8 to 39 weeks of base pay, and says decisions are due in December with exits on 31 December, which is when the charge might show. Several replies note that voluntary programmes often precede layoffs. r/stocks thread Reported from CNBC as pasted · the pay range and dates are commenters' · my search turned up only the earlier April program for about 8,750 US staff",
+              "status": "reported",
+              "status_html": "<p>Reported from <a href=\"https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> as pasted · the pay range and dates are commenters' · my search turned up only the earlier April program for about 8,750 US staff</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "r/stocks",
+                "CNBC"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Musk said SpaceX closed $40 billion of debt to buy GPUs, and warned that most of the 200-plus neoclouds face &quot;guppy-level death and consolidation&quot; as lenders pull back.</strong>",
+              "html": "<p><strong>Musk said SpaceX closed $40 billion of debt to buy GPUs, and warned that most of the 200-plus neoclouds face &quot;guppy-level death and consolidation&quot; as lenders pull back.</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1xfcv5d/\" target=\"_blank\" rel=\"noopener noreferrer\">1,269-point r/stocks thread</a> turned into an argument over Musk's motive for a SpaceX–Tesla merger; one commenter claims he has under 30% of Tesla's votes against 85% of SpaceX's, unchecked. In the <a href=\"https://www.reddit.com/r/stocks/comments/1xftfdv/\" target=\"_blank\" rel=\"noopener noreferrer\">neocloud thread</a>, the top reply is &quot;Please shut down so I can buy your compute for cheap&quot;, and others say SpaceX's AI unit is itself a neocloud and that CoreWeave, not every peer, carries the debt problem. An <a href=\"https://www.reddit.com/r/investing/comments/1xgm8q1/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing post</a> puts SpaceX about 30% below its 16 June closing high.</p>",
+              "text": "Musk said SpaceX closed $40 billion of debt to buy GPUs, and warned that most of the 200-plus neoclouds face \"guppy-level death and consolidation\" as lenders pull back. The 1,269-point r/stocks thread turned into an argument over Musk's motive for a SpaceX–Tesla merger; one commenter claims he has under 30% of Tesla's votes against 85% of SpaceX's, unchecked. In the neocloud thread , the top reply is \"Please shut down so I can buy your compute for cheap\", and others say SpaceX's AI unit is itself a neocloud and that CoreWeave, not every peer, carries the debt problem. An r/investing post puts SpaceX about 30% below its 16 June closing high. Reported from CNBC as linked in the post · the FT's 6 October report that SpaceX was seeking about $40 billion is consistent ( Tikr ) · the \"guppy\" quote was not found in a search and is as posted",
+              "status": "reported",
+              "status_html": "<p>Reported from <a href=\"https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> as linked in the post · the FT's 6 October report that SpaceX was seeking about $40 billion is consistent (<a href=\"https://www.tikr.com/blog/spacex-the-largest-global-neocloud-per-jim-chanos-as-we-gear-up-for-earnings-tomorrow\" target=\"_blank\" rel=\"noopener noreferrer\">Tikr</a>) · the &quot;guppy&quot; quote was not found in a search and is as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "CNBC",
+                "tikr.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The WSJ reports Broadcom's CEO held weekend talks with banks to close a $63 billion Anthropic chip-lease debt deal, agreeing to higher interest rates when some lenders considered pulling out.</strong>",
+              "html": "<p><strong>The WSJ reports Broadcom's CEO held weekend talks with banks to close a $63 billion Anthropic chip-lease debt deal, agreeing to higher interest rates when some lenders considered pulling out.</strong> It is the Project North Star financing already in the tracker; the post says Broadcom's credit rating backs guarantees on over $40 billion. The one substantive reply says the banks' real question is whether the chips are sufficient collateral. <a href=\"https://www.reddit.com/r/stocks/comments/1xgriwj/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "The WSJ reports Broadcom's CEO held weekend talks with banks to close a $63 billion Anthropic chip-lease debt deal, agreeing to higher interest rates when some lenders considered pulling out. It is the Project North Star financing already in the tracker; the post says Broadcom's credit rating backs guarantees on over $40 billion. The one substantive reply says the banks' real question is whether the chips are sufficient collateral. thread Reported from the WSJ as pasted · paywalled, not read",
+              "status": "reported",
+              "status_html": "<p>Reported from the <a href=\"https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f\" target=\"_blank\" rel=\"noopener noreferrer\">WSJ</a> as pasted · paywalled, not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "wsj.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>SK Hynix is reported to be weighing a ₩16 trillion ($12 billion) special dividend from its Kioxia gains, ahead of results this week.</strong>",
+              "html": "<p><strong>SK Hynix is reported to be weighing a ₩16 trillion ($12 billion) special dividend from its Kioxia gains, ahead of results this week.</strong> The post cites Dong-A Ilbo and says the company told Bloomberg no decision is final. A second post gives a ₩184.4 trillion combined Q3 operating-profit estimate for Samsung and SK Hynix. <a href=\"https://www.reddit.com/r/stocks/comments/1xfw5nf/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a> · <a href=\"https://www.reddit.com/r/stocks/comments/1xfydvl/\" target=\"_blank\" rel=\"noopener noreferrer\">estimate thread</a></p>",
+              "text": "SK Hynix is reported to be weighing a ₩16 trillion ($12 billion) special dividend from its Kioxia gains, ahead of results this week. The post cites Dong-A Ilbo and says the company told Bloomberg no decision is final. A second post gives a ₩184.4 trillion combined Q3 operating-profit estimate for Samsung and SK Hynix. thread · estimate thread Reported from pasted Yahoo Finance and Korea JoongAng Daily articles · not checked",
+              "status": "reported",
+              "status_html": "<p>Reported from pasted Yahoo Finance and Korea JoongAng Daily articles · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Asked for &quot;the safety of bonds with some upside&quot;, r/investing's answers were diversification first, then convertibles, buffer ETFs and indexed annuities, each with a catch.</strong>",
+              "html": "<p><strong>Asked for &quot;the safety of bonds with some upside&quot;, r/investing's answers were diversification first, then convertibles, buffer ETFs and indexed annuities, each with a catch.</strong> The top replies say a bond and equity split already does this. Commenters describe convertible bonds as a bond floor with a conversion option at lower yield, and warn that convertibles and structured notes carry issuer credit risk and fees, and that structured notes cap the upside. Indexed annuities and RILAs come with long lock-ups. One reply adds that a bond's price rises if rates fall. <a href=\"https://www.reddit.com/r/investing/comments/1xeypyn/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Asked for \"the safety of bonds with some upside\", r/investing's answers were diversification first, then convertibles, buffer ETFs and indexed annuities, each with a catch. The top replies say a bond and equity split already does this. Commenters describe convertible bonds as a bond floor with a conversion option at lower yield, and warn that convertibles and structured notes carry issuer credit risk and fees, and that structured notes cap the upside. Indexed annuities and RILAs come with long lock-ups. One reply adds that a bond's price rises if rates fall. thread Reported · commenters' descriptions, no product terms checked",
+              "status": "reported",
+              "status_html": "<p>Reported · commenters' descriptions, no product terms checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;13 of the last 19 midterm years had a 10% drop in them.&quot;</strong>",
+              "html": "<p><strong>&quot;13 of the last 19 midterm years had a 10% drop in them.&quot;</strong> The poster cites 2018's near-15% slide into Christmas Eve, and the vote on 3 November. <a href=\"https://www.reddit.com/r/stocks/comments/1xfr0iz/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"13 of the last 19 midterm years had a 10% drop in them.\" The poster cites 2018's near-15% slide into Christmas Eve, and the vote on 3 November. thread Single source · the count was not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the count was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Bubble talk is everywhere, and so is mockery of it: the most-upvoted reply on the r/investing S-1 thread is &quot;Time to pull out of the market&quot;, and the replies…",
+              "html": "<p>Bubble talk is everywhere, and so is mockery of it: the most-upvoted reply on the r/investing S-1 thread is &quot;Time to pull out of the market&quot;, and the replies beneath it say SpaceX has held up despite the sub expecting it to dump, and ask the posters to &quot;prove it&quot;. Moat doubts about AI labs, given open-source and local models, run through every Anthropic thread.</p>",
+              "text": "Bubble talk is everywhere, and so is mockery of it: the most-upvoted reply on the r/investing S-1 thread is \"Time to pull out of the market\", and the replies beneath it say SpaceX has held up despite the sub expecting it to dump, and ask the posters to \"prove it\". Moat doubts about AI labs, given open-source and local models, run through every Anthropic thread.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;DoorDash in late-stage talks to buy Instacart for $17 billion.&quot;</strong>",
+              "html": "<p><strong>&quot;DoorDash in late-stage talks to buy Instacart for $17 billion.&quot;</strong> The post (2 points) says it was reported near Monday's close. What I found is The Information's 23 October report that Instacart is exploring a sale and held preliminary talks with DoorDash and Uber; in <a href=\"https://247wallst.com/investing/2026/10/24/instacart-is-exploring-a-sale-and-uber-and-doordash-are-circling/\" target=\"_blank\" rel=\"noopener noreferrer\">one account</a>, $17 billion is an analyst-style premium estimate, not an offer. <a href=\"https://www.reddit.com/r/stocks/comments/1xgaozo/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"DoorDash in late-stage talks to buy Instacart for $17 billion.\" The post (2 points) says it was reported near Monday's close. What I found is The Information's 23 October report that Instacart is exploring a sale and held preliminary talks with DoorDash and Uber; in one account , $17 billion is an analyst-style premium estimate, not an offer. thread Unconfirmed · no report of late-stage talks or a $17 billion price found in one search",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · no report of late-stage talks or a $17 billion price found in one search</p>",
+              "updated": null,
+              "sources": [
+                "247wallst.com",
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing (42 posts in the scan).",
+              "html": "<p><strong>Read:</strong> stocks, investing (42 posts in the scan). <strong>Sources checked:</strong> Federal Reserve monetary policy feed, Treasury par yield curve (October month view), BLS release schedule (October page only). EDGAR full-text search confirmed the Anthropic S-1; the document itself exceeded the fetch limit. CNBC returned HTTP 403 twice.</p>",
+              "text": "Read: stocks, investing (42 posts in the scan). Sources checked: Federal Reserve monetary policy feed, Treasury par yield curve (October month view), BLS release schedule (October page only). EDGAR full-text search confirmed the Anthropic S-1; the document itself exceeded the fetch limit. CNBC returned HTTP 403 twice.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The Fed feed has nothing since the 13 October discount-rate minutes, and the next BLS release in the window is the Q3 Employment Cost Index on 30 October.</p>",
+              "text": "Announced, not discussed: none. The Fed feed has nothing since the 13 October discount-rate minutes, and the next BLS release in the window is the Q3 Employment Cost Index on 30 October. Verified against the Fed feed and the BLS schedule",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Fed feed and the BLS schedule</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;gaap&quot;: an accounting term from the S-1 threads, covered under Must know.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;gaap&quot;: an accounting term from the S-1 threads, covered under Must know. &quot;intel&quot;: the company, named only in earnings-calendar posts; its report date was not checked.</p>",
+              "text": "Flagged terms set aside: \"gaap\": an accounting term from the S-1 threads, covered under Must know. \"intel\": the company, named only in earnings-calendar posts; its report date was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists covered the three days since the last entry; no gap was flagged.",
+              "html": "<p>Hot lists covered the three days since the last entry; no gap was flagged.</p>",
+              "text": "Hot lists covered the three days since the last entry; no gap was flagged.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "title": "Stocks & investing digest",
@@ -2034,10 +2323,10 @@
         {
           "headline": "<strong>The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October.</strong>",
           "html": "<p><strong>The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October.</strong> Kept because threads on both subs argue from &quot;yields above 5%&quot; or from a spike without naming a maturity or a date, and because the move runs the other way from the rates-caused-the-selloff reading that dominated mid-October. On 20 October the 2-year was 4.79%, the 30-year 5.42% and the 1-month bill 4.10%. A claim that the 10-year &quot;touched 5.36%, a 24 year high&quot; the week of 5–9 October does not appear in the par curve, whose highest close since 1 September is 5.31%.</p>",
-          "text": "The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October. Kept because threads on both subs argue from \"yields above 5%\" or from a spike without naming a maturity or a date, and because the move runs the other way from the rates-caused-the-selloff reading that dominated mid-October. On 20 October the 2-year was 4.79%, the 30-year 5.42% and the 1-month bill 4.10%. A claim that the 10-year \"touched 5.36%, a 24 year high\" the week of 5–9 October does not appear in the par curve, whose highest close since 1 September is 5.31%. Verified against Treasury's October 2026 par curve · the 5.36% claim is Unconfirmed ; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October)",
+          "text": "The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October. Kept because threads on both subs argue from \"yields above 5%\" or from a spike without naming a maturity or a date, and because the move runs the other way from the rates-caused-the-selloff reading that dominated mid-October. On 20 October the 2-year was 4.79%, the 30-year 5.42% and the 1-month bill 4.10%. A claim that the 10-year \"touched 5.36%, a 24 year high\" the week of 5–9 October does not appear in the par curve, whose highest close since 1 September is 5.31%. Verified against Treasury's October 2026 par curve · the 5.36% claim is Unconfirmed ; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October) · re-checked 2026-10-27: 5.00% on 26 October, 2-year 4.68%, 30-year 5.31%",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's October 2026 par curve</a> · the 5.36% claim is <strong>Unconfirmed</strong>; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October)</p>",
-          "updated": "2026-10-24",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's October 2026 par curve</a> · the 5.36% claim is <strong>Unconfirmed</strong>; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October) · re-checked 2026-10-27: 5.00% on 26 October, 2-year 4.68%, 30-year 5.31%</p>",
+          "updated": "2026-10-27",
           "sources": [
             "home.treasury.gov"
           ],
@@ -2116,6 +2405,20 @@
           "due_label": "Anthropic's reported listing window"
         },
         {
+          "headline": "<strong>Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set.</strong>",
+          "html": "<p><strong>Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set.</strong> Yahoo Finance reports H1 2026 revenue of $16.3 billion, a net loss of $80.7 billion through June (about $72 billion of it, per commenters, a fair-value loss on convertible notes), a $42 billion loss in 2025, the ticker &quot;ANT&quot;, and &quot;upward of $430 billion&quot; of locked-in compute deals, up to $637 billion including cancellable ones. Next: an amended S-1 with a price range.</p>",
+          "text": "Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set. Yahoo Finance reports H1 2026 revenue of $16.3 billion, a net loss of $80.7 billion through June (about $72 billion of it, per commenters, a fair-value loss on convertible notes), a $42 billion loss in 2025, the ticker \"ANT\", and \"upward of $430 billion\" of locked-in compute deals, up to $637 billion including cancellable ones. Next: an amended S-1 with a price range. Verified for the filing against EDGAR · the figures are Reported from Yahoo Finance ; the S-1 itself was too large to fetch · 2026-10-27",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the filing against <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR</a> · the figures are Reported from <a href=\"https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance</a>; the S-1 itself was too large to fetch · 2026-10-27</p>",
+          "updated": "2026-10-27",
+          "sources": [
+            "SEC filing",
+            "Yahoo Finance"
+          ],
+          "due": "2026-11-30",
+          "due_label": "reported listing window"
+        },
+        {
           "headline": "<strong>Character.AI filed for Chapter 11 on 13 October, with Disney as stalking-horse bidder at $20 million for selected assets.</strong>",
           "html": "<p><strong>Character.AI filed for Chapter 11 on 13 October, with Disney as stalking-horse bidder at $20 million for selected assets.</strong> The sale process is reported to run into late November or early December, and the company says it would wind the platform down if no buyer continues running it. Tracked because both subs now cite it as the cycle's first AI-startup failure, though no post covered it.</p>",
           "text": "Character.AI filed for Chapter 11 on 13 October, with Disney as stalking-horse bidder at $20 million for selected assets. The sale process is reported to run into late November or early December, and the company says it would wind the platform down if no buyer continues running it. Tracked because both subs now cite it as the cycle's first AI-startup failure, though no post covered it. Verified for the filing, the bidder and the $20 million against NBC News · the timetable is Reported · 2026-10-18",
@@ -2153,6 +2456,19 @@
           ],
           "due": "2026-12-31",
           "due_label": "the 2 GW compute marker"
+        },
+        {
+          "headline": "<strong>Microsoft offered voluntary buyouts to about 60,000 employees on 26 October, about 27% of its workforce, by CNBC's count.</strong>",
+          "html": "<p><strong>Microsoft offered voluntary buyouts to about 60,000 employees on 26 October, about 27% of its workforce, by CNBC's count.</strong> The offer covers the US, Canada, India and the UK at level 70 or below. An r/investing commenter says decisions are due in December with exits on 31 December, and that CNBC's source reports no take-up target.</p>",
+          "text": "Microsoft offered voluntary buyouts to about 60,000 employees on 26 October, about 27% of its workforce, by CNBC's count. The offer covers the US, Canada, India and the UK at level 70 or below. An r/investing commenter says decisions are due in December with exits on 31 December, and that CNBC's source reports no take-up target. Reported from CNBC as pasted · the dates are Unconfirmed · 2026-10-27",
+          "status": "reported",
+          "status_html": "<p>Reported from <a href=\"https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> as pasted · the dates are <strong>Unconfirmed</strong> · 2026-10-27</p>",
+          "updated": "2026-10-27",
+          "sources": [
+            "CNBC"
+          ],
+          "due": "2026-12-31",
+          "due_label": "exit date, per a commenter"
         },
         {
           "headline": "<strong>NEXTDC cut FY27 guidance after Jemena suspended the electricity works its M3 Melbourne data centre needs, pushing contracted capacity to FY28.</strong>",
@@ -2226,9 +2542,9 @@
           "due_label": null
         },
         {
-          "headline": "<strong>Anthropic is reported to be targeting an IPO as early as mid-November, and the valuation under discussion fell from above $2 trillion to about $1.5 trillion within a day of the revenue disclosure.</strong>",
-          "html": "<p><strong>Anthropic is reported to be targeting an IPO as early as mid-November, and the valuation under discussion fell from above $2 trillion to about $1.5 trillion within a day of the revenue disclosure.</strong> It told investors on 14 October that Q3 revenue was $16.8 billion, up about 45% on Q2's $11.6 billion and from $4.7 billion in Q1, with an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability and positive free cash flow, against at least $518 billion of compute commitments over the next decade. &quot;Adjusted&quot; is undefined until the S-1. Reuters reported on 15 October that some current and prospective investors discussed around $1.5 trillion, citing sequential deceleration after revenue more than doubled between Q1 and Q2; that figure is investor discussion, not a price set by Anthropic or its underwriters.</p>",
-          "text": "Anthropic is reported to be targeting an IPO as early as mid-November, and the valuation under discussion fell from above $2 trillion to about $1.5 trillion within a day of the revenue disclosure. It told investors on 14 October that Q3 revenue was $16.8 billion, up about 45% on Q2's $11.6 billion and from $4.7 billion in Q1, with an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability and positive free cash flow, against at least $518 billion of compute commitments over the next decade. \"Adjusted\" is undefined until the S-1. Reuters reported on 15 October that some current and prospective investors discussed around $1.5 trillion, citing sequential deceleration after revenue more than doubled between Q1 and Q2; that figure is investor discussion, not a price set by Anthropic or its underwriters. Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of a Financial Times report, and Reuters of 15 October for the valuation cut · the FT article is paywalled, the company has published nothing, and no listing date is confirmed · 2026-10-18 · 2026-10-24: a public S-1 was reported (Yahoo Finance, three people familiar) as due as early as 23 October; no filing or company statement was found",
+          "headline": "<strong>Before the filing, Anthropic was reported to be targeting an IPO as early as mid-November, and the valuation under discussion fell from above $2 trillion to about $1.5 trillion within a day of the revenue disclosure.</strong>",
+          "html": "<p><strong>Before the filing, Anthropic was reported to be targeting an IPO as early as mid-November, and the valuation under discussion fell from above $2 trillion to about $1.5 trillion within a day of the revenue disclosure.</strong> It told investors on 14 October that Q3 revenue was $16.8 billion, up about 45% on Q2's $11.6 billion and from $4.7 billion in Q1, with an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability and positive free cash flow, against at least $518 billion of compute commitments over the next decade. &quot;Adjusted&quot; is undefined until the S-1. Reuters reported on 15 October that some current and prospective investors discussed around $1.5 trillion, citing sequential deceleration after revenue more than doubled between Q1 and Q2; that figure is investor discussion, not a price set by Anthropic or its underwriters.</p>",
+          "text": "Before the filing, Anthropic was reported to be targeting an IPO as early as mid-November, and the valuation under discussion fell from above $2 trillion to about $1.5 trillion within a day of the revenue disclosure. It told investors on 14 October that Q3 revenue was $16.8 billion, up about 45% on Q2's $11.6 billion and from $4.7 billion in Q1, with an adjusted gross margin of 85%, an adjusted operating margin above 11%, a second consecutive quarter of adjusted profitability and positive free cash flow, against at least $518 billion of compute commitments over the next decade. \"Adjusted\" is undefined until the S-1. Reuters reported on 15 October that some current and prospective investors discussed around $1.5 trillion, citing sequential deceleration after revenue more than doubled between Q1 and Q2; that figure is investor discussion, not a price set by Anthropic or its underwriters. Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of a Financial Times report, and Reuters of 15 October for the valuation cut · the FT article is paywalled, the company has published nothing, and no listing date is confirmed · 2026-10-18 · 2026-10-24: a public S-1 was reported (Yahoo Finance, three people familiar) as due as early as 23 October; no filing or company statement was found",
           "status": "reported",
           "status_html": "<p>Reported, consistent across CNBC, Quartz and Yahoo Finance coverage of a Financial Times report, and <a href=\"https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters of 15 October</a> for the valuation cut · the FT article is paywalled, the company has published nothing, and no listing date is confirmed · 2026-10-18 · 2026-10-24: a public S-1 was reported (Yahoo Finance, three people familiar) as due as early as 23 October; no filing or company statement was found</p>",
           "updated": "2026-10-24",
@@ -2241,12 +2557,13 @@
         {
           "headline": "<strong>Anthropic is reported to be negotiating a $60 billion debt package for Google TPUs, with Blackstone offered more than 10% to anchor the junior layer.</strong>",
           "html": "<p><strong>Anthropic is reported to be negotiating a $60 billion debt package for Google TPUs, with Blackstone offered more than 10% to anchor the junior layer.</strong> Called Project North Star and reported by the Financial Times on 16 October: roughly $42 billion senior at around 7%, backed by Broadcom residual-value support, and $18 billion junior above 10%, of which Blackstone funds are expected to take about $9 billion, secured on Anthropic's five-year lease payments for roughly 1.5 gigawatts of TPUs through a special-purpose vehicle. It would be the largest chip financing to date, against 8.5% on a $4.4 billion Anthropic deal four months earlier and a $35 billion Apollo and Blackstone package in June. The remaining $9 billion of junior debt is expected to be offered to other investors in the coming months.</p>",
-          "text": "Anthropic is reported to be negotiating a $60 billion debt package for Google TPUs, with Blackstone offered more than 10% to anchor the junior layer. Called Project North Star and reported by the Financial Times on 16 October: roughly $42 billion senior at around 7%, backed by Broadcom residual-value support, and $18 billion junior above 10%, of which Blackstone funds are expected to take about $9 billion, secured on Anthropic's five-year lease payments for roughly 1.5 gigawatts of TPUs through a special-purpose vehicle. It would be the largest chip financing to date, against 8.5% on a $4.4 billion Anthropic deal four months earlier and a $35 billion Apollo and Blackstone package in June. The remaining $9 billion of junior debt is expected to be offered to other investors in the coming months. Reported, consistent across Crypto Briefing , FourWeekMBA and Newsbytes coverage of the FT report · the FT article is paywalled, terms are described as still in negotiation, and no party has confirmed them · r/stocks' widely upvoted version of the structure — Broadcom lending $42 billion via convertible notes — appears in no coverage found · 2026-10-18",
+          "text": "Anthropic is reported to be negotiating a $60 billion debt package for Google TPUs, with Blackstone offered more than 10% to anchor the junior layer. Called Project North Star and reported by the Financial Times on 16 October: roughly $42 billion senior at around 7%, backed by Broadcom residual-value support, and $18 billion junior above 10%, of which Blackstone funds are expected to take about $9 billion, secured on Anthropic's five-year lease payments for roughly 1.5 gigawatts of TPUs through a special-purpose vehicle. It would be the largest chip financing to date, against 8.5% on a $4.4 billion Anthropic deal four months earlier and a $35 billion Apollo and Blackstone package in June. The remaining $9 billion of junior debt is expected to be offered to other investors in the coming months. Reported, consistent across Crypto Briefing , FourWeekMBA and Newsbytes coverage of the FT report · the FT article is paywalled, terms are described as still in negotiation, and no party has confirmed them · r/stocks' widely upvoted version of the structure — Broadcom lending $42 billion via convertible notes — appears in no coverage found · 2026-10-18 · 2026-10-27: the WSJ reports the deal closed at $63 billion after Broadcom's CEO held weekend talks with wavering banks and agreed to higher interest rates; Reported from the WSJ as pasted on r/stocks, paywalled",
           "status": "reported",
-          "status_html": "<p>Reported, consistent across <a href=\"https://cryptobriefing.com/anthropic-blackstone-double-digit-yield-chip-financing/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing</a>, FourWeekMBA and Newsbytes coverage of the FT report · the FT article is paywalled, terms are described as still in negotiation, and no party has confirmed them · r/stocks' widely upvoted version of the structure — Broadcom lending $42 billion via convertible notes — appears in no coverage found · 2026-10-18</p>",
-          "updated": "2026-10-18",
+          "status_html": "<p>Reported, consistent across <a href=\"https://cryptobriefing.com/anthropic-blackstone-double-digit-yield-chip-financing/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing</a>, FourWeekMBA and Newsbytes coverage of the FT report · the FT article is paywalled, terms are described as still in negotiation, and no party has confirmed them · r/stocks' widely upvoted version of the structure — Broadcom lending $42 billion via convertible notes — appears in no coverage found · 2026-10-18 · 2026-10-27: the WSJ reports the deal closed at $63 billion after Broadcom's CEO held weekend talks with wavering banks and agreed to higher interest rates; Reported from the <a href=\"https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f\" target=\"_blank\" rel=\"noopener noreferrer\">WSJ</a> as pasted on r/stocks, paywalled</p>",
+          "updated": "2026-10-27",
           "sources": [
-            "cryptobriefing.com"
+            "cryptobriefing.com",
+            "wsj.com"
           ],
           "due": null,
           "due_label": null
@@ -2262,6 +2579,21 @@
             "CNBC",
             "Yahoo Finance",
             "tipranks.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Meta launched a $95 billion equity raise on 26 October: about $35 billion underwritten, then about $60 billion through an at-the-market programme.</strong>",
+          "html": "<p><strong>Meta launched a $95 billion equity raise on 26 October: about $35 billion underwritten, then about $60 billion through an at-the-market programme.</strong> Nvidia, AMD and Broadcom were interested in buying up to $5 billion of shares, and Nvidia said it will buy $3 billion alongside an expanded partnership on Meta's Muse agent. Tracked because the at-the-market portion spreads the dilution over months.</p>",
+          "text": "Meta launched a $95 billion equity raise on 26 October: about $35 billion underwritten, then about $60 billion through an at-the-market programme. Nvidia, AMD and Broadcom were interested in buying up to $5 billion of shares, and Nvidia said it will buy $3 billion alongside an expanded partnership on Meta's Muse agent. Tracked because the at-the-market portion spreads the dilution over months. Reported, consistent across CNBC , Yahoo Finance and Quartz · Meta's statement was not read · 2026-10-27",
+          "status": "reported",
+          "status_html": "<p>Reported, consistent across <a href=\"https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a>, <a href=\"https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-billion-meta-092301934.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance</a> and <a href=\"https://qz.com/nvidia-meta-3-billion-equity-offering-muse-ai-102726\" target=\"_blank\" rel=\"noopener noreferrer\">Quartz</a> · Meta's statement was not read · 2026-10-27</p>",
+          "updated": "2026-10-27",
+          "sources": [
+            "CNBC",
+            "Yahoo Finance",
+            "qz.com"
           ],
           "due": null,
           "due_label": null
@@ -2314,8 +2646,8 @@
       "items": [
         {
           "headline": "<strong>Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument.</strong>",
-          "html": "<p><strong>Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument.</strong> Gartner's release of 14 October says more than $3.5 trillion of AI infrastructure spending &quot;could be exposed to impairment by the end of 2030&quot; and that 80% of neocloud providers &quot;could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers&quot;. Its figures as reported: nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion from 2027 to 2030, against a cumulative $8.5 trillion of revenue needed to cover capital, financing and a 12% return, and no more than $3.6 trillion forecast. Posts shorten &quot;cease independent operations&quot; to &quot;cease to exist&quot;, which Gartner does not say.</p>",
-          "text": "Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument. Gartner's release of 14 October says more than $3.5 trillion of AI infrastructure spending \"could be exposed to impairment by the end of 2030\" and that 80% of neocloud providers \"could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers\". Its figures as reported: nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion from 2027 to 2030, against a cumulative $8.5 trillion of revenue needed to cover capital, financing and a 12% return, and no more than $3.6 trillion forecast. Posts shorten \"cease independent operations\" to \"cease to exist\", which Gartner does not say. Verified for the 80% wording and the $3.5 trillion figure against Telecompaper's quotation of Gartner's release · the other figures are Reported; Gartner's own newsroom page returned HTTP 403 · 2026-10-15",
+          "html": "<p><strong>Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument.</strong> Gartner's release of 14 October says more than $3.5 trillion of AI infrastructure spending &quot;could be exposed to impairment by the end of 2030&quot; and that 80% of neocloud providers &quot;could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers&quot;. Its figures as reported: nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion from 2027 to 2030, against a cumulative $8.5 trillion of revenue needed to cover capital, financing and a 12% return, and no more than $3.6 trillion forecast. Posts shorten &quot;cease independent operations&quot; to &quot;cease to exist&quot;, which Gartner does not say. On 2026-10-27 r/stocks paired it with Musk's warning that most of the 200-plus neoclouds face &quot;guppy-level death and consolidation&quot; as lenders pull back, made as SpaceX closed $40 billion of GPU debt.</p>",
+          "text": "Gartner's 2030 arithmetic is now the subs' reference point for the funding-gap argument. Gartner's release of 14 October says more than $3.5 trillion of AI infrastructure spending \"could be exposed to impairment by the end of 2030\" and that 80% of neocloud providers \"could cease independent operations by 2030, as they lack the large and diversified revenue streams of hyperscalers\". Its figures as reported: nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion from 2027 to 2030, against a cumulative $8.5 trillion of revenue needed to cover capital, financing and a 12% return, and no more than $3.6 trillion forecast. Posts shorten \"cease independent operations\" to \"cease to exist\", which Gartner does not say. On 2026-10-27 r/stocks paired it with Musk's warning that most of the 200-plus neoclouds face \"guppy-level death and consolidation\" as lenders pull back, made as SpaceX closed $40 billion of GPU debt. Verified for the 80% wording and the $3.5 trillion figure against Telecompaper's quotation of Gartner's release · the other figures are Reported; Gartner's own newsroom page returned HTTP 403 · 2026-10-15",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for the 80% wording and the $3.5 trillion figure against <a href=\"https://www.telecompaper.com/news/gartner-sees-neoclouds-as-vulnerable-to-weak-returns-amid-insufficient-ai-revenue-in-run-up-to-2030--1585707\" target=\"_blank\" rel=\"noopener noreferrer\">Telecompaper's quotation of Gartner's release</a> · the other figures are Reported; Gartner's own newsroom page returned HTTP 403 · 2026-10-15</p>",
           "updated": "2026-10-15",
@@ -2338,11 +2670,11 @@
         },
         {
           "headline": "<strong>&quot;The AI capital-spending chain is circular.&quot;</strong>",
-          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool.</p>",
-          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release · 2026-10-21",
+          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. On 2026-10-27 it centred on suppliers funding customers: Nvidia buying $3 billion of Meta's equity raise, and Broadcom guaranteeing Anthropic's chip-lease debt. The best objection was that the chipmakers' stakes are a small slice of the money, which mostly comes from &quot;outside the circle&quot;.</p>",
+          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. On 2026-10-27 it centred on suppliers funding customers: Nvidia buying $3 billion of Meta's equity raise, and Broadcom guaranteeing Anthropic's chip-lease debt. The best objection was that the chipmakers' stakes are a small slice of the money, which mostly comes from \"outside the circle\". Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release · 2026-10-27",
           "status": "single-source",
-          "status_html": "<p>Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release · 2026-10-21</p>",
-          "updated": "2026-10-21",
+          "status_html": "<p>Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release · 2026-10-27</p>",
+          "updated": "2026-10-27",
           "sources": [],
           "due": null,
           "due_label": null
