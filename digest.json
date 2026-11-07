@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27",
+  "generated": "2026-11-06",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,565 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-06",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Both subs spent the run on Thursday 5 November, when chip, memory and neocloud stocks fell hardest in a broad sell-off blamed on the Democratic sweep in the 3 November midterms. The top threads on both subs are about it. The best-sourced posts push back on the &quot;Democrats will stop the data centres&quot; reading: nothing has been legislated, and the hyperscalers' own filings show Q3 capex doubled. Second in attention is a WSJ report that Anthropic's IPO valuation may have to come down. October payrolls came in at 165,000 this morning. The gap since the last entry is seven days, so official sources were checked for the whole window.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The 5 November sell-off hit the AI build-out trade hardest, and the &quot;Democrats will stop the data centres&quot; explanation runs ahead of anything that has happened.</strong>",
+              "html": "<p><strong>The 5 November sell-off hit the AI build-out trade hardest, and the &quot;Democrats will stop the data centres&quot; explanation runs ahead of anything that has happened.</strong> Chip, memory and neocloud stocks fell 9–18% by posters' figures, on fears that a Democratic Congress and new state governors will restrict data-centre building.</p>\n<ul>\n<li><strong>Why it matters:</strong> It was the dominant story on both subs. The biggest threads are <a href=\"https://www.reddit.com/r/stocks/comments/1xolp0d/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Anybody buying the dip&quot;</a> (2,195 points, 2,812 comments), <a href=\"https://www.reddit.com/r/stocks/comments/1xom4pn/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;AI selloff escalates&quot;</a> (1,891), <a href=\"https://www.reddit.com/r/stocks/comments/1xomj2e/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;EVERYTHING is over the cliff today&quot;</a> (1,042) and r/investing's <a href=\"https://www.reddit.com/r/investing/comments/1xomi9p/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Nasdaq down 6%, CoreWeave down 55% in a month&quot;</a> (818). The framing has gaps. A reply on r/stocks says &quot;This isn't something Democrats did… Democrats can't do anything at all until January.&quot; Texas governor-elect Gina Hinojosa's moratorium on approvals is a pledge, and she takes office on 19 January. A filings-based <a href=\"https://www.reddit.com/r/investing/comments/1xpct6i/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing post</a> argues that buyer spending &quot;hasn't slowed. It doubled&quot;. It also argues the build-out is now funded partly with debt and new shares, which makes it &quot;more sensitive to exactly the things that moved today: rates, power costs and permits&quot;. The same day brought company-specific news: Bloomberg reported Microsoft stepping back from some neocloud projects (below).</li>\n<li><strong>What to watch:</strong> October CPI on 10 November; October PPI on 13 November; the FOMC decision on 9 December; Hinojosa's first acts after 19 January; the hyperscalers' Q4 capex guidance in their January reports, which the filings post names as the first place a real slowdown would show.</li>\n<li><strong>Numbers:</strong> Measured, from Treasury's par curve: the 10-year closed at 4.90% on 4 November and 4.84% on 5 November, and the 2-year at 4.58% and 4.46%. As posted in the filings post, from third-party data: S&amp;P 500 −4.36%, Nasdaq −5.52%, Dow −1,833 points (−3.44%); Nvidia −9.3%, Broadcom −10.4%, AMD −17.3%, Micron −17.5%. Also as posted, from the 10-Qs it cites: Q3 purchases of property and equipment at Amazon, Alphabet, Microsoft and Meta of about $202 billion, against $97 billion a year earlier and about $175 billion of operating cash flow. From 8-Ks it cites: $25.0 billion of Microsoft notes, and Meta's $15.0 billion of notes plus $12.5 billion of mandatory convertible preferred. Of these, only Alphabet's €6 billion of notes closing on 5 November was checked here. As pasted from Yahoo Finance: the S&amp;P 500 was &quot;on pace for its worst second day after a midterm in data going back nearly a century&quot;.</li>\n<li><strong>Caveats:</strong> Index figures differ between posts (the Nasdaq at −5%, −5.2%, −5.52% and &quot;around 6%&quot;) because they were posted at different times of day; none was checked. &quot;Worst since 1896&quot; refers to the Dow's second session after a midterm, not its worst day overall. The most upvoted bearish reply, a credit-crunch scenario from a commenter who says they work in finance, opens with &quot;If legislation to ban or stop AI passes&quot;, and no such legislation exists.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/investing/comments/1xpct6i/\" target=\"_blank\" rel=\"noopener noreferrer\">the filings post on r/investing</a> and its replies.</li>\n</ul>",
+              "text": "The 5 November sell-off hit the AI build-out trade hardest, and the \"Democrats will stop the data centres\" explanation runs ahead of anything that has happened. Chip, memory and neocloud stocks fell 9–18% by posters' figures, on fears that a Democratic Congress and new state governors will restrict data-centre building. Why it matters: It was the dominant story on both subs. The biggest threads are \"Anybody buying the dip\" (2,195 points, 2,812 comments), \"AI selloff escalates\" (1,891), \"EVERYTHING is over the cliff today\" (1,042) and r/investing's \"Nasdaq down 6%, CoreWeave down 55% in a month\" (818). The framing has gaps. A reply on r/stocks says \"This isn't something Democrats did… Democrats can't do anything at all until January.\" Texas governor-elect Gina Hinojosa's moratorium on approvals is a pledge, and she takes office on 19 January. A filings-based r/investing post argues that buyer spending \"hasn't slowed. It doubled\". It also argues the build-out is now funded partly with debt and new shares, which makes it \"more sensitive to exactly the things that moved today: rates, power costs and permits\". The same day brought company-specific news: Bloomberg reported Microsoft stepping back from some neocloud projects (below). What to watch: October CPI on 10 November; October PPI on 13 November; the FOMC decision on 9 December; Hinojosa's first acts after 19 January; the hyperscalers' Q4 capex guidance in their January reports, which the filings post names as the first place a real slowdown would show. Numbers: Measured, from Treasury's par curve: the 10-year closed at 4.90% on 4 November and 4.84% on 5 November, and the 2-year at 4.58% and 4.46%. As posted in the filings post, from third-party data: S&P 500 −4.36%, Nasdaq −5.52%, Dow −1,833 points (−3.44%); Nvidia −9.3%, Broadcom −10.4%, AMD −17.3%, Micron −17.5%. Also as posted, from the 10-Qs it cites: Q3 purchases of property and equipment at Amazon, Alphabet, Microsoft and Meta of about $202 billion, against $97 billion a year earlier and about $175 billion of operating cash flow. From 8-Ks it cites: $25.0 billion of Microsoft notes, and Meta's $15.0 billion of notes plus $12.5 billion of mandatory convertible preferred. Of these, only Alphabet's €6 billion of notes closing on 5 November was checked here. As pasted from Yahoo Finance: the S&P 500 was \"on pace for its worst second day after a midterm in data going back nearly a century\". Caveats: Index figures differ between posts (the Nasdaq at −5%, −5.2%, −5.52% and \"around 6%\") because they were posted at different times of day; none was checked. \"Worst since 1896\" refers to the Dow's second session after a midterm, not its worst day overall. The most upvoted bearish reply, a credit-crunch scenario from a commenter who says they work in finance, opens with \"If legislation to ban or stop AI passes\", and no such legislation exists. Read next: the filings post on r/investing and its replies. Verified for the yields against Treasury's November par curve and for Alphabet's notes against its 8-K · the index and stock moves and the other filing figures are Single source, as posted · Hinojosa's pledge is Reported across States Newsroom and Reuters as syndicated by The Star",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the yields against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202611\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's November par curve</a> and for Alphabet's notes against <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">its 8-K</a> · the index and stock moves and the other filing figures are Single source, as posted · Hinojosa's pledge is Reported across <a href=\"https://www.newsfromthestates.com/article/gina-hinojosa-won-governors-race-what-happens-texas-data-centers-now\" target=\"_blank\" rel=\"noopener noreferrer\">States Newsroom</a> and Reuters as syndicated by <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/05/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race\" target=\"_blank\" rel=\"noopener noreferrer\">The Star</a></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "home.treasury.gov",
+                "SEC filing",
+                "newsfromthestates.com",
+                "thestar.com.my"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>October payrolls rose 165,000, unemployment &quot;changed little at 4.1 percent&quot;, and August and September were revised up by a combined 84,000.</strong>",
+              "html": "<p><strong>October payrolls rose 165,000, unemployment &quot;changed little at 4.1 percent&quot;, and August and September were revised up by a combined 84,000.</strong> Average hourly earnings rose 0.4% in the month and 3.1% over the year, to $38.00. August is now +186,000 (from +133,000) and September +60,000 (from +29,000). The release came out this morning, so only one hot post mentions it, citing the 165,000 figure correctly. <a href=\"https://www.reddit.com/r/stocks/comments/1xpmfh4/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "October payrolls rose 165,000, unemployment \"changed little at 4.1 percent\", and August and September were revised up by a combined 84,000. Average hourly earnings rose 0.4% in the month and 3.1% over the year, to $38.00. August is now +186,000 (from +133,000) and September +60,000 (from +29,000). The release came out this morning, so only one hot post mentions it, citing the 165,000 figure correctly. thread Verified against the BLS Employment Situation release of 6 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.bls.gov/news.release/empsit.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the BLS Employment Situation release of 6 November</a></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "bls.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Treasury yields fell through the sell-off, and the 10-year has closed below 5% on every November day so far.</strong>",
+              "html": "<p><strong>Treasury yields fell through the sell-off, and the 10-year has closed below 5% on every November day so far.</strong> It closed at 4.95% on 3 November, 4.84% on 5 November and 4.86% on 6 November; the 30-year was at 5.26% on 6 November. One post's edit says big money &quot;has been buying US 10yr bonds at 5.3% pushing the yield below 5%&quot;. The 5.3% matches October's 5.31% peak close, but the buying motive is the poster's reading. <a href=\"https://www.reddit.com/r/stocks/comments/1xoktnd/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Treasury yields fell through the sell-off, and the 10-year has closed below 5% on every November day so far. It closed at 4.95% on 3 November, 4.84% on 5 November and 4.86% on 6 November; the 30-year was at 5.26% on 6 November. One post's edit says big money \"has been buying US 10yr bonds at 5.3% pushing the yield below 5%\". The 5.3% matches October's 5.31% peak close, but the buying motive is the poster's reading. thread Verified against Treasury's par curve · the motive is Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Treasury's par curve · the motive is Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A WSJ report pasted on both subs says three investors planning to join Anthropic's IPO expect the $1.5 trillion valuation to come down, one saying &quot;closer to $1 trillion&quot;.</strong>",
+              "html": "<p><strong>A WSJ report pasted on both subs says three investors planning to join Anthropic's IPO expect the $1.5 trillion valuation to come down, one saying &quot;closer to $1 trillion&quot;.</strong> The paste says Anthropic is aiming for &quot;the week before Thanksgiving&quot; and could raise up to $100 billion. It also says OpenAI has raised $11 billion of a targeted $30 billion, at $1.25 trillion. The r/stocks top reply (541 points) is &quot;AI stocks need Antrophic to pay the 1 trillion bill&quot;. Another commenter says a delay means &quot;less supply overload in the short term&quot; and that &quot;Anthropic has 150B in cash&quot;, which was not checked. <a href=\"https://www.reddit.com/r/stocks/comments/1xoxm76/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread</a> · <a href=\"https://www.reddit.com/r/investing/comments/1xoxssu/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing thread</a></p>",
+              "text": "A WSJ report pasted on both subs says three investors planning to join Anthropic's IPO expect the $1.5 trillion valuation to come down, one saying \"closer to $1 trillion\". The paste says Anthropic is aiming for \"the week before Thanksgiving\" and could raise up to $100 billion. It also says OpenAI has raised $11 billion of a targeted $30 billion, at $1.25 trillion. The r/stocks top reply (541 points) is \"AI stocks need Antrophic to pay the 1 trillion bill\". Another commenter says a delay means \"less supply overload in the short term\" and that \"Anthropic has 150B in cash\", which was not checked. r/stocks thread · r/investing thread Reported · the WSJ article is paywalled, and a search didn't find it; the search also found no price range or listing date from Anthropic",
+              "status": "reported",
+              "status_html": "<p>Reported · the WSJ article is paywalled, and a search didn't find it; the search also found no price range or listing date from Anthropic</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Bloomberg reports that Microsoft is stepping back from some neocloud data-centre projects and will not exercise an option to more than double its Nscale deal in Texas.</strong>",
+              "html": "<p><strong>Bloomberg reports that Microsoft is stepping back from some neocloud data-centre projects and will not exercise an option to more than double its Nscale deal in Texas.</strong> In the Reuters text pasted in the post, the named providers are Nebius, IREN and Nscale. The post's title adds CoreWeave, and a commenter flags that &quot;bloomberg named nebius, iren and nscale, not coreweave&quot;. The top substantive reply calls it &quot;the customer-concentration risk that got hand-waved during the run-up&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1xop7es/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Bloomberg reports that Microsoft is stepping back from some neocloud data-centre projects and will not exercise an option to more than double its Nscale deal in Texas. In the Reuters text pasted in the post, the named providers are Nebius, IREN and Nscale. The post's title adds CoreWeave, and a commenter flags that \"bloomberg named nebius, iren and nscale, not coreweave\". The top substantive reply calls it \"the customer-concentration risk that got hand-waved during the run-up\". thread Reported · Bloomberg via Reuters as pasted; neither article was read",
+              "status": "reported",
+              "status_html": "<p>Reported · Bloomberg via Reuters as pasted; neither article was read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Microsoft is reported to be winding down rented AI computing from Oracle that ran on older Nvidia chips.</strong>",
+              "html": "<p><strong>Microsoft is reported to be winding down rented AI computing from Oracle that ran on older Nvidia chips.</strong> Oracle's spokesperson says demand &quot;remains strong, including for earlier-generation graphics processing units&quot;. The top reply (198 points) sets that against Oracle's September claim of renewing four-year-old GPUs at a 20% premium: &quot;One of these is the real price of an old GPU&quot;. Other replies say Microsoft is dropping old chips to buy new ones. <a href=\"https://www.reddit.com/r/stocks/comments/1xpjkkr/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Microsoft is reported to be winding down rented AI computing from Oracle that ran on older Nvidia chips. Oracle's spokesperson says demand \"remains strong, including for earlier-generation graphics processing units\". The top reply (198 points) sets that against Oracle's September claim of renewing four-year-old GPUs at a 20% premium: \"One of these is the real price of an old GPU\". Other replies say Microsoft is dropping old chips to buy new ones. thread Reported · the post pastes an article without naming its outlet; not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · the post pastes an article without naming its outlet; not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Amazon made Uber Eats the restaurant-delivery partner for US Prime members, ending its Grubhub arrangement on 5 November.</strong>",
+              "html": "<p><strong>Amazon made Uber Eats the restaurant-delivery partner for US Prime members, ending its Grubhub arrangement on 5 November.</strong> As pasted from TechCrunch: no delivery fee on orders over $25, and existing Grubhub+ activations run to 31 December 2027. <a href=\"https://www.reddit.com/r/stocks/comments/1xosm0y/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Amazon made Uber Eats the restaurant-delivery partner for US Prime members, ending its Grubhub arrangement on 5 November. As pasted from TechCrunch: no delivery fee on orders over $25, and existing Grubhub+ activations run to 31 December 2027. thread Reported from TechCrunch as pasted · not checked",
+              "status": "reported",
+              "status_html": "<p>Reported from TechCrunch as pasted · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Accenture's chair and CEO bought about $3 million of stock on the open market on 26 October, her only open-market purchase since February 2025, after selling about $14 million over that span.</strong>",
+              "html": "<p><strong>Accenture's chair and CEO bought about $3 million of stock on the open market on 26 October, her only open-market purchase since February 2025, after selling about $14 million over that span.</strong> A director bought $200,000 the same day. A commenter puts it in scale: she is still a net seller by $11 million, and fiscal 2026 buybacks were $7.5 billion. <a href=\"https://www.reddit.com/r/investing/comments/1xoicov/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Accenture's chair and CEO bought about $3 million of stock on the open market on 26 October, her only open-market purchase since February 2025, after selling about $14 million over that span. A director bought $200,000 the same day. A commenter puts it in scale: she is still a net seller by $11 million, and fiscal 2026 buybacks were $7.5 billion. thread Single source · the Form 4s and the 10-K figures were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the Form 4s and the 10-K figures were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>How do you earn a safe yield on cash without the interest counting as income this year?</strong>",
+              "html": "<p><strong>How do you earn a safe yield on cash without the interest counting as income this year?</strong> The useful replies: a CD or zero-coupon Treasury of a year or less pays at maturity, so the interest is taxed in the year it matures. The asker adds that tax-exempt municipal bond interest still counts toward MAGI for ACA premium credits, which rules munis out for that purpose. <a href=\"https://www.reddit.com/r/investing/comments/1xpuyyh/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "How do you earn a safe yield on cash without the interest counting as income this year? The useful replies: a CD or zero-coupon Treasury of a year or less pays at maturity, so the interest is taxed in the year it matures. The asker adds that tax-exempt municipal bond interest still counts toward MAGI for ACA premium credits, which rules munis out for that purpose. thread Reported · commenters' account; the tax treatment was not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · commenters' account; the tax treatment was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;What growth does the price need?&quot;: a reverse DCF of 14 chip stocks says MU's 4x forward P/E is the market pricing peak-cycle earnings, not missing them.</strong>",
+              "html": "<p><strong>&quot;What growth does the price need?&quot;: a reverse DCF of 14 chip stocks says MU's 4x forward P/E is the market pricing peak-cycle earnings, not missing them.</strong> At a 9% discount rate with ten years of growth, the poster says ARM needs 39% annual FCF growth, AMD 32%, NVDA 20%, QCOM 9% and MU 2.6%, while SNDK trades below a zero-growth value. Rerun with 2.5% terminal growth, the ranking holds. The strongest objection is that trailing FCF is the weakest input for memory, &quot;since memory margins swing so hard that a single peak year says very little about a full cycle&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1xpbg1b/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"What growth does the price need?\": a reverse DCF of 14 chip stocks says MU's 4x forward P/E is the market pricing peak-cycle earnings, not missing them. At a 9% discount rate with ten years of growth, the poster says ARM needs 39% annual FCF growth, AMD 32%, NVDA 20%, QCOM 9% and MU 2.6%, while SNDK trades below a zero-growth value. Rerun with 2.5% terminal growth, the ranking holds. The strongest objection is that trailing FCF is the weakest input for memory, \"since memory margins swing so hard that a single peak year says very little about a full cycle\". thread Single source · the poster's model and figures",
+              "status": "single-source",
+              "status_html": "<p>Single source · the poster's model and figures</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Dip-buying dominates, but less unanimously than after Alphabet&#x27;s results: &quot;This is why index funds are king, folks&quot; has 402 points, and &quot;13% off ATH is corre…",
+              "html": "<p>Dip-buying dominates, but less unanimously than after Alphabet's results: &quot;This is why index funds are king, folks&quot; has 402 points, and &quot;13% off ATH is correction territory. Are you nuts?&quot; answers &quot;This isn't a big deal&quot; at about the same score. Several threads blame over-leveraged retail traders for the speed of the fall.</p>",
+              "text": "Dip-buying dominates, but less unanimously than after Alphabet's results: \"This is why index funds are king, folks\" has 402 points, and \"13% off ATH is correction territory. Are you nuts?\" answers \"This isn't a big deal\" at about the same score. Several threads blame over-leveraged retail traders for the speed of the fall.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 233-point post says Hinojosa &quot;explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction&quot;.</strong>",
+              "html": "<p><strong>A 233-point post says Hinojosa &quot;explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction&quot;.</strong> A search found her pre-election pledge of &quot;a moratorium — a ban — on all data center approvals&quot;, and Reuters' description of a ban on new projects, but nothing on already-permitted sites. <a href=\"https://www.reddit.com/r/stocks/comments/1xp0e2x/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A 233-point post says Hinojosa \"explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction\". A search found her pre-election pledge of \"a moratorium — a ban — on all data center approvals\", and Reuters' description of a ban on new projects, but nothing on already-permitted sites. thread Unconfirmed · WebSearch of news coverage and her campaign site",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch of news coverage and her campaign site</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing (46 posts in the scan; 10 threads read in full).",
+              "html": "<p><strong>Read:</strong> stocks, investing (46 posts in the scan; 10 threads read in full). <strong>Sources checked:</strong> the Federal Reserve monetary policy feed (no release since the 28 October statement); Treasury's November par curve (2–6 November); the BLS November release schedule and the 6 November Employment Situation release. Alphabet's 8-K was read for the notes figure.</p>",
+              "text": "Read: stocks, investing (46 posts in the scan; 10 threads read in full). Sources checked: the Federal Reserve monetary policy feed (no release since the 28 October statement); Treasury's November par curve (2–6 November); the BLS November release schedule and the 6 November Employment Situation release. Alphabet's 8-K was read for the notes figure.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> BLS JOLTS for September on 3 November, and preliminary Q3 Productivity and Costs on 5 November (BLS schedule).",
+              "html": "<p><strong>Announced, not discussed:</strong> BLS JOLTS for September on 3 November, and preliminary Q3 Productivity and Costs on 5 November (<a href=\"https://www.bls.gov/schedule/news_release/\" target=\"_blank\" rel=\"noopener noreferrer\">BLS schedule</a>). Neither was read.</p>",
+              "text": "Announced, not discussed: BLS JOLTS for September on 3 November, and preliminary Q3 Productivity and Costs on 5 November ( BLS schedule ). Neither was read. Verified against the BLS schedule",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the BLS schedule</p>",
+              "updated": null,
+              "sources": [
+                "bls.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;dems&quot;: covered under Must know.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;dems&quot;: covered under Must know. &quot;p500&quot;: a fragment of &quot;S&amp;P500&quot; in two posts, not a ticker. &quot;voo&quot;, &quot;vxus&quot;, &quot;healthcare&quot;: fund names and sectors in personal-allocation questions, skipped under this feed's guidance. Also skipped: the stickies; personal posts (net worth, rate-my-portfolio, ETF allocations, broker choice, fiduciary, &quot;People with large portfolios&quot;, dividend ETFs, Berkshire as a refuge); opinion and prediction posts (&quot;Dear Reddit&quot;, &quot;V shaped recovery incoming&quot;, &quot;Buy Semiconductor. Buy Oil&quot;, VVIX and Nasdaq crash statistics); a paywalled Citrini note; the Airbnb cancellations post, whose body gives no figures; and a uranium inventory post with two comments.</p>",
+              "text": "Flagged terms set aside: \"dems\": covered under Must know. \"p500\": a fragment of \"S&P500\" in two posts, not a ticker. \"voo\", \"vxus\", \"healthcare\": fund names and sectors in personal-allocation questions, skipped under this feed's guidance. Also skipped: the stickies; personal posts (net worth, rate-my-portfolio, ETF allocations, broker choice, fiduciary, \"People with large portfolios\", dividend ETFs, Berkshire as a refuge); opinion and prediction posts (\"Dear Reddit\", \"V shaped recovery incoming\", \"Buy Semiconductor. Buy Oil\", VVIX and Nasdaq crash statistics); a paywalled Citrini note; the Airbnb cancellations post, whose body gives no figures; and a uranium inventory post with two comments.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-10-30 to 2026-11-06; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-10-30 to 2026-11-06; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-10-30 to 2026-11-06; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Big-tech earnings week took over both subs, and Alphabet's quarter took over earnings week: four of r/stocks' top threads and r/investing's top news post were about it. The common thread was cash flow, with Alphabet and Amazon both negative and Microsoft still positive, and Intel's and Reddit's guidance cuts adding to the selloff. The Fed held rates on 28 October with two dissents for a hike, and r/stocks argued over Warsh's use of &quot;super intelligence&quot; more than over the vote. The DoorDash–Instacart deal that the last entry could not confirm is now signed.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Alphabet's Q3 free cash flow was negative $9.1 billion, and its GAAP EPS of $2.12 includes a $0.55 hit from an equity-securities loss that the &quot;miss&quot; headlines leave out.</strong>",
+              "html": "<p><strong>Alphabet's Q3 free cash flow was negative $9.1 billion, and its GAAP EPS of $2.12 includes a $0.55 hit from an equity-securities loss that the &quot;miss&quot; headlines leave out.</strong> Revenue grew 25% and Google Cloud 103%, but capex of $51.4 billion outran $42.3 billion of operating cash flow; the subs read it as the AI trade's cash problem reaching the strongest balance sheet.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is the run's dominant story, from the <a href=\"https://www.reddit.com/r/stocks/comments/1xhza38/\" target=\"_blank\" rel=\"noopener noreferrer\">860-point CNBC repost</a> and a <a href=\"https://www.reddit.com/r/stocks/comments/1xi1w4h/\" target=\"_blank\" rel=\"noopener noreferrer\">478-point bull case</a> to a <a href=\"https://www.reddit.com/r/stocks/comments/1xi93uc/\" target=\"_blank\" rel=\"noopener noreferrer\">748-point &quot;suddenly dead?&quot; thread</a> and r/investing's <a href=\"https://www.reddit.com/r/investing/comments/1xj1fyh/\" target=\"_blank\" rel=\"noopener noreferrer\">358-point &quot;buying opportunity&quot; post</a>. Two figures in circulation are mis-framed. The CNBC paste says free cash flow &quot;fell to $9.07 billion&quot; with no minus sign; the filing shows an outflow of $9,065 million. And the EPS comparison against a $3.01–3.02 consensus ignores the release's own note that an $8.7 billion loss on equity securities cut diluted EPS by $0.55; the paste itself says it is &quot;not immediately clear&quot; the numbers are comparable.</li>\n<li><strong>What to watch:</strong> Alphabet's Q4 call, where an <a href=\"https://www.reddit.com/r/investing/comments/1xhotkl/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing post</a> says management promised details of 2027 capex, which it said will &quot;increase significantly&quot;; the 2026 range of $195–205 billion as stated in CNBC's coverage.</li>\n<li><strong>Numbers:</strong> From the filing: revenue $127.6 billion, Google Search &amp; other $63.35 billion (up 12%), Google Cloud $30.7 billion, operating income $40.6 billion at a 31.8% margin, diluted EPS $2.12, operating cash flow $42.29 billion, purchases of property and equipment $51.36 billion. As reported by CNBC, from LSEG and FactSet: revenue estimate $128.22 billion, search estimate $64.96 billion, operating income estimate $43.19 billion, and analysts' free cash flow expectation $2.70 billion. As posted: a 13% one-day fall on 29 October, Alphabet's &quot;worst single day drop in history&quot; (CNBC text pasted in the premarket thread linked under Amazon below), and a $5.2 billion EU fine payment inside the operating cash flow, which the release does not mention.</li>\n<li><strong>Caveats:</strong> the strongest objection to the cash-flow alarm, in the <a href=\"https://www.reddit.com/r/investing/comments/1xhotkl/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing thread</a> (569 points), is that &quot;three of the four&quot; big spenders going cash-negative compares different windows: Amazon's figure is trailing twelve months, Alphabet's and Meta's single quarters, Microsoft's a fiscal June quarter. The release does not say what the equity securities were. A commenter quoting an advertiser's July post on X argues search revenue growth comes from charging more for lower-quality clicks; that is one advertiser's account and was not checked.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q3 release, Exhibit 99.1 to the 8-K of 28 October</a>.</li>\n</ul>",
+              "text": "Alphabet's Q3 free cash flow was negative $9.1 billion, and its GAAP EPS of $2.12 includes a $0.55 hit from an equity-securities loss that the \"miss\" headlines leave out. Revenue grew 25% and Google Cloud 103%, but capex of $51.4 billion outran $42.3 billion of operating cash flow; the subs read it as the AI trade's cash problem reaching the strongest balance sheet. Why it matters: it is the run's dominant story, from the 860-point CNBC repost and a 478-point bull case to a 748-point \"suddenly dead?\" thread and r/investing's 358-point \"buying opportunity\" post . Two figures in circulation are mis-framed. The CNBC paste says free cash flow \"fell to $9.07 billion\" with no minus sign; the filing shows an outflow of $9,065 million. And the EPS comparison against a $3.01–3.02 consensus ignores the release's own note that an $8.7 billion loss on equity securities cut diluted EPS by $0.55; the paste itself says it is \"not immediately clear\" the numbers are comparable. What to watch: Alphabet's Q4 call, where an r/investing post says management promised details of 2027 capex, which it said will \"increase significantly\"; the 2026 range of $195–205 billion as stated in CNBC's coverage. Numbers: From the filing: revenue $127.6 billion, Google Search & other $63.35 billion (up 12%), Google Cloud $30.7 billion, operating income $40.6 billion at a 31.8% margin, diluted EPS $2.12, operating cash flow $42.29 billion, purchases of property and equipment $51.36 billion. As reported by CNBC, from LSEG and FactSet: revenue estimate $128.22 billion, search estimate $64.96 billion, operating income estimate $43.19 billion, and analysts' free cash flow expectation $2.70 billion. As posted: a 13% one-day fall on 29 October, Alphabet's \"worst single day drop in history\" (CNBC text pasted in the premarket thread linked under Amazon below), and a $5.2 billion EU fine payment inside the operating cash flow, which the release does not mention. Caveats: the strongest objection to the cash-flow alarm, in the r/investing thread (569 points), is that \"three of the four\" big spenders going cash-negative compares different windows: Amazon's figure is trailing twelve months, Alphabet's and Meta's single quarters, Microsoft's a fiscal June quarter. The release does not say what the equity securities were. A commenter quoting an advertiser's July post on X argues search revenue growth comes from charging more for lower-quality clicks; that is one advertiser's account and was not checked. Read next: Alphabet's Q3 release, Exhibit 99.1 to the 8-K of 28 October . Verified for every filing figure against the 8-K exhibit · the estimates are Reported from CNBC as pasted · the one-day fall, the EU fine and the 2027 wording are as posted and Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for every filing figure against the 8-K exhibit · the estimates are Reported from CNBC as pasted · the one-day fall, the EU fine and the 2027 wording are as posted and <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Fed held the federal funds target at 3.75–4.00% on 28 October by a 10–2 vote, with Cook and Hammack dissenting in favour of a quarter-point hike.</strong>",
+              "html": "<p><strong>The Fed held the federal funds target at 3.75–4.00% on 28 October by a 10–2 vote, with Cook and Hammack dissenting in favour of a quarter-point hike.</strong> The statement says &quot;Inflation remains elevated&quot;; r/stocks spent more energy on Chair Warsh's language at the press conference than on the dissents.</p>\n<ul>\n<li><strong>Why it matters:</strong> a hold with two hawkish dissents after September's hot CPI and PPI sets up the 8–9 December meeting. The <a href=\"https://www.reddit.com/r/stocks/comments/1xijjls/\" target=\"_blank\" rel=\"noopener noreferrer\">764-point r/stocks thread</a> asks whether Warsh's use of &quot;super intelligence&quot; shows the Fed has lost independence. Its best-sourced reply points to Executive Order 14434, which tells agencies to use the term, and a reply beneath quotes the Congressional Research Service: &quot;Given the Fed's independent status, it is unclear which, if any, executive orders the board or the Fed banks are required to comply with.&quot;</li>\n<li><strong>What to watch:</strong> the next FOMC decision on 9 December; October jobs on 6 November and October CPI on 10 November; the midterm vote on 3 November, which r/investing posters say explains the hold, an unsupported reading of motive.</li>\n<li><strong>Numbers:</strong> From Treasury's par curve: the 10-year closed at 5.05% on decision day and 4.98% on 29 October, the 2-year at 4.67% and 4.61%, the 30-year at 5.37% and 5.32%. As posted: one commenter calls a December hike &quot;practically guaranteed&quot;; that is opinion, and no futures pricing was cited.</li>\n<li><strong>Caveats:</strong> the statement itself uses neither &quot;super intelligence&quot; nor &quot;artificial intelligence&quot;, so the wording is from the press conference, whose transcript was not checked. The <a href=\"https://www.reddit.com/r/stocks/comments/1xhvru1/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks post on the dissents</a> drew mostly replies calling it a bot post. A commenter says Warsh &quot;won't cast a vote or do the dot plots&quot;, which is unchecked and sits oddly with a 12-member vote.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the FOMC statement of 28 October</a>.</li>\n</ul>",
+              "text": "The Fed held the federal funds target at 3.75–4.00% on 28 October by a 10–2 vote, with Cook and Hammack dissenting in favour of a quarter-point hike. The statement says \"Inflation remains elevated\"; r/stocks spent more energy on Chair Warsh's language at the press conference than on the dissents. Why it matters: a hold with two hawkish dissents after September's hot CPI and PPI sets up the 8–9 December meeting. The 764-point r/stocks thread asks whether Warsh's use of \"super intelligence\" shows the Fed has lost independence. Its best-sourced reply points to Executive Order 14434, which tells agencies to use the term, and a reply beneath quotes the Congressional Research Service: \"Given the Fed's independent status, it is unclear which, if any, executive orders the board or the Fed banks are required to comply with.\" What to watch: the next FOMC decision on 9 December; October jobs on 6 November and October CPI on 10 November; the midterm vote on 3 November, which r/investing posters say explains the hold, an unsupported reading of motive. Numbers: From Treasury's par curve: the 10-year closed at 5.05% on decision day and 4.98% on 29 October, the 2-year at 4.67% and 4.61%, the 30-year at 5.37% and 5.32%. As posted: one commenter calls a December hike \"practically guaranteed\"; that is opinion, and no futures pricing was cited. Caveats: the statement itself uses neither \"super intelligence\" nor \"artificial intelligence\", so the wording is from the press conference, whose transcript was not checked. The r/stocks post on the dissents drew mostly replies calling it a bot post. A commenter says Warsh \"won't cast a vote or do the dot plots\", which is unchecked and sits oddly with a 12-member vote. Read next: the FOMC statement of 28 October . Verified for the decision, the vote and the dissenters against the Fed's statement, the yields against Treasury's October par curve , and the order against the White House text as summarised in search results · Warsh's wording is as posted",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the decision, the vote and the dissenters against the Fed's statement, the yields against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's October par curve</a>, and the order against <a href=\"https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/\" target=\"_blank\" rel=\"noopener noreferrer\">the White House text</a> as summarised in search results · Warsh's wording is as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "Federal Reserve",
+                "home.treasury.gov",
+                "whitehouse.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>DoorDash agreed on 29 October to buy Instacart for $65.00 a share, about $17 billion, with closing expected at the end of 2027 or in the first half of 2028.</strong>",
+              "html": "<p><strong>DoorDash agreed on 29 October to buy Instacart for $65.00 a share, about $17 billion, with closing expected at the end of 2027 or in the first half of 2028.</strong> Shareholders can take cash, 0.3372 DoorDash shares, or a mix, with stock capped at 25% of the total; the price is a 26% premium to the 22 October close. The deal needs Instacart shareholders, Hart-Scott-Rodino clearance and approvals in Canada and Israel, and holders of about 19% have agreed to vote for it. The r/investing post (272 points) is AI-styled boilerplate; the replies are mostly about the gig economy, and the top substantive question is whether antitrust will block it. This corrects the last entry, which found only reports of talks. <a href=\"https://www.reddit.com/r/investing/comments/1xihkim/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "DoorDash agreed on 29 October to buy Instacart for $65.00 a share, about $17 billion, with closing expected at the end of 2027 or in the first half of 2028. Shareholders can take cash, 0.3372 DoorDash shares, or a mix, with stock capped at 25% of the total; the price is a 26% premium to the 22 October close. The deal needs Instacart shareholders, Hart-Scott-Rodino clearance and approvals in Canada and Israel, and holders of about 19% have agreed to vote for it. The r/investing post (272 points) is AI-styled boilerplate; the replies are mostly about the gig economy, and the top substantive question is whether antitrust will block it. This corrects the last entry, which found only reports of talks. thread Verified against DoorDash's release and Instacart's Form 425 filings on EDGAR",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">DoorDash's release</a> and Instacart's Form 425 filings on EDGAR</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "ir.doordash.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Amazon missed on EPS and revenue, held 2026 capex at $220 billion, and reported a second straight quarter of negative free cash flow.</strong>",
+              "html": "<p><strong>Amazon missed on EPS and revenue, held 2026 capex at $220 billion, and reported a second straight quarter of negative free cash flow.</strong> As pasted from CNBC: EPS $1.89 against $1.96, revenue $201.94 billion against $202.31 billion, AWS $45.98 billion against $45.29 billion, advertising $19.64 billion against $20.82 billion, and a trailing twelve-month free cash outflow of $42.4 billion. The pasted article says Microsoft cut its capex forecast to $170 billion from $175 billion. Top replies note that only Microsoft beat, and one says AWS is projected to grow over 40% in 2027 and 2028, which another answers depends on OpenAI's funding. A later post has Amazon down 7% and Intel 25% in premarket on 30 October. <a href=\"https://www.reddit.com/r/stocks/comments/1xiva6n/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a> · <a href=\"https://www.reddit.com/r/stocks/comments/1xjedyq/\" target=\"_blank\" rel=\"noopener noreferrer\">premarket thread</a></p>",
+              "text": "Amazon missed on EPS and revenue, held 2026 capex at $220 billion, and reported a second straight quarter of negative free cash flow. As pasted from CNBC: EPS $1.89 against $1.96, revenue $201.94 billion against $202.31 billion, AWS $45.98 billion against $45.29 billion, advertising $19.64 billion against $20.82 billion, and a trailing twelve-month free cash outflow of $42.4 billion. The pasted article says Microsoft cut its capex forecast to $170 billion from $175 billion. Top replies note that only Microsoft beat, and one says AWS is projected to grow over 40% in 2027 and 2028, which another answers depends on OpenAI's funding. A later post has Amazon down 7% and Intel 25% in premarket on 30 October. thread · premarket thread Reported from CNBC as pasted · a search found no Q3 release, so no figure was checked",
+              "status": "reported",
+              "status_html": "<p>Reported from CNBC as pasted · a search found no Q3 release, so no figure was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Intel guided Q4 revenue to $15–16 billion against $17.1 billion expected, blaming a PC slowdown it expects to last through the first half of 2027.</strong>",
+              "html": "<p><strong>Intel guided Q4 revenue to $15–16 billion against $17.1 billion expected, blaming a PC slowdown it expects to last through the first half of 2027.</strong> Q3 revenue was $16.5 billion, up 21%. As pasted from CNBC: adjusted EPS of 52 cents against 40, a Q4 EPS guide of 25 cents against 43, data centre and AI revenue up 78% to $7.3 billion, client computing down 5% to $8.1 billion, and a fab explosion in Israel that the CFO told Reuters will cost about $600 million of revenue over two quarters. Commenters blame memory and GPU prices for the PC slump; one asks why strong cloud backlogs are hurting every chip stock, and the reply is that algorithms trade sectors as cohorts. <a href=\"https://www.reddit.com/r/stocks/comments/1xiwkvs/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Intel guided Q4 revenue to $15–16 billion against $17.1 billion expected, blaming a PC slowdown it expects to last through the first half of 2027. Q3 revenue was $16.5 billion, up 21%. As pasted from CNBC: adjusted EPS of 52 cents against 40, a Q4 EPS guide of 25 cents against 43, data centre and AI revenue up 78% to $7.3 billion, client computing down 5% to $8.1 billion, and a fab explosion in Israel that the CFO told Reuters will cost about $600 million of revenue over two quarters. Commenters blame memory and GPU prices for the PC slump; one asks why strong cloud backlogs are hurting every chip stock, and the reply is that algorithms trade sectors as cohorts. thread Verified for Q3 revenue and the Q4 revenue range against Intel's release on EDGAR as summarised in search results · the rest is Reported from CNBC as pasted · the Israel explosion was not found in a search and is Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for Q3 revenue and the Q4 revenue range against <a href=\"https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000188/q326earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Intel's release on EDGAR</a> as summarised in search results · the rest is Reported from CNBC as pasted · the Israel explosion was not found in a search and is <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Microsoft beat, disclosed Azure revenue in dollars for the first time, and stayed free-cash-flow positive.</strong>",
+              "html": "<p><strong>Microsoft beat, disclosed Azure revenue in dollars for the first time, and stayed free-cash-flow positive.</strong> As pasted from CNBC: adjusted EPS $4.89 against $4.73, revenue $92.28 billion against $90.69 billion, Azure $33.17 billion, up 48%. The r/investing cash-flow post gives $18.6 billion of free cash flow, down 27%. In the Amazon thread, one commenter says the market disliked Microsoft's bond issuance for data centres. <a href=\"https://www.reddit.com/r/stocks/comments/1xhz1lc/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Microsoft beat, disclosed Azure revenue in dollars for the first time, and stayed free-cash-flow positive. As pasted from CNBC: adjusted EPS $4.89 against $4.73, revenue $92.28 billion against $90.69 billion, Azure $33.17 billion, up 48%. The r/investing cash-flow post gives $18.6 billion of free cash flow, down 27%. In the Amazon thread, one commenter says the market disliked Microsoft's bond issuance for data centres. thread Reported from CNBC as pasted · not checked against Microsoft's release",
+              "status": "reported",
+              "status_html": "<p>Reported from CNBC as pasted · not checked against Microsoft's release</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Reddit beat on Q3 but guided Q4 sales low, and said it will test requiring an account to use the site, citing shrinking Google referral traffic.</strong>",
+              "html": "<p><strong>Reddit beat on Q3 but guided Q4 sales low, and said it will test requiring an account to use the site, citing shrinking Google referral traffic.</strong> As pasted from CNBC: EPS $1.40 against $1.35, revenue $895 million against $878 million, daily active uniques 130.3 million against 133.7 million expected, US uniques down 2% to 50.7 million. Testing begins in Q4 outside the US. The top replies blame moderation and the app; one holder says Google now answers questions above the Reddit links, so nobody clicks through. <a href=\"https://www.reddit.com/r/stocks/comments/1xiuxl5/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Reddit beat on Q3 but guided Q4 sales low, and said it will test requiring an account to use the site, citing shrinking Google referral traffic. As pasted from CNBC: EPS $1.40 against $1.35, revenue $895 million against $878 million, daily active uniques 130.3 million against 133.7 million expected, US uniques down 2% to 50.7 million. Testing begins in Q4 outside the US. The top replies blame moderation and the app; one holder says Google now answers questions above the Reddit links, so nobody clicks through. thread Reported from CNBC as pasted · not checked",
+              "status": "reported",
+              "status_html": "<p>Reported from CNBC as pasted · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>ServiceNow beat and raised, then fell about 19%, and a 10-Q-sourced post says the reason is a cRPO growth guide of 18.5%.</strong>",
+              "html": "<p><strong>ServiceNow beat and raised, then fell about 19%, and a 10-Q-sourced post says the reason is a cRPO growth guide of 18.5%.</strong> The poster's constant-currency sequence is 21.5% in Q2, 21% in Q3 against a 20% guide, and 18.5% guided for Q4. From the 10-Q, the poster adds that the Armis deal and others moved the company from net cash to slight net debt, that GAAP operating margin fell to 9.5% from 17%, and that subscription cost of revenue rose 58% against 21% revenue growth. Replies say ServiceNow beat its own cRPO guide by a point last quarter, so 18.5% may be conservative, and that renewal timing can swing cRPO. <a href=\"https://www.reddit.com/r/investing/comments/1xia5lr/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "ServiceNow beat and raised, then fell about 19%, and a 10-Q-sourced post says the reason is a cRPO growth guide of 18.5%. The poster's constant-currency sequence is 21.5% in Q2, 21% in Q3 against a 20% guide, and 18.5% guided for Q4. From the 10-Q, the poster adds that the Armis deal and others moved the company from net cash to slight net debt, that GAAP operating margin fell to 9.5% from 17%, and that subscription cost of revenue rose 58% against 21% revenue growth. Replies say ServiceNow beat its own cRPO guide by a point last quarter, so 18.5% may be conservative, and that renewal timing can swing cRPO. thread Single source · the poster cites the 8-K and 10-Q on EDGAR; no figure was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the poster cites the 8-K and 10-Q on EDGAR; no figure was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Samsung reported a record Q3 operating profit of ₩107.4 trillion ($80.4 billion), above the ₩106 trillion consensus, with revenue and net profit below forecasts.</strong>",
+              "html": "<p><strong>Samsung reported a record Q3 operating profit of ₩107.4 trillion ($80.4 billion), above the ₩106 trillion consensus, with revenue and net profit below forecasts.</strong> The Korea JoongAng Daily article pasted in the post says the profit exceeds Microsoft's, Alphabet's and Meta's. <a href=\"https://www.reddit.com/r/stocks/comments/1xi6zrn/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Samsung reported a record Q3 operating profit of ₩107.4 trillion ($80.4 billion), above the ₩106 trillion consensus, with revenue and net profit below forecasts. The Korea JoongAng Daily article pasted in the post says the profit exceeds Microsoft's, Alphabet's and Meta's. thread Reported from the Korea JoongAng Daily as pasted · not checked",
+              "status": "reported",
+              "status_html": "<p>Reported from the Korea JoongAng Daily as pasted · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Can an all-Nasdaq-100 portfolio trail the S&amp;P 500 for ten years?</strong>",
+              "html": "<p><strong>Can an all-Nasdaq-100 portfolio trail the S&amp;P 500 for ten years?</strong> The substantive reply says yes: after the 2000 peak the Nasdaq fell roughly 78–84% and lagged the S&amp;P 500 through the following decade, and its heavier tech weighting means deeper drawdowns, as in 2022. Another reply calls the index arbitrary, since it selects by listing exchange rather than by sector or style. Several note that the two indexes now overlap heavily. <a href=\"https://www.reddit.com/r/investing/comments/1xi4res/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Can an all-Nasdaq-100 portfolio trail the S&P 500 for ten years? The substantive reply says yes: after the 2000 peak the Nasdaq fell roughly 78–84% and lagged the S&P 500 through the following decade, and its heavier tech weighting means deeper drawdowns, as in 2022. Another reply calls the index arbitrary, since it selects by listing exchange rather than by sector or style. Several note that the two indexes now overlap heavily. thread Reported · commenters' account; the drawdown range was not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · commenters' account; the drawdown range was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Search is now under 50% of Alphabet's revenue, so a search decline matters less than the market thinks.&quot;</strong>",
+              "html": "<p><strong>&quot;Search is now under 50% of Alphabet's revenue, so a search decline matters less than the market thinks.&quot;</strong> The poster puts search at $63 billion of $127 billion this quarter against about 60% in Q4 2019. The quarterly figures match the filing; the 2019 share and the poster's five-year scenario are theirs. <a href=\"https://www.reddit.com/r/stocks/comments/1xikhvm/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"Search is now under 50% of Alphabet's revenue, so a search decline matters less than the market thinks.\" The poster puts search at $63 billion of $127 billion this quarter against about 60% in Q4 2019. The quarterly figures match the filing; the 2019 share and the poster's five-year scenario are theirs. thread Single source · current figures consistent with the 8-K",
+              "status": "single-source",
+              "status_html": "<p>Single source · current figures consistent with the 8-K</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Is Tesla detached from reality?&quot;</strong>",
+              "html": "<p><strong>&quot;Is Tesla detached from reality?&quot;</strong> A 529-point r/stocks thread asks how a $1.5 trillion company with falling revenue trades at a P/E the poster puts in the 400s. <a href=\"https://www.reddit.com/r/stocks/comments/1xj2391/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"Is Tesla detached from reality?\" A 529-point r/stocks thread asks how a $1.5 trillion company with falling revenue trades at a P/E the poster puts in the 400s. thread Single source · figures as posted; comments not read",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted; comments not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Dip-buying dominates the Alphabet threads, and the top reply on the CNBC repost, &quot;As an investor I wouldnt be worried at all&quot;, has 662 points.",
+              "html": "<p>Dip-buying dominates the Alphabet threads, and the top reply on the CNBC repost, &quot;As an investor I wouldnt be worried at all&quot;, has 662 points. Commenters on several threads call posts AI-written or bot posts, more often than in earlier runs.</p>",
+              "text": "Dip-buying dominates the Alphabet threads, and the top reply on the CNBC repost, \"As an investor I wouldnt be worried at all\", has 662 points. Commenters on several threads call posts AI-written or bot posts, more often than in earlier runs.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Google is defaulting to search again rather than Gemini&quot; is the run's top post at 1,548 points, and its own replies reject it.</strong>",
+              "html": "<p><strong>&quot;Google is defaulting to search again rather than Gemini&quot; is the run's top post at 1,548 points, and its own replies reject it.</strong> The poster ties it to poor search metrics in the earnings release. The most-upvoted replies say &quot;No it's not&quot; and that Google constantly A/B tests features per user and device. <a href=\"https://www.reddit.com/r/stocks/comments/1xj04r1/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"Google is defaulting to search again rather than Gemini\" is the run's top post at 1,548 points, and its own replies reject it. The poster ties it to poor search metrics in the earnings release. The most-upvoted replies say \"No it's not\" and that Google constantly A/B tests features per user and device. thread Unconfirmed · no Google announcement was looked for; the claim rests on one person's phone",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · no Google announcement was looked for; the claim rests on one person's phone</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing (45 posts in the scan; 13 threads read in full).",
+              "html": "<p><strong>Read:</strong> stocks, investing (45 posts in the scan; 13 threads read in full). <strong>Sources checked:</strong> Federal Reserve monetary policy feed and the 28 October statement; Treasury par yield curve (October month view, through 29 October); BLS release schedule (October page only). Alphabet's 8-K exhibit and DoorDash's release were read directly; Intel's release, EO 14434 and Amazon's results were checked by search only, and the search found no Amazon release.</p>",
+              "text": "Read: stocks, investing (45 posts in the scan; 13 threads read in full). Sources checked: Federal Reserve monetary policy feed and the 28 October statement; Treasury par yield curve (October month view, through 29 October); BLS release schedule (October page only). Alphabet's 8-K exhibit and DoorDash's release were read directly; Intel's release, EO 14434 and Amazon's results were checked by search only, and the search found no Amazon release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the BLS Employment Cost Index for Q3 on 30 October, Consumer Expenditures for 2025 on 29 October, and Metropolitan Area Employment for Se…",
+              "html": "<p><strong>Announced, not discussed:</strong> the BLS Employment Cost Index for Q3 on 30 October, Consumer Expenditures for 2025 on 29 October, and Metropolitan Area Employment for September on 28 October (<a href=\"https://www.bls.gov/schedule/news_release/\" target=\"_blank\" rel=\"noopener noreferrer\">BLS schedule</a>); none was read.</p>",
+              "text": "Announced, not discussed: the BLS Employment Cost Index for Q3 on 30 October, Consumer Expenditures for 2025 on 29 October, and Metropolitan Area Employment for September on 28 October ( BLS schedule ); none was read. Verified against the BLS schedule",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the BLS schedule</p>",
+              "updated": null,
+              "sources": [
+                "bls.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;googl&quot;, &quot;goog&quot;: covered under Must know and Debates.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;googl&quot;, &quot;goog&quot;: covered under Must know and Debates. &quot;kevin&quot;, &quot;warsh&quot;: covered under the Fed item. &quot;amzn&quot;: covered under Amazon. &quot;lseg&quot;: the estimate provider named in CNBC's pasted articles, not a story.</p>",
+              "text": "Flagged terms set aside: \"googl\", \"goog\": covered under Must know and Debates. \"kevin\", \"warsh\": covered under the Fed item. \"amzn\": covered under Amazon. \"lseg\": the estimate provider named in CNBC's pasted articles, not a story.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists covered the three days since the last entry; no gap was flagged.",
+              "html": "<p>Hot lists covered the three days since the last entry; no gap was flagged.</p>",
+              "text": "Hot lists covered the three days since the last entry; no gap was flagged.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "title": "Stocks & investing digest",
@@ -2295,22 +2854,9 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong>",
-          "html": "<p><strong>Next Fed meeting: 27–28 October 2026, then 8–9 December.</strong> The September minutes say most officials expect &quot;another increase in the target range for the federal funds rate&quot; to &quot;likely be appropriate by year end&quot;. September CPI and PPI both came in above forecasts ahead of it.</p>",
-          "text": "Next Fed meeting: 27–28 October 2026, then 8–9 December. The September minutes say most officials expect \"another increase in the target range for the federal funds rate\" to \"likely be appropriate by year end\". September CPI and PPI both came in above forecasts ahead of it. Verified against the Fed's calendar and the September minutes · re-checked 2026-10-15",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's calendar</a> and <a href=\"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the September minutes</a> · re-checked 2026-10-15</p>",
-          "updated": "2026-10-15",
-          "sources": [
-            "Federal Reserve"
-          ],
-          "due": "2026-10-28",
-          "due_label": "decision day"
-        },
-        {
           "headline": "<strong>September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly.</strong>",
-          "html": "<p><strong>September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly.</strong> Gasoline did most of it — up 9.1% in the month and 34.2% over the year, more than half the monthly all-items increase. The PPI annual gain is the largest since December 2022. Next: October CPI on 10 November, November CPI on 10 December; October jobs on 6 November, November jobs on 4 December.</p>",
-          "text": "September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly. Gasoline did most of it — up 9.1% in the month and 34.2% over the year, more than half the monthly all-items increase. The PPI annual gain is the largest since December 2022. Next: October CPI on 10 November, November CPI on 10 December; October jobs on 6 November, November jobs on 4 December. Verified against the BLS releases of 14 October and 15 October , and the dates against the CPI and Employment Situation schedules · 2026-10-15",
+          "html": "<p><strong>September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly.</strong> Gasoline did most of it — up 9.1% in the month and 34.2% over the year, more than half the monthly all-items increase. The PPI annual gain is the largest since December 2022. Next: October CPI on 10 November, November CPI on 10 December; October jobs on 6 November, November jobs on 4 December.\nOctober jobs, released 6 November: payrolls +165,000, unemployment 4.1%, average hourly earnings +0.4% in the month and +3.1% over the year; August revised to +186,000 and September to +60,000. October PPI is on 13 November.</p>",
+          "text": "September inflation came in hot on both measures: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual and 1.3% monthly. Gasoline did most of it — up 9.1% in the month and 34.2% over the year, more than half the monthly all-items increase. The PPI annual gain is the largest since December 2022. Next: October CPI on 10 November, November CPI on 10 December; October jobs on 6 November, November jobs on 4 December. October jobs, released 6 November: payrolls +165,000, unemployment 4.1%, average hourly earnings +0.4% in the month and +3.1% over the year; August revised to +186,000 and September to +60,000. October PPI is on 13 November. Verified against the BLS releases of 14 October and 15 October , and the dates against the CPI and Employment Situation schedules · 2026-10-15",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against the BLS releases of <a href=\"https://www.bls.gov/news.release/cpi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">14 October</a> and <a href=\"https://www.bls.gov/news.release/ppi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">15 October</a>, and the dates against the <a href=\"https://www.bls.gov/schedule/news_release/cpi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">CPI</a> and <a href=\"https://www.bls.gov/schedule/news_release/empsit.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Employment Situation</a> schedules · 2026-10-15</p>",
           "updated": "2026-10-15",
@@ -2321,12 +2867,39 @@
           "due_label": "October CPI"
         },
         {
+          "headline": "<strong>Next Fed meeting: 8–9 December 2026. On 28 October the FOMC held the target range at 3.75–4.00% by 10–2, with Lisa Cook and Beth Hammack voting for a quarter-point hike.</strong>",
+          "html": "<p><strong>Next Fed meeting: 8–9 December 2026. On 28 October the FOMC held the target range at 3.75–4.00% by 10–2, with Lisa Cook and Beth Hammack voting for a quarter-point hike.</strong> The statement says &quot;Inflation remains elevated.&quot; The September minutes said most officials expected &quot;another increase in the target range for the federal funds rate&quot; to &quot;likely be appropriate by year end&quot;, so December is the meeting the subs are watching.</p>",
+          "text": "Next Fed meeting: 8–9 December 2026. On 28 October the FOMC held the target range at 3.75–4.00% by 10–2, with Lisa Cook and Beth Hammack voting for a quarter-point hike. The statement says \"Inflation remains elevated.\" The September minutes said most officials expected \"another increase in the target range for the federal funds rate\" to \"likely be appropriate by year end\", so December is the meeting the subs are watching. Verified against the 28 October statement , the Fed's calendar and the September minutes · 2026-10-30",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 28 October statement</a>, <a href=\"https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's calendar</a> and <a href=\"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the September minutes</a> · 2026-10-30</p>",
+          "updated": "2026-10-30",
+          "sources": [
+            "Federal Reserve"
+          ],
+          "due": "2026-12-09",
+          "due_label": "decision day"
+        },
+        {
+          "headline": "<strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong>",
+          "html": "<p><strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong> Her pre-election wording was &quot;a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.&quot; The subs treat it as a driver of the 5 November sell-off in chip and neocloud stocks. A widely upvoted r/stocks claim that she will let already-permitted projects finish was not found in any coverage. Watch for an executive order after 19 January and the 2027 legislative session.</p>",
+          "text": "Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027. Her pre-election wording was \"a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.\" The subs treat it as a driver of the 5 November sell-off in chip and neocloud stocks. A widely upvoted r/stocks claim that she will let already-permitted projects finish was not found in any coverage. Watch for an executive order after 19 January and the 2027 legislative session. Reported · States Newsroom and Reuters as syndicated by The Star · the permitted-projects claim is Unconfirmed · 2026-11-06",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://www.newsfromthestates.com/article/gina-hinojosa-won-governors-race-what-happens-texas-data-centers-now\" target=\"_blank\" rel=\"noopener noreferrer\">States Newsroom</a> and Reuters as syndicated by <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/05/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race\" target=\"_blank\" rel=\"noopener noreferrer\">The Star</a> · the permitted-projects claim is <strong>Unconfirmed</strong> · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "newsfromthestates.com",
+            "thestar.com.my"
+          ],
+          "due": "2027-01-19",
+          "due_label": "inauguration"
+        },
+        {
           "headline": "<strong>The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October.</strong>",
           "html": "<p><strong>The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October.</strong> Kept because threads on both subs argue from &quot;yields above 5%&quot; or from a spike without naming a maturity or a date, and because the move runs the other way from the rates-caused-the-selloff reading that dominated mid-October. On 20 October the 2-year was 4.79%, the 30-year 5.42% and the 1-month bill 4.10%. A claim that the 10-year &quot;touched 5.36%, a 24 year high&quot; the week of 5–9 October does not appear in the par curve, whose highest close since 1 September is 5.31%.</p>",
-          "text": "The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October. Kept because threads on both subs argue from \"yields above 5%\" or from a spike without naming a maturity or a date, and because the move runs the other way from the rates-caused-the-selloff reading that dominated mid-October. On 20 October the 2-year was 4.79%, the 30-year 5.42% and the 1-month bill 4.10%. A claim that the 10-year \"touched 5.36%, a 24 year high\" the week of 5–9 October does not appear in the par curve, whose highest close since 1 September is 5.31%. Verified against Treasury's October 2026 par curve · the 5.36% claim is Unconfirmed ; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October) · re-checked 2026-10-27: 5.00% on 26 October, 2-year 4.68%, 30-year 5.31%",
+          "text": "The 10-year Treasury yield fell through the week of the chip selloff and has gone sideways since, at 5.09% on 16 October, 5.15% on 19 October and 5.12% on 20 October, against 5.24% on 9 October and a 5.31% peak on 5 October. Kept because threads on both subs argue from \"yields above 5%\" or from a spike without naming a maturity or a date, and because the move runs the other way from the rates-caused-the-selloff reading that dominated mid-October. On 20 October the 2-year was 4.79%, the 30-year 5.42% and the 1-month bill 4.10%. A claim that the 10-year \"touched 5.36%, a 24 year high\" the week of 5–9 October does not appear in the par curve, whose highest close since 1 September is 5.31%. Verified against Treasury's October 2026 par curve · the 5.36% claim is Unconfirmed ; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October) · re-checked 2026-10-27: 5.00% on 26 October, 2-year 4.68%, 30-year 5.31% · re-checked 2026-10-30: 4.99% on 27 October, 5.05% on 28 October (Fed day), 4.98% on 29 October, with the 2-year at 4.61% and the 30-year at 5.32% on 29 October · re-checked 2026-11-06 against the November par curve : the 10-year was 4.91% on 2 November, 4.95% on 3 November, 4.90% on 4 November, 4.84% on 5 November (the sell-off) and 4.86% on 6 November, with the 2-year at 4.46% on 5 November",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's October 2026 par curve</a> · the 5.36% claim is <strong>Unconfirmed</strong>; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October) · re-checked 2026-10-27: 5.00% on 26 October, 2-year 4.68%, 30-year 5.31%</p>",
-          "updated": "2026-10-27",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's October 2026 par curve</a> · the 5.36% claim is <strong>Unconfirmed</strong>; no intraday source was checked · re-checked 2026-10-24: the 10-year then closed at 5.13% on 21 October, 4.96% on 22 October and 5.00% on 23 October (30-year 5.33% on 23 October) · re-checked 2026-10-27: 5.00% on 26 October, 2-year 4.68%, 30-year 5.31% · re-checked 2026-10-30: 4.99% on 27 October, 5.05% on 28 October (Fed day), 4.98% on 29 October, with the 2-year at 4.61% and the 30-year at 5.32% on 29 October · re-checked 2026-11-06 against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202611\" target=\"_blank\" rel=\"noopener noreferrer\">the November par curve</a>: the 10-year was 4.91% on 2 November, 4.95% on 3 November, 4.90% on 4 November, 4.84% on 5 November (the sell-off) and 4.86% on 6 November, with the 2-year at 4.46% on 5 November</p>",
+          "updated": "2026-11-06",
           "sources": [
             "home.treasury.gov"
           ],
@@ -2394,10 +2967,10 @@
         {
           "headline": "<strong>OpenAI is reported to be accelerating a roughly $30 billion raise at over $1.4 trillion ahead of Anthropic's expected mid-November listing.</strong>",
           "html": "<p><strong>OpenAI is reported to be accelerating a roughly $30 billion raise at over $1.4 trillion ahead of Anthropic's expected mid-November listing.</strong> Reuters of 19 October, citing two people familiar with the matter: SoftBank, MGX and other existing backers in talks, meetings with long-only and sovereign wealth funds held during Anthropic's investor day, and a stated need for capital to fund infrastructure commitments if IPO-market deterioration delays OpenAI's planned 2027 listing. Tracked alongside the Anthropic entry because both labs are reported to be drawing on the same investor base.</p>",
-          "text": "OpenAI is reported to be accelerating a roughly $30 billion raise at over $1.4 trillion ahead of Anthropic's expected mid-November listing. Reuters of 19 October, citing two people familiar with the matter: SoftBank, MGX and other existing backers in talks, meetings with long-only and sovereign wealth funds held during Anthropic's investor day, and a stated need for capital to fund infrastructure commitments if IPO-market deterioration delays OpenAI's planned 2027 listing. Tracked alongside the Anthropic entry because both labs are reported to be drawing on the same investor base. Reported from Reuters of 19 October · no party has confirmed the round, the valuation or the timetable · 2026-10-21",
+          "text": "OpenAI is reported to be accelerating a roughly $30 billion raise at over $1.4 trillion ahead of Anthropic's expected mid-November listing. Reuters of 19 October, citing two people familiar with the matter: SoftBank, MGX and other existing backers in talks, meetings with long-only and sovereign wealth funds held during Anthropic's investor day, and a stated need for capital to fund infrastructure commitments if IPO-market deterioration delays OpenAI's planned 2027 listing. Tracked alongside the Anthropic entry because both labs are reported to be drawing on the same investor base. Reported from Reuters of 19 October · no party has confirmed the round, the valuation or the timetable · 2026-10-21 · 2026-11-06: a WSJ report pasted on r/investing says OpenAI has raised $11 billion of the $30 billion, at $1.25 trillion, below what it initially targeted; Reported as pasted, paywalled",
           "status": "reported",
-          "status_html": "<p>Reported from <a href=\"https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters of 19 October</a> · no party has confirmed the round, the valuation or the timetable · 2026-10-21</p>",
-          "updated": "2026-10-21",
+          "status_html": "<p>Reported from <a href=\"https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters of 19 October</a> · no party has confirmed the round, the valuation or the timetable · 2026-10-21 · 2026-11-06: a WSJ report pasted on r/investing says OpenAI has raised $11 billion of the $30 billion, at $1.25 trillion, below what it initially targeted; Reported as pasted, paywalled</p>",
+          "updated": "2026-11-06",
           "sources": [
             "Reuters"
           ],
@@ -2406,11 +2979,11 @@
         },
         {
           "headline": "<strong>Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set.</strong>",
-          "html": "<p><strong>Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set.</strong> Yahoo Finance reports H1 2026 revenue of $16.3 billion, a net loss of $80.7 billion through June (about $72 billion of it, per commenters, a fair-value loss on convertible notes), a $42 billion loss in 2025, the ticker &quot;ANT&quot;, and &quot;upward of $430 billion&quot; of locked-in compute deals, up to $637 billion including cancellable ones. Next: an amended S-1 with a price range.</p>",
-          "text": "Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set. Yahoo Finance reports H1 2026 revenue of $16.3 billion, a net loss of $80.7 billion through June (about $72 billion of it, per commenters, a fair-value loss on convertible notes), a $42 billion loss in 2025, the ticker \"ANT\", and \"upward of $430 billion\" of locked-in compute deals, up to $637 billion including cancellable ones. Next: an amended S-1 with a price range. Verified for the filing against EDGAR · the figures are Reported from Yahoo Finance ; the S-1 itself was too large to fetch · 2026-10-27",
+          "html": "<p><strong>Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set.</strong> Yahoo Finance reports H1 2026 revenue of $16.3 billion, a net loss of $80.7 billion through June (about $72 billion of it, per commenters, a fair-value loss on convertible notes), a $42 billion loss in 2025, the ticker &quot;ANT&quot;, and &quot;upward of $430 billion&quot; of locked-in compute deals, up to $637 billion including cancellable ones. Next: an amended S-1 with a price range.\nAfter the 5 November sell-off, a WSJ report pasted on both subs says Anthropic is aiming for &quot;the week before Thanksgiving&quot; and a raise of up to $100 billion, and that three investors planning to participate say the $1.5 trillion valuation will likely come down, one saying &quot;closer to $1 trillion&quot;; another wondered whether Anthropic would delay.</p>",
+          "text": "Anthropic filed its S-1 publicly on 26 October; no price range or listing date has been set. Yahoo Finance reports H1 2026 revenue of $16.3 billion, a net loss of $80.7 billion through June (about $72 billion of it, per commenters, a fair-value loss on convertible notes), a $42 billion loss in 2025, the ticker \"ANT\", and \"upward of $430 billion\" of locked-in compute deals, up to $637 billion including cancellable ones. Next: an amended S-1 with a price range. After the 5 November sell-off, a WSJ report pasted on both subs says Anthropic is aiming for \"the week before Thanksgiving\" and a raise of up to $100 billion, and that three investors planning to participate say the $1.5 trillion valuation will likely come down, one saying \"closer to $1 trillion\"; another wondered whether Anthropic would delay. Verified for the filing against EDGAR · the figures are Reported from Yahoo Finance ; the S-1 itself was too large to fetch · 2026-10-27 · 2026-11-06: the WSJ report is Reported as pasted, paywalled and not found in a search; EDGAR was not re-checked for an amended S-1",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for the filing against <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR</a> · the figures are Reported from <a href=\"https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance</a>; the S-1 itself was too large to fetch · 2026-10-27</p>",
-          "updated": "2026-10-27",
+          "status_html": "<p><strong>Verified</strong> for the filing against <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR</a> · the figures are Reported from <a href=\"https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html\" target=\"_blank\" rel=\"noopener noreferrer\">Yahoo Finance</a>; the S-1 itself was too large to fetch · 2026-10-27 · 2026-11-06: the WSJ report is Reported as pasted, paywalled and not found in a search; EDGAR was not re-checked for an amended S-1</p>",
+          "updated": "2026-11-06",
           "sources": [
             "SEC filing",
             "Yahoo Finance"
@@ -2497,6 +3070,19 @@
           ],
           "due": "2027-06-30",
           "due_label": "progress checkpoint"
+        },
+        {
+          "headline": "<strong>DoorDash agreed on 29 October to buy Instacart for $65.00 a share, about $17 billion, and expects to close at the end of 2027 or in the first half of 2028.</strong>",
+          "html": "<p><strong>DoorDash agreed on 29 October to buy Instacart for $65.00 a share, about $17 billion, and expects to close at the end of 2027 or in the first half of 2028.</strong> Holders choose $65.00 in cash, 0.3372 DoorDash shares, or $48.75 plus 0.0843 shares, with stock capped at 25% of the total; a 26% premium to the 22 October close. Conditions: Instacart shareholder approval, Hart-Scott-Rodino clearance, and approvals in Canada and Israel; holders of about 19% have agreed to vote in favour, and there is no financing condition. Tracked because the subs' first question is antitrust, and because r/investing called it done while it was still reported talks.</p>",
+          "text": "DoorDash agreed on 29 October to buy Instacart for $65.00 a share, about $17 billion, and expects to close at the end of 2027 or in the first half of 2028. Holders choose $65.00 in cash, 0.3372 DoorDash shares, or $48.75 plus 0.0843 shares, with stock capped at 25% of the total; a 26% premium to the 22 October close. Conditions: Instacart shareholder approval, Hart-Scott-Rodino clearance, and approvals in Canada and Israel; holders of about 19% have agreed to vote in favour, and there is no financing condition. Tracked because the subs' first question is antitrust, and because r/investing called it done while it was still reported talks. Verified against DoorDash's release · 2026-10-30",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">DoorDash's release</a> · 2026-10-30</p>",
+          "updated": "2026-10-30",
+          "sources": [
+            "ir.doordash.com"
+          ],
+          "due": "2027-12-31",
+          "due_label": "earliest expected closing, \"end of 2027\""
         },
         {
           "headline": "<strong>The SpaceX and Tesla boards have each formed a special committee of independent directors to study a merger, and neither has agreed anything.</strong>",
@@ -2670,11 +3256,11 @@
         },
         {
           "headline": "<strong>&quot;The AI capital-spending chain is circular.&quot;</strong>",
-          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. On 2026-10-27 it centred on suppliers funding customers: Nvidia buying $3 billion of Meta's equity raise, and Broadcom guaranteeing Anthropic's chip-lease debt. The best objection was that the chipmakers' stakes are a small slice of the money, which mostly comes from &quot;outside the circle&quot;.</p>",
-          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. On 2026-10-27 it centred on suppliers funding customers: Nvidia buying $3 billion of Meta's equity raise, and Broadcom guaranteeing Anthropic's chip-lease debt. The best objection was that the chipmakers' stakes are a small slice of the money, which mostly comes from \"outside the circle\". Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release · 2026-10-27",
+          "html": "<p><strong>&quot;The AI capital-spending chain is circular.&quot;</strong> The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. On 2026-10-27 it centred on suppliers funding customers: Nvidia buying $3 billion of Meta's equity raise, and Broadcom guaranteeing Anthropic's chip-lease debt. The best objection was that the chipmakers' stakes are a small slice of the money, which mostly comes from &quot;outside the circle&quot;. On 2026-10-30 it moved to the buyers' own cash flow: Alphabet's Q3 free cash flow was −$9.1 billion in its filing, Amazon's trailing figure −$42.4 billion as reported, and Microsoft still positive. The best objection was that &quot;three of the four&quot; compares a trailing twelve months, single quarters and a fiscal quarter, and another reply argued that the hyperscalers fund capex from operating cash and could stop it at will.</p>",
+          "text": "\"The AI capital-spending chain is circular.\" The form the argument takes now is that the picks-and-shovels companies with excellent fundamentals sell to the model labs, which are not profitable, so one set of earnings is the other's spending. Tracked because each run restates it with different numbers: on 2026-10-12 it was OpenAI's roughly $750 billion of committed compute against a $50 billion run rate, and Anthropic's $2 trillion IPO target against the roughly $80 billion of profit a 25x multiple would imply. On 2026-10-15 it shifted from valuation to financing — CoreWeave bond yields, distressed data-centre debt, and whether unprofitable buyers can pay committed bills. On 2026-10-18 it narrowed again, to collateral and to who funds the buyers: that chipmaker margins above 70% leave the hardware worth a fraction of the loans against it, and that compute demand is venture-subsidised rather than economic. Posters cite an IMF figure of roughly $650 billion of debt against $1.4 trillion of AI revenue commitments, unchecked. On 2026-10-21 it moved onto a disclosed set of numbers for the first time: r/stocks' most-upvoted comment on SpaceX's results sets the quarter's $16.44 billion of AI capex against the segment's $7.56 billion of revenue, which is a quarterly spend against a quarterly revenue line rather than a payback calculation, and the thread's own best reply says so. The variant that gained ground the same run is the supply-side one — that the installed accelerator fleet already covers years of inference growth — whose best objections are that training and inference share the chips and that the fleet is not a fungible pool. On 2026-10-27 it centred on suppliers funding customers: Nvidia buying $3 billion of Meta's equity raise, and Broadcom guaranteeing Anthropic's chip-lease debt. The best objection was that the chipmakers' stakes are a small slice of the money, which mostly comes from \"outside the circle\". On 2026-10-30 it moved to the buyers' own cash flow: Alphabet's Q3 free cash flow was −$9.1 billion in its filing, Amazon's trailing figure −$42.4 billion as reported, and Microsoft still positive. The best objection was that \"three of the four\" compares a trailing twelve months, single quarters and a fiscal quarter, and another reply argued that the hyperscalers fund capex from operating cash and could stop it at will. Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release, and Alphabet's, which are Verified against its 8-K · 2026-10-30",
           "status": "single-source",
-          "status_html": "<p>Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release · 2026-10-27</p>",
-          "updated": "2026-10-27",
+          "status_html": "<p>Single source each time; all figures as posted, except the SpaceX segment figures, which are Reported from coverage of the 20 October release, and Alphabet's, which are <strong>Verified</strong> against its 8-K · 2026-10-30</p>",
+          "updated": "2026-10-30",
           "sources": [],
           "due": null,
           "due_label": null
