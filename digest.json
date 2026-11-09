@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-09",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,301 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-09",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>The weekend's biggest story was Nvidia. Jensen Huang admitted an affair in a memo to staff, the board opened an independent review into whether he was the target of a foreign intelligence effort, and the stock fell about 5% before Monday's open. Most of the rest of both subs was still the 5 November sell-off, now argued over who caused it (a Bloomberg account that blames retail drew mockery) and whether it priced a 2028 permitting risk into 2026 earnings. Anthropic's reported $3.4 billion gas-generator purchase and Atlassian's guidance sell-off were the main company news. October CPI is due tomorrow.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Nvidia's board opened an independent review after reports that Jensen Huang was the target of a Chinese intelligence effort, and the stock fell about 5% premarket eight days before its results.</strong>",
+              "html": "<p><strong>Nvidia's board opened an independent review after reports that Jensen Huang was the target of a Chinese intelligence effort, and the stock fell about 5% premarket eight days before its results.</strong> Huang told staff in a memo on 8 November that he had been unfaithful to his wife, after the New York Times and Financial Times reported his involvement with Alice Huang (no relation), an executive at the Singapore cloud company MegaSpeed whom US intelligence agencies say passed information to Beijing.</p>\n<ul>\n<li><strong>Why it matters:</strong> It was the top thread on either sub by far (<a href=\"https://www.reddit.com/r/stocks/comments/1xr88hz/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Nvidia CEO Jensen Huang admits to infidelity&quot;</a>, 4,403 points, 973 comments) and the price reaction has its own thread (<a href=\"https://www.reddit.com/r/stocks/comments/1xrn8y7/\" target=\"_blank\" rel=\"noopener noreferrer\">1xrn8y7</a>). The governance question is whether a review of the CEO overlaps with results. The best substantive reply says MegaSpeed &quot;grew into one of the largest buyers of NVIDIA GPUs outside the United States&quot; and is under investigation for rerouting chips to China. The top replies are jokes, and the most upvoted serious comment says it &quot;isn't going to impact NVDA share prices&quot;.</li>\n<li><strong>What to watch:</strong> Q3 results and the conference call on 17 November at 5 p.m. ET; the outcome of the board's review; Nvidia's conference in Washington at the end of the month, per CNBC.</li>\n<li><strong>Numbers:</strong> As reported by CNBC: down about 5% premarket, &quot;last down 5.2%&quot;. As posted: Friday's Nasdaq close was $186.64 and the premarket price around $177.31. As reported from the August results: Q3 revenue guidance of about $108.0 billion, plus or minus 2%. As posted in a <a href=\"https://www.reddit.com/r/stocks/comments/1xrqsxp/\" target=\"_blank\" rel=\"noopener noreferrer\">separate thread</a>, Nvidia was +0.1% for 2026 at Friday's close, which compounds to +53.7% from overnight moves and −34.9% from market hours.</li>\n<li><strong>Caveats:</strong> CNBC does not say who is conducting the review. China's Foreign Ministry calls the &quot;so-called Chinese spy narrative&quot; unsubstantiated. Coverage dates the New York Times report on MegaSpeed to 29 October, so the intelligence allegation is not new; the memo and the board review are. A commenter's claim that Nvidia &quot;could lose $30B dollars of revenue&quot; if MegaSpeed and similar buyers are banned is unsourced. The price-reaction post's claim of a &quot;newly requested November 18 closed-door congressional briefing&quot; is <strong>Unconfirmed</strong>: CNBC does not mention one, and a search found only Senator Warren urging Huang and the board to answer Congress. Commenters say the top post reads as AI-written.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC of 9 November</a>.</li>\n</ul>",
+              "text": "Nvidia's board opened an independent review after reports that Jensen Huang was the target of a Chinese intelligence effort, and the stock fell about 5% premarket eight days before its results. Huang told staff in a memo on 8 November that he had been unfaithful to his wife, after the New York Times and Financial Times reported his involvement with Alice Huang (no relation), an executive at the Singapore cloud company MegaSpeed whom US intelligence agencies say passed information to Beijing. Why it matters: It was the top thread on either sub by far ( \"Nvidia CEO Jensen Huang admits to infidelity\" , 4,403 points, 973 comments) and the price reaction has its own thread ( 1xrn8y7 ). The governance question is whether a review of the CEO overlaps with results. The best substantive reply says MegaSpeed \"grew into one of the largest buyers of NVIDIA GPUs outside the United States\" and is under investigation for rerouting chips to China. The top replies are jokes, and the most upvoted serious comment says it \"isn't going to impact NVDA share prices\". What to watch: Q3 results and the conference call on 17 November at 5 p.m. ET; the outcome of the board's review; Nvidia's conference in Washington at the end of the month, per CNBC. Numbers: As reported by CNBC: down about 5% premarket, \"last down 5.2%\". As posted: Friday's Nasdaq close was $186.64 and the premarket price around $177.31. As reported from the August results: Q3 revenue guidance of about $108.0 billion, plus or minus 2%. As posted in a separate thread , Nvidia was +0.1% for 2026 at Friday's close, which compounds to +53.7% from overnight moves and −34.9% from market hours. Caveats: CNBC does not say who is conducting the review. China's Foreign Ministry calls the \"so-called Chinese spy narrative\" unsubstantiated. Coverage dates the New York Times report on MegaSpeed to 29 October, so the intelligence allegation is not new; the memo and the board review are. A commenter's claim that Nvidia \"could lose $30B dollars of revenue\" if MegaSpeed and similar buyers are banned is unsourced. The price-reaction post's claim of a \"newly requested November 18 closed-door congressional briefing\" is Unconfirmed : CNBC does not mention one, and a search found only Senator Warren urging Huang and the board to answer Congress. Commenters say the top post reads as AI-written. Read next: CNBC of 9 November . Reported by CNBC , citing the company for the review and the NYT and FT for the intelligence allegation · the 17 November date is consistent across CNBC and Nvidia's call notice as found by a search · the share prices are as posted",
+              "status": "reported",
+              "status_html": "<p>Reported by <a href=\"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a>, citing the company for the review and the NYT and FT for the intelligence allegation · the 17 November date is consistent across CNBC and Nvidia's call notice as found by a search · the share prices are as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "CNBC"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A Bloomberg account pasted on r/stocks blames retail selling for starting the 5 November sell-off, and the sub rejects it.</strong>",
+              "html": "<p><strong>A Bloomberg account pasted on r/stocks blames retail selling for starting the 5 November sell-off, and the sub rejects it.</strong> As pasted, retail's &quot;biggest stock selling wave since the March 2020 Covid crash&quot; set off hedge-fund de-risking, then mechanical selling: negative gamma of &quot;~$7B per 1%&quot;, volatility-control funds &quot;~$61B&quot;, leveraged ETFs &quot;~$47B&quot; and CTAs &quot;~$13B&quot; of futures. The paste says the VIX went from 16.6 to near 28 and the Nasdaq 100 had its worst day since March 2020, erasing about $3.7 trillion. The top reply (1,088 points) is &quot;Throwing this on retail traders is hilarious&quot;. The most useful dissent comes from a commenter who watched the open: the market &quot;was pretty tame going into the open, then right after the bell it started this massive drop&quot;, which they read as a large player unwinding first. <a href=\"https://www.reddit.com/r/stocks/comments/1xq0mxn/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A Bloomberg account pasted on r/stocks blames retail selling for starting the 5 November sell-off, and the sub rejects it. As pasted, retail's \"biggest stock selling wave since the March 2020 Covid crash\" set off hedge-fund de-risking, then mechanical selling: negative gamma of \"~$7B per 1%\", volatility-control funds \"~$61B\", leveraged ETFs \"~$47B\" and CTAs \"~$13B\" of futures. The paste says the VIX went from 16.6 to near 28 and the Nasdaq 100 had its worst day since March 2020, erasing about $3.7 trillion. The top reply (1,088 points) is \"Throwing this on retail traders is hilarious\". The most useful dissent comes from a commenter who watched the open: the market \"was pretty tame going into the open, then right after the bell it started this massive drop\", which they read as a large player unwinding first. thread Reported from Bloomberg as pasted · paywalled and not read · the flow figures are Bloomberg's estimates",
+              "status": "reported",
+              "status_html": "<p>Reported from Bloomberg as pasted · paywalled and not read · the flow figures are Bloomberg's estimates</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The 10-year closed at 4.86% on Friday, below the &quot;back above 4.9%&quot; an r/investing post gives.</strong>",
+              "html": "<p><strong>The 10-year closed at 4.86% on Friday, below the &quot;back above 4.9%&quot; an r/investing post gives.</strong> The par curve's 6 November closes were 4.86% for the 10-year, 5.26% for the 30-year and 4.51% for the 2-year, against 4.84%, 5.25% and 4.46% on 5 November. The <a href=\"https://www.reddit.com/r/investing/comments/1xqkgca/\" target=\"_blank\" rel=\"noopener noreferrer\">permitting post</a> says the 10-year &quot;went back above 4.9% and the 30 year above 5.3%&quot;; no November close reaches 5.3% for the 30-year (the highest is 5.32% on 3 November, before the sell-off). That post's 165,000 payrolls figure is correct; its &quot;65,000 expected&quot; was not checked.</p>",
+              "text": "The 10-year closed at 4.86% on Friday, below the \"back above 4.9%\" an r/investing post gives. The par curve's 6 November closes were 4.86% for the 10-year, 5.26% for the 30-year and 4.51% for the 2-year, against 4.84%, 5.25% and 4.46% on 5 November. The permitting post says the 10-year \"went back above 4.9% and the 30 year above 5.3%\"; no November close reaches 5.3% for the 30-year (the highest is 5.32% on 3 November, before the sell-off). That post's 165,000 payrolls figure is correct; its \"65,000 expected\" was not checked. Verified against Treasury's November par curve · intraday levels were not checked",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202611\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's November par curve</a> · intraday levels were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "home.treasury.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Anthropic is reported to have bought 1.7 gigawatts of gas-fired generators for about $3.4 billion, the largest known single purchase of power equipment by an AI lab.</strong>",
+              "html": "<p><strong>Anthropic is reported to have bought 1.7 gigawatts of gas-fired generators for about $3.4 billion, the largest known single purchase of power equipment by an AI lab.</strong> Per the FT, as carried by CNBC: the commitments were made in late September, and Anthropic took over orders from OnePWR Solutions, a San Antonio equipment supplier, without buying the company. Tom's Hardware says the equipment is Caterpillar's. The thread asks whether power, not chips, is now the bottleneck. A commenter who says they are a grid engineer gives the most detailed reply: transformers have been &quot;woefully out of stock&quot; for almost three years, and US makers can't scale fast enough to replace restricted Chinese supply. Another commenter adds that gas-turbine output is capped and new lines take years. The top reply is &quot;the bottleneck is money&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1xqwmt0/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Anthropic is reported to have bought 1.7 gigawatts of gas-fired generators for about $3.4 billion, the largest known single purchase of power equipment by an AI lab. Per the FT, as carried by CNBC: the commitments were made in late September, and Anthropic took over orders from OnePWR Solutions, a San Antonio equipment supplier, without buying the company. Tom's Hardware says the equipment is Caterpillar's. The thread asks whether power, not chips, is now the bottleneck. A commenter who says they are a grid engineer gives the most detailed reply: transformers have been \"woefully out of stock\" for almost three years, and US makers can't scale fast enough to replace restricted Chinese supply. Another commenter adds that gas-turbine output is capped and new lines take years. The top reply is \"the bottleneck is money\". thread Reported from the FT via CNBC and Tom's Hardware · Reuters \"could not immediately verify the report\", and Anthropic and OnePWR did not comment · the grid engineer's account is Single source",
+              "status": "reported",
+              "status_html": "<p>Reported from the FT via <a href=\"https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers\" target=\"_blank\" rel=\"noopener noreferrer\">Tom's Hardware</a> · Reuters &quot;could not immediately verify the report&quot;, and Anthropic and OnePWR did not comment · the grid engineer's account is Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "CNBC",
+                "Tom's Hardware"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Atlassian beat on fiscal Q1 and guided full-year revenue growth to about 13.75%, and the stock fell sharply.</strong>",
+              "html": "<p><strong>Atlassian beat on fiscal Q1 and guided full-year revenue growth to about 13.75%, and the stock fell sharply.</strong> Revenue was $1.772 billion, up 24%; subscription ARR growth is guided to slow from 22.5% to about 18.5% by year-end. A filings-based r/investing post works out that the guide implies about 11% growth for the rest of the year. It puts about 7 of the 13-point slowdown on Data Center, the self-managed product whose end of life pulled purchases into fiscal 2026 and which is guided down about 16% for the year. The other 5–6 points are Cloud and Marketplace slowing. The post adds that part of Cloud's growth comes from Data Center migrations, a source that runs out when support ends in March 2029. The one substantive reply wants stock compensation stripped out first. <a href=\"https://www.reddit.com/r/investing/comments/1xrp3ik/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Atlassian beat on fiscal Q1 and guided full-year revenue growth to about 13.75%, and the stock fell sharply. Revenue was $1.772 billion, up 24%; subscription ARR growth is guided to slow from 22.5% to about 18.5% by year-end. A filings-based r/investing post works out that the guide implies about 11% growth for the rest of the year. It puts about 7 of the 13-point slowdown on Data Center, the self-managed product whose end of life pulled purchases into fiscal 2026 and which is guided down about 16% for the year. The other 5–6 points are Cloud and Marketplace slowing. The post adds that part of Cloud's growth comes from Data Center migrations, a source that runs out when support ends in March 2029. The one substantive reply wants stock compensation stripped out first. thread Verified for revenue, ARR and the full-year guide against SiliconANGLE's coverage of the results · the Data Center breakdown is Single source, from the poster's reading of the 10-Q and shareholder letter · the share move is 13% on Friday in the post and 16–17% after hours or premarket in coverage",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for revenue, ARR and the full-year guide against <a href=\"https://siliconangle.com/2026/11/05/atlassian-shares-fall-17-as-slower-subscription-growth-forecast-overshadows-earnings-beat/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE's coverage of the results</a> · the Data Center breakdown is Single source, from the poster's reading of the 10-Q and shareholder letter · the share move is 13% on Friday in the post and 16–17% after hours or premarket in coverage</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "siliconangle.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Samsung Electronics is reported to be the first Korean company with more than ₩200 trillion (about $146.6 billion) of cash.</strong>",
+              "html": "<p><strong>Samsung Electronics is reported to be the first Korean company with more than ₩200 trillion (about $146.6 billion) of cash.</strong> As pasted from the Korea Times: cash and equivalents estimated at ₩214.8 trillion at the end of Q3, against ₩108.5 trillion a year earlier; 2026 capex above ₩100 trillion, ₩84.4 trillion of it for memory facilities; and a 2027 shareholder-return policy due at the January board meeting. The best reply notes that memory pricing is funding both the build-out and the payout. It also notes that ₩84.4 trillion of new memory capacity &quot;is exactly the kind of spending that ends a supercycle once rivals do the same&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1xqzttf/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Samsung Electronics is reported to be the first Korean company with more than ₩200 trillion (about $146.6 billion) of cash. As pasted from the Korea Times: cash and equivalents estimated at ₩214.8 trillion at the end of Q3, against ₩108.5 trillion a year earlier; 2026 capex above ₩100 trillion, ₩84.4 trillion of it for memory facilities; and a 2027 shareholder-return policy due at the January board meeting. The best reply notes that memory pricing is funding both the build-out and the payout. It also notes that ₩84.4 trillion of new memory capacity \"is exactly the kind of spending that ends a supercycle once rivals do the same\". thread Reported from the Korea Times as pasted · the cash figure is an estimate, not checked against Samsung's filing",
+              "status": "reported",
+              "status_html": "<p>Reported from the <a href=\"https://www.koreatimes.co.kr/amp/business/companies/20261108/samsung-electronics-to-become-1st-local-firm-with-cash-assets-of-over-1466-bil-data\" target=\"_blank\" rel=\"noopener noreferrer\">Korea Times</a> as pasted · the cash figure is an estimate, not checked against Samsung's filing</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "koreatimes.co.kr"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>When you copy a member of Congress's trade, the disclosure date decides your return, not the trade date.</strong>",
+              "html": "<p><strong>When you copy a member of Congress's trade, the disclosure date decides your return, not the trade date.</strong> The poster's example: Pelosi's household bought Intel on 24 July at $92.32, the filing went public on 21 August, and Intel closed at $57.79 on 5 November. The STOCK Act allows 45 days to report, while insiders file Form 4 within two business days. The poster's Form 4 checklist: code P (open-market buy) is the signal, while A, M and F mostly aren't; check the 10b5-1 box; and weight clusters of insiders buying in the same week. A reply adds that congressional reports give only a dollar range, and that late filing usually costs a $200 fee. <a href=\"https://www.reddit.com/r/stocks/comments/1xrmnvs/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "When you copy a member of Congress's trade, the disclosure date decides your return, not the trade date. The poster's example: Pelosi's household bought Intel on 24 July at $92.32, the filing went public on 21 August, and Intel closed at $57.79 on 5 November. The STOCK Act allows 45 days to report, while insiders file Form 4 within two business days. The poster's Form 4 checklist: code P (open-market buy) is the signal, while A, M and F mostly aren't; check the 10b5-1 box; and weight clusters of insiders buying in the same week. A reply adds that congressional reports give only a dollar range, and that late filing usually costs a $200 fee. thread Single source · the prices, dates and the cited academic figure were not checked; the 45-day and two-day windows are as stated by the poster",
+              "status": "single-source",
+              "status_html": "<p>Single source · the prices, dates and the cited academic figure were not checked; the 45-day and two-day windows are as stated by the poster</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Does a stock split change anything?</strong>",
+              "html": "<p><strong>Does a stock split change anything?</strong> Asked about Sandisk's coming 8-for-1 split, the replies agree it doesn't change fundamentals. Fractional shares make the per-share price irrelevant for buying, and what changes is options access, since contracts cover 100 shares. One reply adds that this cuts both ways, because puts get cheaper to buy as well as calls. The most upvoted answer (29 points) sets the split aside: the 10-Q shows revenue up about 378% on exabytes up only about 10%, &quot;mostly a pricing story&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1xqzz2c/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Does a stock split change anything? Asked about Sandisk's coming 8-for-1 split, the replies agree it doesn't change fundamentals. Fractional shares make the per-share price irrelevant for buying, and what changes is options access, since contracts cover 100 shares. One reply adds that this cuts both ways, because puts get cheaper to buy as well as calls. The most upvoted answer (29 points) sets the split aside: the 10-Q shows revenue up about 378% on exabytes up only about 10%, \"mostly a pricing story\". thread Reported · commenters' account; the 10-Q figures and the split date were not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · commenters' account; the 10-Q figures and the split date were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>How do you write down what would disprove a thesis?</strong>",
+              "html": "<p><strong>How do you write down what would disprove a thesis?</strong> The useful replies: keep the original claim and its metric definition unchanged and append dated verdicts with the filing passage used; write one number with a deadline instead of &quot;strong management&quot;; keep cost basis on a separate line so a drawdown can't count as evidence; and decide in advance which developments mean &quot;keep monitoring&quot; and which mean &quot;rebuild the thesis&quot;. <a href=\"https://www.reddit.com/r/investing/comments/1xpo8oa/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "How do you write down what would disprove a thesis? The useful replies: keep the original claim and its metric definition unchanged and append dated verdicts with the filing passage used; write one number with a deadline instead of \"strong management\"; keep cost basis on a separate line so a drawdown can't count as evidence; and decide in advance which developments mean \"keep monitoring\" and which mean \"rebuild the thesis\". thread Reported · commenters' practice",
+              "status": "reported",
+              "status_html": "<p>Reported · commenters' practice</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Thursday's chip crash priced a 2028 permitting risk into 2026 earnings.&quot;</strong>",
+              "html": "<p><strong>&quot;Thursday's chip crash priced a 2028 permitting risk into 2026 earnings.&quot;</strong> The poster's case: a moratorium needs legislation, the new governors and Congress take office in January, and the capacity at risk is 2028's. Permitting friction also raises the value of capacity that is already powered rather than destroying demand. The strongest objection in the replies is to the bear case's key number: &quot;nearly two thirds of 2028 capacity could face delays&quot; comes with &quot;no name, no report&quot;. A reply with 68 points says the moratorium covers new permits and existing permits run into 2028; that echoes the claim the last entry could not confirm. <a href=\"https://www.reddit.com/r/investing/comments/1xqkgca/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"Thursday's chip crash priced a 2028 permitting risk into 2026 earnings.\" The poster's case: a moratorium needs legislation, the new governors and Congress take office in January, and the capacity at risk is 2028's. Permitting friction also raises the value of capacity that is already powered rather than destroying demand. The strongest objection in the replies is to the bear case's key number: \"nearly two thirds of 2028 capacity could face delays\" comes with \"no name, no report\". A reply with 68 points says the moratorium covers new permits and existing permits run into 2028; that echoes the claim the last entry could not confirm. thread Single source · the poster's market figures differ from other posts' (Nasdaq −6.36% here)",
+              "status": "single-source",
+              "status_html": "<p>Single source · the poster's market figures differ from other posts' (Nasdaq −6.36% here)</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Reddit got the businesses right and the prices wrong.&quot;</strong>",
+              "html": "<p><strong>&quot;Reddit got the businesses right and the prices wrong.&quot;</strong> Asked why NBIS, RDDT and RKLB, three of Reddit's five most-upvoted picks going into 2026, are all more than 60% off their highs, the top replies point out that NBIS and RKLB rose roughly 4x first. The most specific reply blames Nebius's funding rather than its growth: $5.75 billion of convertibles in August, then a $3.5 billion Citi bridge loan in October secured on substantially all assets, with a rate that steps up every 90 days and a maturity of October 2027. <a href=\"https://www.reddit.com/r/stocks/comments/1xr4aft/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"Reddit got the businesses right and the prices wrong.\" Asked why NBIS, RDDT and RKLB, three of Reddit's five most-upvoted picks going into 2026, are all more than 60% off their highs, the top replies point out that NBIS and RKLB rose roughly 4x first. The most specific reply blames Nebius's funding rather than its growth: $5.75 billion of convertibles in August, then a $3.5 billion Citi bridge loan in October secured on substantially all assets, with a rate that steps up every 90 days and a maturity of October 2027. thread Single source · the financing terms are a commenter's and were not checked against filings",
+              "status": "single-source",
+              "status_html": "<p>Single source · the financing terms are a commenter's and were not checked against filings</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Broadcom's 52-week low: is the worry Anthropic's ability to pay?</strong>",
+              "html": "<p><strong>Broadcom's 52-week low: is the worry Anthropic's ability to pay?</strong> Bulls cite projected EPS growth and a diversified, mostly overseas revenue base. The most useful reply points to two lines in the latest 10-Q: the top five end customers were about 55% of revenue, up from about 40% a year earlier, and trade receivables rose from $7.1 billion to $13.7 billion. &quot;That doesn't prove a collection problem&quot;, the reply adds. Another reply says Broadcom usually reports in the second week of December, and that next year's AI revenue guide is what matters. <a href=\"https://www.reddit.com/r/stocks/comments/1xqfhdb/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Broadcom's 52-week low: is the worry Anthropic's ability to pay? Bulls cite projected EPS growth and a diversified, mostly overseas revenue base. The most useful reply points to two lines in the latest 10-Q: the top five end customers were about 55% of revenue, up from about 40% a year earlier, and trade receivables rose from $7.1 billion to $13.7 billion. \"That doesn't prove a collection problem\", the reply adds. Another reply says Broadcom usually reports in the second week of December, and that next year's AI revenue guide is what matters. thread Single source · the 10-Q figures and the reporting date were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the 10-Q figures and the reporting date were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Why would SpaceX want to be a phone carrier?</strong>",
+              "html": "<p><strong>Why would SpaceX want to be a phone carrier?</strong> The top reply (337 points) says SpaceX can cover any country that lets it in, while the big three carriers have no US growth left. Replies counter that profitable countries already have better terrestrial networks, that SpaceX is now said to need a terrestrial network of its own to scale, and that many countries won't license a foreign carrier on security grounds. <a href=\"https://www.reddit.com/r/investing/comments/1xrfm6p/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Why would SpaceX want to be a phone carrier? The top reply (337 points) says SpaceX can cover any country that lets it in, while the big three carriers have no US growth left. Replies counter that profitable countries already have better terrestrial networks, that SpaceX is now said to need a terrestrial network of its own to scale, and that many countries won't license a foreign carrier on security grounds. thread Single source · no claim in the thread was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · no claim in the thread was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Still dip-buying, now with more argument about cause than direction.",
+              "html": "<p>Still dip-buying, now with more argument about cause than direction. &quot;Correction&quot; is the top reply (101 points) to a bubble-or-repricing thread whose best answer says real demand destruction &quot;would show up in hyperscaler capex guidance and delayed chip deliveries, not only in one election-week session&quot;. The Nvidia news was mostly treated as a buying opportunity or a joke.</p>",
+              "text": "Still dip-buying, now with more argument about cause than direction. \"Correction\" is the top reply (101 points) to a bubble-or-repricing thread whose best answer says real demand destruction \"would show up in hyperscaler capex guidance and delayed chip deliveries, not only in one election-week session\". The Nvidia news was mostly treated as a buying opportunity or a joke.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;SpaceX raised its 2027 capacity target to around 13GW&quot; and &quot;Google committed $15B to Malaysian data centers&quot;.</strong>",
+              "html": "<p><strong>&quot;SpaceX raised its 2027 capacity target to around 13GW&quot; and &quot;Google committed $15B to Malaysian data centers&quot;.</strong> Both appear in the permitting post. The tracker's last verified SpaceX figure is 5–10 GW of compute by the end of 2027, from the 20 October call. Neither claim was searched for this run. <a href=\"https://www.reddit.com/r/investing/comments/1xqkgca/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "\"SpaceX raised its 2027 capacity target to around 13GW\" and \"Google committed $15B to Malaysian data centers\". Both appear in the permitting post. The tracker's last verified SpaceX figure is 5–10 GW of compute by the end of 2027, from the 20 October call. Neither claim was searched for this run. thread Single source · not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing (41 posts in the scan; 16 threads read in full).",
+              "html": "<p><strong>Read:</strong> stocks, investing (41 posts in the scan; 16 threads read in full). <strong>Sources checked:</strong> the Federal Reserve monetary policy feed (no release since the 28 October statement); Treasury's November par curve (6 November is the only new close); the BLS release schedule (nothing released since the 6 November jobs report; October CPI and Real Earnings are due 10 November, October PPI 13 November, import and export prices 17 November). EDGAR was not checked for an amended Anthropic S-1, because the request needed an approval this unattended run could not get.</p>",
+              "text": "Read: stocks, investing (41 posts in the scan; 16 threads read in full). Sources checked: the Federal Reserve monetary policy feed (no release since the 28 October statement); Treasury's November par curve (6 November is the only new close); the BLS release schedule (nothing released since the 6 November jobs report; October CPI and Real Earnings are due 10 November, October PPI 13 November, import and export prices 17 November). EDGAR was not checked for an amended Anthropic S-1, because the request needed an approval this unattended run could not get.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none since 6 November.",
+              "html": "<p><strong>Announced, not discussed:</strong> none since 6 November.</p>",
+              "text": "Announced, not discussed: none since 6 November. Verified against the Fed feed, the par curve and the BLS schedule",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Fed feed, the par curve and the BLS schedule</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;avgo&quot;: covered under Debates.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;avgo&quot;: covered under Debates. &quot;rddt&quot;: covered under Debates (the NBIS, RDDT and RKLB thread); its other appearance is a bag-holding thread of personal positions. Also skipped: the stickies; threads already covered in the last entry (the Anthropic valuation, the Microsoft–Oracle wind-down, the filings post, &quot;Nasdaq down 6%&quot;, Accenture's CEO purchase, and deferred-tax cash); prediction and allocation threads (&quot;predictions for Monday&quot;, &quot;where would you invest right now&quot;, healthcare ETFs, VGT, IWV to FNDB, sectors, fiduciary); opinion posts on tech and finance wealth, where the money goes next, and net income at AI companies; a Coherent and AXT post whose replies blame correlation; an implied-volatility question; a two-comment aluminium post; a Sterling Infrastructure post; and the Airbnb cancellations post, again without figures.</p>",
+              "text": "Flagged terms set aside: \"avgo\": covered under Debates. \"rddt\": covered under Debates (the NBIS, RDDT and RKLB thread); its other appearance is a bag-holding thread of personal positions. Also skipped: the stickies; threads already covered in the last entry (the Anthropic valuation, the Microsoft–Oracle wind-down, the filings post, \"Nasdaq down 6%\", Accenture's CEO purchase, and deferred-tax cash); prediction and allocation threads (\"predictions for Monday\", \"where would you invest right now\", healthcare ETFs, VGT, IWV to FNDB, sectors, fiduciary); opinion posts on tech and finance wealth, where the money goes next, and net income at AI companies; a Coherent and AXT post whose replies blame correlation; an implied-volatility question; a two-comment aluminium post; a Sterling Infrastructure post; and the Airbnb cancellations post, again without figures.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "title": "Stocks & investing digest",
@@ -2882,10 +3177,10 @@
         {
           "headline": "<strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong>",
           "html": "<p><strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong> Her pre-election wording was &quot;a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.&quot; The subs treat it as a driver of the 5 November sell-off in chip and neocloud stocks. A widely upvoted r/stocks claim that she will let already-permitted projects finish was not found in any coverage. Watch for an executive order after 19 January and the 2027 legislative session.</p>",
-          "text": "Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027. Her pre-election wording was \"a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.\" The subs treat it as a driver of the 5 November sell-off in chip and neocloud stocks. A widely upvoted r/stocks claim that she will let already-permitted projects finish was not found in any coverage. Watch for an executive order after 19 January and the 2027 legislative session. Reported · States Newsroom and Reuters as syndicated by The Star · the permitted-projects claim is Unconfirmed · 2026-11-06",
+          "text": "Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027. Her pre-election wording was \"a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.\" The subs treat it as a driver of the 5 November sell-off in chip and neocloud stocks. A widely upvoted r/stocks claim that she will let already-permitted projects finish was not found in any coverage. Watch for an executive order after 19 January and the 2027 legislative session. Reported · States Newsroom and Reuters as syndicated by The Star · the permitted-projects claim is Unconfirmed · 2026-11-06 · 2026-11-09: a 68-point r/investing reply repeats it (\"It is NEW permitting. Existing permits are already through 2027 and part of 2028\"); still unsourced",
           "status": "reported",
-          "status_html": "<p>Reported · <a href=\"https://www.newsfromthestates.com/article/gina-hinojosa-won-governors-race-what-happens-texas-data-centers-now\" target=\"_blank\" rel=\"noopener noreferrer\">States Newsroom</a> and Reuters as syndicated by <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/05/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race\" target=\"_blank\" rel=\"noopener noreferrer\">The Star</a> · the permitted-projects claim is <strong>Unconfirmed</strong> · 2026-11-06</p>",
-          "updated": "2026-11-06",
+          "status_html": "<p>Reported · <a href=\"https://www.newsfromthestates.com/article/gina-hinojosa-won-governors-race-what-happens-texas-data-centers-now\" target=\"_blank\" rel=\"noopener noreferrer\">States Newsroom</a> and Reuters as syndicated by <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/05/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race\" target=\"_blank\" rel=\"noopener noreferrer\">The Star</a> · the permitted-projects claim is <strong>Unconfirmed</strong> · 2026-11-06 · 2026-11-09: a 68-point r/investing reply repeats it (&quot;It is NEW permitting. Existing permits are already through 2027 and part of 2028&quot;); still unsourced</p>",
+          "updated": "2026-11-09",
           "sources": [
             "newsfromthestates.com",
             "thestar.com.my"
@@ -2940,15 +3235,17 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>Sandisk reports on 29 October.</strong>",
-          "html": "<p><strong>Sandisk reports on 29 October.</strong> The question the subs want answered is NAND pricing guidance and enterprise SSD mix, which Micron's HBM backlog does not speak to.</p>",
-          "text": "Sandisk reports on 29 October. The question the subs want answered is NAND pricing guidance and enterprise SSD mix, which Micron's HBM backlog does not speak to. Reported · the date is as posted and was not checked against Sandisk's investor calendar · 2026-10-12",
+          "headline": "<strong>Nvidia reports Q3 on 17 November while its board runs an independent review of whether Jensen Huang was the target of a foreign intelligence effort.</strong>",
+          "html": "<p><strong>Nvidia reports Q3 on 17 November while its board runs an independent review of whether Jensen Huang was the target of a foreign intelligence effort.</strong> The review followed New York Times and Financial Times reports linking Huang to Alice Huang, a MegaSpeed executive whom US intelligence agencies say passed information to Beijing. Huang admitted an affair in a memo to staff on 8 November. Nvidia guided Q3 revenue to about $108.0 billion, plus or minus 2%, in August. The stock fell about 5% premarket on 9 November. Who conducts the review, and when it reports, have not been disclosed. A claimed 18 November congressional briefing was not found.</p>",
+          "text": "Nvidia reports Q3 on 17 November while its board runs an independent review of whether Jensen Huang was the target of a foreign intelligence effort. The review followed New York Times and Financial Times reports linking Huang to Alice Huang, a MegaSpeed executive whom US intelligence agencies say passed information to Beijing. Huang admitted an affair in a memo to staff on 8 November. Nvidia guided Q3 revenue to about $108.0 billion, plus or minus 2%, in August. The stock fell about 5% premarket on 9 November. Who conducts the review, and when it reports, have not been disclosed. A claimed 18 November congressional briefing was not found. Reported by CNBC of 9 November · the results date is consistent across CNBC and Nvidia's call notice as found by a search · the briefing is Unconfirmed · 2026-11-09",
           "status": "reported",
-          "status_html": "<p>Reported · the date is as posted and was not checked against Sandisk's investor calendar · 2026-10-12</p>",
-          "updated": "2026-10-12",
-          "sources": [],
-          "due": "2026-10-29",
-          "due_label": "Sandisk results"
+          "status_html": "<p>Reported by <a href=\"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC of 9 November</a> · the results date is consistent across CNBC and Nvidia's call notice as found by a search · the briefing is <strong>Unconfirmed</strong> · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "CNBC"
+          ],
+          "due": "2026-11-17",
+          "due_label": "Q3 results, call at 5 p.m. ET"
         },
         {
           "headline": "<strong>China's suspension of its gallium, germanium and antimony export ban to the US expires on 27 November 2026.</strong>",
