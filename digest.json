@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-22",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,569 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-22",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Both subs were consumed by a tech sell-off that, by commenters' account, has taken the Nasdaq about 18% down and the S&amp;P 500 into correction territory, with Nvidia's SEC probe and Anthropic's IPO as the two named triggers. The mood split between &quot;healthy correction&quot; long-term posts and capitulation threads; the one macro setup people were actually pricing is a December rate hike and Wednesday's October PCE.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A pasted Reuters story says the SEC's Nvidia probe is focused on accounting, but I could not find that story, and the earlier reports describe a civil probe of disclosures that neither Nvidia nor the SEC has confirmed.</strong>",
+              "html": "<p><strong>A pasted Reuters story says the SEC's Nvidia probe is focused on accounting, but I could not find that story, and the earlier reports describe a civil probe of disclosures that neither Nvidia nor the SEC has confirmed.</strong> The post became the most-discussed question of the run: &quot;Is NVIDIA a legitimate red flag now?&quot;</p>\n<ul>\n<li><strong>Why it matters:</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1y1cgll/reuters_nvidias_accounting_is_a_focus_of_us_sec/\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters thread</a> (614 points) and the <a href=\"https://www.reddit.com/r/stocks/comments/1y1lvsy/is_nvidia_a_legitimate_red_flag_now/\" target=\"_blank\" rel=\"noopener noreferrer\">red-flag thread</a> (3,434 points, 1,928 comments) turned a reported inquiry into &quot;accounting fraud&quot; in many replies. The top reply (2,574 points) expects a fine and a recovery; a 638-point reply says over 1,000 SEC investigations open each year and 80% close with no penalty, which is the commenter's figure. Others point to the earlier Megaspeed and Singapore-revenue coverage as the likely subject, and a skeptic reads Nvidia lending to customers as &quot;fraudulent accounting&quot;, which no source in the thread backs.</li>\n<li><strong>What to watch:</strong> any Nvidia or SEC statement, or a disclosure in a filing; the board's CEO search; the Commerce and Justice export-control track on Megaspeed.</li>\n<li><strong>Numbers:</strong> As posted from the pasted story: nothing quantitative. As reported elsewhere: Nvidia paid a $5.5 million SEC penalty in 2022 over crypto-mining disclosures, per a search result summary.</li>\n<li><strong>Caveats:</strong> A search for a Reuters story dated 20 November found nothing, so the &quot;accounting&quot; focus rests on the pasted text alone. The 17 November reports (WSJ, relayed by Reuters via The Star and others) say civil, disclosures, and that the SEC &quot;does not comment&quot; on investigations. An investigation is not evidence of wrongdoing, as the pasted text itself says.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/18/nvidia-facing-sec-probe-after-huang039s-resignation-wsj-reports\" target=\"_blank\" rel=\"noopener noreferrer\">The Star's relay of Reuters, 17 November</a>.</li>\n</ul>",
+              "text": "A pasted Reuters story says the SEC's Nvidia probe is focused on accounting, but I could not find that story, and the earlier reports describe a civil probe of disclosures that neither Nvidia nor the SEC has confirmed. The post became the most-discussed question of the run: \"Is NVIDIA a legitimate red flag now?\" Why it matters: The Reuters thread (614 points) and the red-flag thread (3,434 points, 1,928 comments) turned a reported inquiry into \"accounting fraud\" in many replies. The top reply (2,574 points) expects a fine and a recovery; a 638-point reply says over 1,000 SEC investigations open each year and 80% close with no penalty, which is the commenter's figure. Others point to the earlier Megaspeed and Singapore-revenue coverage as the likely subject, and a skeptic reads Nvidia lending to customers as \"fraudulent accounting\", which no source in the thread backs. What to watch: any Nvidia or SEC statement, or a disclosure in a filing; the board's CEO search; the Commerce and Justice export-control track on Megaspeed. Numbers: As posted from the pasted story: nothing quantitative. As reported elsewhere: Nvidia paid a $5.5 million SEC penalty in 2022 over crypto-mining disclosures, per a search result summary. Caveats: A search for a Reuters story dated 20 November found nothing, so the \"accounting\" focus rests on the pasted text alone. The 17 November reports (WSJ, relayed by Reuters via The Star and others) say civil, disclosures, and that the SEC \"does not comment\" on investigations. An investigation is not evidence of wrongdoing, as the pasted text itself says. Read next: The Star's relay of Reuters, 17 November . Reported for the probe · the accounting focus is Unconfirmed · neither Nvidia nor the SEC has confirmed anything",
+              "status": "reported",
+              "status_html": "<p>Reported for the probe · the accounting focus is <strong>Unconfirmed</strong> · neither Nvidia nor the SEC has confirmed anything</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "thestar.com.my"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Anthropic priced its IPO at $83 a share on 18 November, above the $70–$78 range, and AI stocks kept falling around it.</strong>",
+              "html": "<p><strong>Anthropic priced its IPO at $83 a share on 18 November, above the $70–$78 range, and AI stocks kept falling around it.</strong> Outlets report trading was due to begin on Nasdaq on 19 November as &quot;ANT&quot;; the sub's top thread asks why AI stocks keep falling after an Nvidia beat and a record listing.</p>\n<ul>\n<li><strong>Why it matters:</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1y17ops/nvidia_beats_earnings_anthropic_launches_a/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread</a> (888 points, 1,150 comments) is the broadest read of the sell-off. The top reply (2,103 points) says to take a walk; a 938-point reply argues it is &quot;all macro&quot;, tied to interest rates, with &quot;every sector outside AI&quot; red; a 431-point reply says many investors are living through their first crash, answered at 438 points by &quot;I would call it a correction, not a crash&quot;. A poster on r/investing says the market fell 2% on the day it listed, which was not checked.</li>\n<li><strong>What to watch:</strong> the 8–9 December Fed meeting; October PCE this week; the lockup schedule in the final prospectus.</li>\n<li><strong>Numbers:</strong> As reported by several outlets from the SEC filing and company: priced at $83, valuing the company at about $1.5 trillion, with a $26 billion private placement at the same price; the amount raised is reported as $81.3 billion by some outlets and lower by one, and the sources do not reconcile the difference. Books were reported about six times covered.</li>\n<li><strong>Caveats:</strong> I did not open the filing or the final prospectus; the share count is also reported two ways (825 million at the range, 980 million later). First-day trading figures were not found.</li>\n<li><strong>Read next:</strong> <a href=\"https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch on the pricing</a>.</li>\n</ul>",
+              "text": "Anthropic priced its IPO at $83 a share on 18 November, above the $70–$78 range, and AI stocks kept falling around it. Outlets report trading was due to begin on Nasdaq on 19 November as \"ANT\"; the sub's top thread asks why AI stocks keep falling after an Nvidia beat and a record listing. Why it matters: The r/stocks thread (888 points, 1,150 comments) is the broadest read of the sell-off. The top reply (2,103 points) says to take a walk; a 938-point reply argues it is \"all macro\", tied to interest rates, with \"every sector outside AI\" red; a 431-point reply says many investors are living through their first crash, answered at 438 points by \"I would call it a correction, not a crash\". A poster on r/investing says the market fell 2% on the day it listed, which was not checked. What to watch: the 8–9 December Fed meeting; October PCE this week; the lockup schedule in the final prospectus. Numbers: As reported by several outlets from the SEC filing and company: priced at $83, valuing the company at about $1.5 trillion, with a $26 billion private placement at the same price; the amount raised is reported as $81.3 billion by some outlets and lower by one, and the sources do not reconcile the difference. Books were reported about six times covered. Caveats: I did not open the filing or the final prospectus; the share count is also reported two ways (825 million at the range, 980 million later). First-day trading figures were not found. Read next: TechCrunch on the pricing . Reported, consistent across TechCrunch , The Next Web and others · the filing was not read",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across <a href=\"https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch</a>, <a href=\"https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise\" target=\"_blank\" rel=\"noopener noreferrer\">The Next Web</a> and others · the filing was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "TechCrunch",
+                "thenextweb.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster says futures price a near-certain quarter-point hike on 8–9 December, with October PCE and the second Q3 GDP estimate on Wednesday as the next test.</strong>",
+              "html": "<p><strong>A poster says futures price a near-certain quarter-point hike on 8–9 December, with October PCE and the second Q3 GDP estimate on Wednesday as the next test.</strong> The post puts September headline PCE at 3.6% and the October nowcast near 3.8%, and argues a fully priced hike gives sellers no new reason. Replies note the release falls the day before Thanksgiving, when &quot;half the desks are already gone&quot;, and that a government shutdown is a risk nobody has priced. <a href=\"https://www.reddit.com/r/investing/comments/1y2ab1r/nobody_sells_a_fully_pr\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A poster says futures price a near-certain quarter-point hike on 8–9 December, with October PCE and the second Q3 GDP estimate on Wednesday as the next test. The post puts September headline PCE at 3.6% and the October nowcast near 3.8%, and argues a fully priced hike gives sellers no new reason. Replies note the release falls the day before Thanksgiving, when \"half the desks are already gone\", and that a government shutdown is a risk nobody has priced. thread Single source · futures pricing, PCE figures and the release time are the poster's and were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · futures pricing, PCE figures and the release time are the poster's and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Fed released the minutes of its 27–28 October meeting on 18 November, and coverage calls the decision to hold a close call.</strong>",
+              "html": "<p><strong>The Fed released the minutes of its 27–28 October meeting on 18 November, and coverage calls the decision to hold a close call.</strong> The search summaries say some participants wanted a hike and that most officials still expected further hikes. The previous digest noted the minutes had not yet appeared; no thread covered them.</p>",
+              "text": "The Fed released the minutes of its 27–28 October meeting on 18 November, and coverage calls the decision to hold a close call. The search summaries say some participants wanted a hike and that most officials still expected further hikes. The previous digest noted the minutes had not yet appeared; no thread covered them. Reported from ABA Banking Journal and InvestmentNews · the minutes were not opened",
+              "status": "reported",
+              "status_html": "<p>Reported from <a href=\"https://bankingjournal.aba.com/2026/11/fomc-minutes-show-close-call-over-possible-rate-hike/\" target=\"_blank\" rel=\"noopener noreferrer\">ABA Banking Journal</a> and <a href=\"https://www.investmentnews.com/equities/the-fed-came-close-to-an-october-rate-hike-fomc-minutes-show/269079\" target=\"_blank\" rel=\"noopener noreferrer\">InvestmentNews</a> · the <a href=\"https://federalreserve.gov/monetarypolicy/fomcminutes20261028.htm\" target=\"_blank\" rel=\"noopener noreferrer\">minutes</a> were not opened</p>",
+              "updated": null,
+              "sources": [
+                "bankingjournal.aba.com",
+                "investmentnews.com",
+                "Federal Reserve"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The 10-year Treasury yield was 5.051% on 19 November, its fourth straight daily decline, per a Dow Jones report.</strong>",
+              "html": "<p><strong>The 10-year Treasury yield was 5.051% on 19 November, its fourth straight daily decline, per a Dow Jones report.</strong> A Treasury wrap put it at 5.101% at settlement on 18 November. I could not find a 20 November close, and the Treasury par curve page did not load here.</p>",
+              "text": "The 10-year Treasury yield was 5.051% on 19 November, its fourth straight daily decline, per a Dow Jones report. A Treasury wrap put it at 5.101% at settlement on 18 November. I could not find a 20 November close, and the Treasury par curve page did not load here. Reported from Morningstar/Dow Jones · not checked against Treasury",
+              "status": "reported",
+              "status_html": "<p>Reported from <a href=\"https://www.morningstar.com/news/dow-jones/202611198503/10-year-treasury-yield-falls-to-5051-data-talk\" target=\"_blank\" rel=\"noopener noreferrer\">Morningstar/Dow Jones</a> · not checked against Treasury</p>",
+              "updated": null,
+              "sources": [
+                "morningstar.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>President Trump threatened &quot;a tremendous tax&quot; on US companies that build AI data centers abroad, in remarks on Friday 20 November, with no rate or mechanism given.</strong>",
+              "html": "<p><strong>President Trump threatened &quot;a tremendous tax&quot; on US companies that build AI data centers abroad, in remarks on Friday 20 November, with no rate or mechanism given.</strong> The AP text, as pasted, ties it to voter opposition to data centers after the midterms. The top replies call it improvised; the most useful (10 points) says nothing can be priced until there is an order or a bill. <a href=\"https://www.reddit.com/r/stocks/comments/1y28d89/trump_seeks_to_penalize_us_companies_that_build/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "President Trump threatened \"a tremendous tax\" on US companies that build AI data centers abroad, in remarks on Friday 20 November, with no rate or mechanism given. The AP text, as pasted, ties it to voter opposition to data centers after the midterms. The top replies call it improvised; the most useful (10 points) says nothing can be priced until there is an order or a bill. thread Reported from AP as pasted · no order or bill was found",
+              "status": "reported",
+              "status_html": "<p>Reported from AP as pasted · no order or bill was found</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Samsung is reported to have booked most of its 2027–2029 memory capacity, with some customers seeking supply agreements through 2031.</strong>",
+              "html": "<p><strong>Samsung is reported to have booked most of its 2027–2029 memory capacity, with some customers seeking supply agreements through 2031.</strong> As pasted from BiggoFinance, it has signed long-term agreements with 10 customers and 10 more are in talks, and aims to lock in 60–70% of medium- and long-term capacity by 2030; HBM and 2027 general-purpose DRAM are described as sold out. Replies split: one calls the memory selloff overdone, another says &quot;the prepayments are the tell&quot;, and a third recalls Cisco's long-term agreements being cancelled in 2000 and asks how many customers are the same few who can pay. <a href=\"https://www.reddit.com/r/stocks/comments/1y22xxa/samsungs_memory_capacity_booked_through_2029_as/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Samsung is reported to have booked most of its 2027–2029 memory capacity, with some customers seeking supply agreements through 2031. As pasted from BiggoFinance, it has signed long-term agreements with 10 customers and 10 more are in talks, and aims to lock in 60–70% of medium- and long-term capacity by 2030; HBM and 2027 general-purpose DRAM are described as sold out. Replies split: one calls the memory selloff overdone, another says \"the prepayments are the tell\", and a third recalls Cisco's long-term agreements being cancelled in 2000 and asks how many customers are the same few who can pay. thread Reported from a single aggregator as pasted · not checked against Samsung",
+              "status": "reported",
+              "status_html": "<p>Reported from a single aggregator as pasted · not checked against Samsung</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Michael Burry said he sold half of his put options on Nvidia and on the VanEck Semiconductor ETF (SMH) on Friday, keeping the other half and a longer-term bearish position on the Nasdaq 100.</strong>",
+              "html": "<p><strong>Michael Burry said he sold half of his put options on Nvidia and on the VanEck Semiconductor ETF (SMH) on Friday, keeping the other half and a longer-term bearish position on the Nasdaq 100.</strong> As pasted from a Stocktwits item, via his Substack update to subscribers. The top replies are jokes about his record; the substantive ones say halving a winning position is ordinary risk management and does not call a bottom. <a href=\"https://www.reddit.com/r/stocks/comments/1y1i2ql/michael_burry_locks_in_gains_on_nvidia_chipmaker/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Michael Burry said he sold half of his put options on Nvidia and on the VanEck Semiconductor ETF (SMH) on Friday, keeping the other half and a longer-term bearish position on the Nasdaq 100. As pasted from a Stocktwits item, via his Substack update to subscribers. The top replies are jokes about his record; the substantive ones say halving a winning position is ordinary risk management and does not call a bottom. thread Reported, second-hand from his paywalled newsletter · not checked",
+              "status": "reported",
+              "status_html": "<p>Reported, second-hand from his paywalled newsletter · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Situational Awareness fund's public holdings fell far more after 30 September than its 13F shows, according to a poster.</strong>",
+              "html": "<p><strong>The Situational Awareness fund's public holdings fell far more after 30 September than its 13F shows, according to a poster.</strong> The post says the filing put holdings at &quot;$20.2 billion at the end of Q2 to $1.58 at the end of Q3&quot;, with the unit missing as written, and that the tickers it listed have since fallen between 45% and 72%. Commenters read it as leverage unwinding. <a href=\"https://www.reddit.com/r/stocks/comments/1y293ih/the_situational_awareness_rout_is_much_worse_than/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "The Situational Awareness fund's public holdings fell far more after 30 September than its 13F shows, according to a poster. The post says the filing put holdings at \"$20.2 billion at the end of Q2 to $1.58 at the end of Q3\", with the unit missing as written, and that the tickers it listed have since fallen between 45% and 72%. Commenters read it as leverage unwinding. thread Single source · the 13F and the price moves were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the 13F and the price moves were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>When does it make sense not to harvest a tax loss?</strong>",
+              "html": "<p><strong>When does it make sense not to harvest a tax loss?</strong> The replies say hold if the thesis is intact and you do not need the cash; compare the tax saved with the cost of missing a rebound while the 30-day wash-sale window runs, or of a substitute that does not track; and weigh today's bracket against the one expected later. One commenter suggests buying more first and harvesting the old lot after 31 days, flagging the risks of further declines and of selling the wrong lot; another notes short-term losses are the most valuable kind. <a href=\"https://www.reddit.com/r/investing/comments/1y2pzgx/are_there_times_when_it_is_better_not_to_harvest/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "When does it make sense not to harvest a tax loss? The replies say hold if the thesis is intact and you do not need the cash; compare the tax saved with the cost of missing a rebound while the 30-day wash-sale window runs, or of a substitute that does not track; and weigh today's bracket against the one expected later. One commenter suggests buying more first and harvesting the old lot after 31 days, flagging the risks of further declines and of selling the wrong lot; another notes short-term losses are the most valuable kind. thread Reported · commenters' views, no tax source checked",
+              "status": "reported",
+              "status_html": "<p>Reported · commenters' views, no tax source checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Is this a healthy correction or the start of a bear market?</strong>",
+              "html": "<p><strong>Is this a healthy correction or the start of a bear market?</strong> A long-term investor's thread (976 points) says 10%-plus corrections have happened 14 times in 30 years and the market is &quot;fairly valued again (forward PE of 17)&quot;; replies challenge the 17 as well below what the index has traded at for a decade, and note that long can mean 2001 to 2012. The <a href=\"https://www.reddit.com/r/stocks/comments/1y2ctq2/this_is_a_correction_not_a_bear_market/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks version</a> has 334 comments, not read. <a href=\"https://www.reddit.com/r/investing/comments/1y1su5g/this_is_healthy_as_a_long_term_investor/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Is this a healthy correction or the start of a bear market? A long-term investor's thread (976 points) says 10%-plus corrections have happened 14 times in 30 years and the market is \"fairly valued again (forward PE of 17)\"; replies challenge the 17 as well below what the index has traded at for a decade, and note that long can mean 2001 to 2012. The r/stocks version has 334 comments, not read. thread Single source · the corrections count and the forward P/E are the poster's",
+              "status": "single-source",
+              "status_html": "<p>Single source · the corrections count and the forward P/E are the poster's</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Fear next to calm: by title, a post called &quot;Suicide Hotline&quot; (1,848 points, not read) and &quot;What could be the possible outcome of the current crash?&quot; are amon…",
+              "html": "<p>Fear next to calm: by title, a post called &quot;Suicide Hotline&quot; (1,848 points, not read) and &quot;What could be the possible outcome of the current crash?&quot; are among the top threads, while the long-term threads tell newer investors to expect cycles. Skeptic Ed Zitron's CNBC appearance drew 534 comments, split between &quot;he was early&quot; and &quot;he has called this every two weeks since 2024&quot;. Two posts ask about dollar-cost averaging (DCA); one reply, in the PCE thread, says &quot;Just dollar cost average.&quot;</p>",
+              "text": "Fear next to calm: by title, a post called \"Suicide Hotline\" (1,848 points, not read) and \"What could be the possible outcome of the current crash?\" are among the top threads, while the long-term threads tell newer investors to expect cycles. Skeptic Ed Zitron's CNBC appearance drew 534 comments, split between \"he was early\" and \"he has called this every two weeks since 2024\". Two posts ask about dollar-cost averaging (DCA); one reply, in the PCE thread, says \"Just dollar cost average.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster lists, as settled, that CoreWeave bonds yield over 15%, the Nasdaq 100 had its worst day since 2020 on 5 November, a Hunterbrook short report hit AMD, and 529 Nasdaq stocks hit 52-week lows on 19 November.</strong>",
+              "html": "<p><strong>A poster lists, as settled, that CoreWeave bonds yield over 15%, the Nasdaq 100 had its worst day since 2020 on 5 November, a Hunterbrook short report hit AMD, and 529 Nasdaq stocks hit 52-week lows on 19 November.</strong> I looked for none of these in a primary source; they are one post's list.</p>",
+              "text": "A poster lists, as settled, that CoreWeave bonds yield over 15%, the Nasdaq 100 had its worst day since 2020 on 5 November, a Hunterbrook short report hit AMD, and 529 Nasdaq stocks hit 52-week lows on 19 November. I looked for none of these in a primary source; they are one post's list. Unconfirmed · taken from the October PCE post only",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · taken from the October PCE post only</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing (46 posts in the scan; 11 threads read in full).",
+              "html": "<p><strong>Read:</strong> stocks, investing (46 posts in the scan; 11 threads read in full). <strong>Sources checked:</strong> the Federal Reserve minutes via search (the monetary-policy feed fetch needed approval, which an unattended run could not get); Treasury yields via search, not the par curve page; the BLS schedule was not checked, and the PCE date comes from a post; Anthropic's pricing via press coverage, not the SEC filing; EDGAR was not checked.</p>",
+              "text": "Read: stocks, investing (46 posts in the scan; 11 threads read in full). Sources checked: the Federal Reserve minutes via search (the monetary-policy feed fetch needed approval, which an unattended run could not get); Treasury yields via search, not the par curve page; the BLS schedule was not checked, and the PCE date comes from a post; Anthropic's pricing via press coverage, not the SEC filing; EDGAR was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the FOMC minutes of 27–28 October, released 18 November.",
+              "html": "<p><strong>Announced, not discussed:</strong> the FOMC minutes of 27–28 October, released 18 November.</p>",
+              "text": "Announced, not discussed: the FOMC minutes of 27–28 October, released 18 November. Reported via ABA Banking Journal , not verified against the minutes",
+              "status": "reported",
+              "status_html": "<p>Reported via <a href=\"https://bankingjournal.aba.com/2026/11/fomc-minutes-show-close-call-over-possible-rate-hike/\" target=\"_blank\" rel=\"noopener noreferrer\">ABA Banking Journal</a>, not verified against the minutes</p>",
+              "updated": null,
+              "sources": [
+                "bankingjournal.aba.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;dca&quot; is dollar-cost averaging, a generic term used in two sentiment posts, covered in one line above.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;dca&quot; is dollar-cost averaging, a generic term used in two sentiment posts, covered in one line above.</p>",
+              "text": "Flagged terms set aside: \"dca\" is dollar-cost averaging, a generic term used in two sentiment posts, covered in one line above.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were checked for that window only through search.",
+              "html": "<p>Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were checked for that window only through search.</p>",
+              "text": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were checked for that window only through search.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Also skipped: the stickies; &quot;PSA kids stop shorting&quot;, &quot;what are you shorting&quot;, the NYT Huang report (471 comments, not read), the da Vinci settlement, the Du…",
+              "html": "<p>Also skipped: the stickies; &quot;PSA kids stop shorting&quot;, &quot;what are you shorting&quot;, the NYT Huang report (471 comments, not read), the da Vinci settlement, the Dutch Bros, Doosan, Baidu and Swedish-investor posts (few comments or personal); the family and Bogle-book posts (personal).</p>",
+              "text": "Also skipped: the stickies; \"PSA kids stop shorting\", \"what are you shorting\", the NYT Huang report (471 comments, not read), the da Vinci settlement, the Dutch Bros, Doosan, Baidu and Swedish-investor posts (few comments or personal); the family and Bogle-book posts (personal).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Nvidia reported a beat and a raise under an interim CEO, and the subs spent as much energy on whether Jensen Huang comes back as on the numbers: the run's biggest thread is a screenshot of a Huang statement that no outlet has carried. Around it, the government side moved: a reported SEC probe, a new export rule on remote access to AI chips, and a Fed governor calling for a half-point hike. Anthropic is reported to price its IPO today.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Nvidia's Q3 revenue was $115.8 billion, up 103% on the year, and it guided Q4 to $130 billion, plus or minus 3%, with no China data-centre compute revenue assumed.</strong>",
+              "html": "<p><strong>Nvidia's Q3 revenue was $115.8 billion, up 103% on the year, and it guided Q4 to $130 billion, plus or minus 3%, with no China data-centre compute revenue assumed.</strong> The release quotes interim CEO Colette Kress, &quot;Our momentum is real&quot;, and does not mention Jensen Huang.</p>\n<ul>\n<li><strong>Why it matters:</strong> It is the first report since Huang resigned, and it lands against a month of financing and governance worries. The <a href=\"https://www.reddit.com/r/stocks/comments/1xywpnl/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks results thread</a> (768 points) is mostly relief; the most useful reply (68 points) argues the worry was never this quarter's demand but demand &quot;in 2028 and beyond&quot;, and that a modest move after a beat when the options market priced a bigger one is &quot;a pretty bad omen&quot;. A 94-point reply answers the circular-financing dismissal: Nvidia's exposure is mostly guarantees on third-party loans, citing $105 billion to OpenAI. The better discussion is on r/investing, where a <a href=\"https://www.reddit.com/r/investing/comments/1xz9eob/\" target=\"_blank\" rel=\"noopener noreferrer\">CFO-commentary thread</a> points out supply and capacity commitments rising to $390 billion from $279 billion, which the poster says Nvidia attributes primarily to buying memory years ahead. Replies split between locking in HBM as the real bottleneck (and away from rivals) and a fixed obligation if hyperscaler capex pauses; one notes the 10-Q allows some commitments to be cancelled or rescheduled at a cost, and recalls the $4.5 billion H20 charge of April 2025 as what that cost looked like for one chip and one country.</li>\n<li><strong>What to watch:</strong> the dividend record date of 2 December; the board's CEO search and the outcome of its independent investigation, which the release's risk language names; whether the Q4 guide's &quot;additional week&quot; is stripped out in comparisons.</li>\n<li><strong>Numbers:</strong> Measured, from the release: data-centre revenue $107.6 billion, up 110%; GAAP gross margin 74.8% and non-GAAP 74.9%; GAAP EPS $2.70 and non-GAAP $2.68; Q4 gross margin guided to 71.0–72.0%; $28.1 billion returned to shareholders in the quarter; $227.3 billion left on the buyback authorisation. As posted from the CFO commentary: commitments of $390 billion, $203 billion of them dated fiscal 2028 and $69 billion for the rest of this fiscal year; cloud agreements and unstarted leases of $102 billion against $74 billion. One reply splits the $102 billion differently, as $74 billion of leases and $28 billion of cloud agreements; the two readings were not reconciled.</li>\n<li><strong>Caveats:</strong> The CFO commentary PDF could not be read here, so every commitments figure is the poster's. The Q4 quarter has an extra week. The &quot;8% priced move&quot; is a commenter's figure.</li>\n<li><strong>Read next:</strong> <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's Q3 release</a>.</li>\n</ul>",
+              "text": "Nvidia's Q3 revenue was $115.8 billion, up 103% on the year, and it guided Q4 to $130 billion, plus or minus 3%, with no China data-centre compute revenue assumed. The release quotes interim CEO Colette Kress, \"Our momentum is real\", and does not mention Jensen Huang. Why it matters: It is the first report since Huang resigned, and it lands against a month of financing and governance worries. The r/stocks results thread (768 points) is mostly relief; the most useful reply (68 points) argues the worry was never this quarter's demand but demand \"in 2028 and beyond\", and that a modest move after a beat when the options market priced a bigger one is \"a pretty bad omen\". A 94-point reply answers the circular-financing dismissal: Nvidia's exposure is mostly guarantees on third-party loans, citing $105 billion to OpenAI. The better discussion is on r/investing, where a CFO-commentary thread points out supply and capacity commitments rising to $390 billion from $279 billion, which the poster says Nvidia attributes primarily to buying memory years ahead. Replies split between locking in HBM as the real bottleneck (and away from rivals) and a fixed obligation if hyperscaler capex pauses; one notes the 10-Q allows some commitments to be cancelled or rescheduled at a cost, and recalls the $4.5 billion H20 charge of April 2025 as what that cost looked like for one chip and one country. What to watch: the dividend record date of 2 December; the board's CEO search and the outcome of its independent investigation, which the release's risk language names; whether the Q4 guide's \"additional week\" is stripped out in comparisons. Numbers: Measured, from the release: data-centre revenue $107.6 billion, up 110%; GAAP gross margin 74.8% and non-GAAP 74.9%; GAAP EPS $2.70 and non-GAAP $2.68; Q4 gross margin guided to 71.0–72.0%; $28.1 billion returned to shareholders in the quarter; $227.3 billion left on the buyback authorisation. As posted from the CFO commentary: commitments of $390 billion, $203 billion of them dated fiscal 2028 and $69 billion for the rest of this fiscal year; cloud agreements and unstarted leases of $102 billion against $74 billion. One reply splits the $102 billion differently, as $74 billion of leases and $28 billion of cloud agreements; the two readings were not reconciled. Caveats: The CFO commentary PDF could not be read here, so every commitments figure is the poster's. The Q4 quarter has an extra week. The \"8% priced move\" is a commenter's figure. Read next: Nvidia's Q3 release . Verified for revenue, margins, EPS, the outlook and shareholder returns against Nvidia's release of 17 November · the commitments figures are Single source, from the r/investing post",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for revenue, margins, EPS, the outlook and shareholder returns against <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's release of 17 November</a> · the commitments figures are Single source, from the r/investing post</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The top thread of the run is a Huang statement offering to return as CEO, but it rests on an imgur screenshot no outlet has reported, and CNBC's source says the board is not considering it.</strong>",
+              "html": "<p><strong>The top thread of the run is a Huang statement offering to return as CEO, but it rests on an imgur screenshot no outlet has reported, and CNBC's source says the board is not considering it.</strong> Three days after the board said it was choosing a search firm, the subs argued over a return pushed by a petition, Elon Musk and President Trump.</p>\n<ul>\n<li><strong>Why it matters:</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1xyoyf9/\" target=\"_blank\" rel=\"noopener noreferrer\">statement thread</a> (2,957 points) has Huang saying he would be &quot;honored to answer these calls and return as CEO&quot; if the board decides it is in shareholders' interest. Replies split hard: the top substantive one (1,163 points) asks how someone can breach company policy and &quot;still want to come back&quot;, while a 126-point reply calls the outrage a &quot;hit job&quot;. The <a href=\"https://www.reddit.com/r/stocks/comments/1xxw2l7/\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC thread</a> (720 points) quotes a person familiar saying the board &quot;is not in discussions to bring him back&quot; and is focused on the Wachtell Lipton investigation; its top reply (302 points) says rehiring a CEO &quot;they fired a week ago&quot; would look weak. Trump said on 16 November a return &quot;certainly isn't a bad idea&quot; (<a href=\"https://www.reddit.com/r/stocks/comments/1xxrrkb/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks</a>, 1,356 points; <a href=\"https://www.reddit.com/r/investing/comments/1xxu88j/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing</a>), while Treasury Secretary Bessent is reported by the WSJ to want an outsider (<a href=\"https://www.reddit.com/r/investing/comments/1xx3iuq/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>). On 17 November the board created a National Security and Export Control Oversight Committee chaired by Suzanne Nora Johnson (<a href=\"https://www.reddit.com/r/stocks/comments/1xyguh6/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>), and TechCrunch, citing the WSJ, reported a civil SEC probe into whether Nvidia's disclosures misled investors (<a href=\"https://www.reddit.com/r/stocks/comments/1xz229w/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>).</li>\n<li><strong>What to watch:</strong> the board's choice of search firm and any shortlist; the investigation's findings; whether the SEC probe is confirmed by Nvidia or in a filing.</li>\n<li><strong>Numbers:</strong> As reported by CNBC: a reinstatement petition at 180,000 signatures. As posted: the petition is put at &quot;more than 170,000&quot; in other coverage. No share figures were checked.</li>\n<li><strong>Caveats:</strong> A search found no coverage of the Huang statement; the only &quot;honor&quot; quote found was Musk's, about hiring Huang. Treat it as <strong>Unconfirmed</strong>. The SEC probe is one WSJ report relayed by TechCrunch, with no comment from Nvidia or the SEC. A separate 1,506-point thread on Trump's accounts trading Nvidia is a link post with no source attached and was not covered.</li>\n<li><strong>Read next:</strong> <a href=\"https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's oversight committee release</a>.</li>\n</ul>",
+              "text": "The top thread of the run is a Huang statement offering to return as CEO, but it rests on an imgur screenshot no outlet has reported, and CNBC's source says the board is not considering it. Three days after the board said it was choosing a search firm, the subs argued over a return pushed by a petition, Elon Musk and President Trump. Why it matters: The statement thread (2,957 points) has Huang saying he would be \"honored to answer these calls and return as CEO\" if the board decides it is in shareholders' interest. Replies split hard: the top substantive one (1,163 points) asks how someone can breach company policy and \"still want to come back\", while a 126-point reply calls the outrage a \"hit job\". The CNBC thread (720 points) quotes a person familiar saying the board \"is not in discussions to bring him back\" and is focused on the Wachtell Lipton investigation; its top reply (302 points) says rehiring a CEO \"they fired a week ago\" would look weak. Trump said on 16 November a return \"certainly isn't a bad idea\" ( r/stocks , 1,356 points; r/investing ), while Treasury Secretary Bessent is reported by the WSJ to want an outsider ( thread ). On 17 November the board created a National Security and Export Control Oversight Committee chaired by Suzanne Nora Johnson ( thread ), and TechCrunch, citing the WSJ, reported a civil SEC probe into whether Nvidia's disclosures misled investors ( thread ). What to watch: the board's choice of search firm and any shortlist; the investigation's findings; whether the SEC probe is confirmed by Nvidia or in a filing. Numbers: As reported by CNBC: a reinstatement petition at 180,000 signatures. As posted: the petition is put at \"more than 170,000\" in other coverage. No share figures were checked. Caveats: A search found no coverage of the Huang statement; the only \"honor\" quote found was Musk's, about hiring Huang. Treat it as Unconfirmed . The SEC probe is one WSJ report relayed by TechCrunch, with no comment from Nvidia or the SEC. A separate 1,506-point thread on Trump's accounts trading Nvidia is a link post with no source attached and was not covered. Read next: Nvidia's oversight committee release . Verified for the committee against Nvidia's release of 17 November · the board's position and the SEC probe are Reported via CNBC as pasted and TechCrunch · the Huang statement is Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the committee against <a href=\"https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's release of 17 November</a> · the board's position and the SEC probe are Reported via CNBC as pasted and <a href=\"https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch</a> · the Huang statement is <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "nvidianews.nvidia.com",
+                "TechCrunch"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Fed Governor Waller told CNBC a half-point hike is &quot;probably necessary&quot; in December and the Fed &quot;might need to, like, shock people&quot;.</strong>",
+              "html": "<p><strong>Fed Governor Waller told CNBC a half-point hike is &quot;probably necessary&quot; in December and the Fed &quot;might need to, like, shock people&quot;.</strong> As pasted, he wants to reverse last year's three cuts and possibly more, though a quarter point plus a clear signal for January would also do; the article notes Chair Warsh opposes that kind of forward guidance, while New York Fed President Williams said &quot;I don't think the situation calls for dramatic action.&quot; It also says futures fully price a quarter point in December and another move in January. Replies are mostly politics; the useful one notes that a committee's members are meant to disagree. Last run's digest marked an earlier Waller 50-point remark <strong>Unconfirmed</strong>; this one is a named CNBC interview. <a href=\"https://www.reddit.com/r/stocks/comments/1xzf92l/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Fed Governor Waller told CNBC a half-point hike is \"probably necessary\" in December and the Fed \"might need to, like, shock people\". As pasted, he wants to reverse last year's three cuts and possibly more, though a quarter point plus a clear signal for January would also do; the article notes Chair Warsh opposes that kind of forward guidance, while New York Fed President Williams said \"I don't think the situation calls for dramatic action.\" It also says futures fully price a quarter point in December and another move in January. Replies are mostly politics; the useful one notes that a committee's members are meant to disagree. Last run's digest marked an earlier Waller 50-point remark Unconfirmed ; this one is a named CNBC interview. thread Reported from CNBC as pasted · a search found no other coverage yet · the futures pricing was not checked",
+              "status": "reported",
+              "status_html": "<p>Reported from CNBC as pasted · a search found no other coverage yet · the futures pricing was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Fed Chair Warsh's 16 November speech sketched an AI-disappointment scenario in which &quot;equity valuations could fall, leading to an economic slowdown&quot;.</strong>",
+              "html": "<p><strong>Fed Chair Warsh's 16 November speech sketched an AI-disappointment scenario in which &quot;equity valuations could fall, leading to an economic slowdown&quot;.</strong> The Fed's text presents it as one illustrative scenario, not a forecast, and says nothing on the policy path. r/investing read it as a bust warning (<a href=\"https://www.reddit.com/r/investing/comments/1xxy6sn/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>, 68 points). Former SEC chair Gary Gensler, quoted by CNN via Quartz, went further, calling AI &quot;already a bubble&quot; and naming neoclouds as the first casualties (<a href=\"https://www.reddit.com/r/investing/comments/1xxuagk/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>, 583 points). The best reply there says the financing worry should show first in credit, and that high-yield spreads near 3.2% and investment grade near 0.9% are still tight, which was not checked.</p>",
+              "text": "Fed Chair Warsh's 16 November speech sketched an AI-disappointment scenario in which \"equity valuations could fall, leading to an economic slowdown\". The Fed's text presents it as one illustrative scenario, not a forecast, and says nothing on the policy path. r/investing read it as a bust warning ( thread , 68 points). Former SEC chair Gary Gensler, quoted by CNN via Quartz, went further, calling AI \"already a bubble\" and naming neoclouds as the first casualties ( thread , 583 points). The best reply there says the financing worry should show first in credit, and that high-yield spreads near 3.2% and investment grade near 0.9% are still tight, which was not checked. Verified for the Warsh wording against the Fed's text · Gensler is Reported from Quartz as pasted · the spreads are a commenter's",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the Warsh wording against <a href=\"https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Fed's text</a> · Gensler is Reported from <a href=\"https://qz.com/gensler-ai-bubble-recession-warning-2028-election-111626\" target=\"_blank\" rel=\"noopener noreferrer\">Quartz</a> as pasted · the spreads are a commenter's</p>",
+              "updated": null,
+              "sources": [
+                "r/investing",
+                "Federal Reserve",
+                "qz.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Commerce issued an interim rule requiring licences for advanced AI chips going to data centres in Singapore, Malaysia, Thailand, Indonesia and Brazil, aimed at Chinese remote access.</strong>",
+              "html": "<p><strong>Commerce issued an interim rule requiring licences for advanced AI chips going to data centres in Singapore, Malaysia, Thailand, Indonesia and Brazil, aimed at Chinese remote access.</strong> As pasted from Bloomberg, US-headquartered companies are carved out, the Philadelphia Semiconductor Index fell as much as 5.5% on the day, and the rule takes effect once published in the Federal Register. A commenter in a <a href=\"https://www.reddit.com/r/stocks/comments/1xynn9a/\" target=\"_blank\" rel=\"noopener noreferrer\">Megaspeed thread</a> reads the carve-out as allowing an Amazon data centre in Malaysia to rent to China where a Megaspeed one could not. <a href=\"https://www.reddit.com/r/investing/comments/1xxyct5/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Commerce issued an interim rule requiring licences for advanced AI chips going to data centres in Singapore, Malaysia, Thailand, Indonesia and Brazil, aimed at Chinese remote access. As pasted from Bloomberg, US-headquartered companies are carved out, the Philadelphia Semiconductor Index fell as much as 5.5% on the day, and the rule takes effect once published in the Federal Register. A commenter in a Megaspeed thread reads the carve-out as allowing an Amazon data centre in Malaysia to rent to China where a Megaspeed one could not. thread Reported, consistent across Bloomberg as pasted and The Next Web · coverage differs on whether it was issued on 15 or 16 November · the rule text was not read",
+              "status": "reported",
+              "status_html": "<p>Reported, consistent across Bloomberg as pasted and <a href=\"https://thenextweb.com/news/us-remote-access-ai-chips-rule-china-singapore-malaysia\" target=\"_blank\" rel=\"noopener noreferrer\">The Next Web</a> · coverage differs on whether it was issued on 15 or 16 November · the rule text was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "thenextweb.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The 10-year Treasury eased to 5.10% on 17 November from 5.15% on 13 November.</strong>",
+              "html": "<p><strong>The 10-year Treasury eased to 5.10% on 17 November from 5.15% on 13 November.</strong> The 2-year closed at 4.80% and the 30-year at 5.46% on 17 November. No thread was about yields directly; they are the backdrop to the Waller and Gensler threads.</p>",
+              "text": "The 10-year Treasury eased to 5.10% on 17 November from 5.15% on 13 November. The 2-year closed at 4.80% and the 30-year at 5.46% on 17 November. No thread was about yields directly; they are the backdrop to the Waller and Gensler threads. Verified against Treasury's November par curve",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202611\" target=\"_blank\" rel=\"noopener noreferrer\">Treasury's November par curve</a></p>",
+              "updated": null,
+              "sources": [
+                "home.treasury.gov"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A Financial Times report says Nvidia's Singapore subsidiary booked $104 billion of revenue in 2025 after Nvidia stopped breaking Singapore out.</strong>",
+              "html": "<p><strong>A Financial Times report says Nvidia's Singapore subsidiary booked $104 billion of revenue in 2025 after Nvidia stopped breaking Singapore out.</strong> As pasted, the subsidiary's accounts show $117.8 billion in the year to January 2026 but only $53 million of profit, and its annual accounts say under 2% of revenue was tied to chips landing in Singapore. The top reply (192 points) calls it a billing-location story; a 38-point reply says the last disclosure Nvidia made, for the July 2025 quarter, put Singapore at $10.2 billion of $46.7 billion with over 99% of the export-controlled chips billed there ordered by US-based customers, Nvidia's own and uncheckable number. Another reply quotes Nvidia's stated reason for switching to headquarters location. <a href=\"https://www.reddit.com/r/stocks/comments/1xyti6c/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A Financial Times report says Nvidia's Singapore subsidiary booked $104 billion of revenue in 2025 after Nvidia stopped breaking Singapore out. As pasted, the subsidiary's accounts show $117.8 billion in the year to January 2026 but only $53 million of profit, and its annual accounts say under 2% of revenue was tied to chips landing in Singapore. The top reply (192 points) calls it a billing-location story; a 38-point reply says the last disclosure Nvidia made, for the July 2025 quarter, put Singapore at $10.2 billion of $46.7 billion with over 99% of the export-controlled chips billed there ordered by US-based customers, Nvidia's own and uncheckable number. Another reply quotes Nvidia's stated reason for switching to headquarters location. thread Reported from the FT as pasted, paywalled · the July 2025 split is a commenter's and was not checked against the 10-Q",
+              "status": "reported",
+              "status_html": "<p>Reported from the FT as pasted, paywalled · the July 2025 split is a commenter's and was not checked against the 10-Q</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Cerebras reports $26.1 billion of remaining contracted work, but its 10-Q schedules only about 33% of it as revenue in the 24 months to September 2028.</strong>",
+              "html": "<p><strong>Cerebras reports $26.1 billion of remaining contracted work, but its 10-Q schedules only about 33% of it as revenue in the 24 months to September 2028.</strong> The poster says much of it is tied to OpenAI, that deliveries ran behind the agreement as of 30 September, that service credits began accruing on 1 October, and that the terminable share in 2026 is under 5% of the OpenAI capacity, not of the backlog. The best replies say to watch whether the two-year share shrinks while the total holds and whether service credits show up as lower fees, with the poster cautioning that new long-dated contracts could also lower the share. <a href=\"https://www.reddit.com/r/investing/comments/1xy9e0b/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Cerebras reports $26.1 billion of remaining contracted work, but its 10-Q schedules only about 33% of it as revenue in the 24 months to September 2028. The poster says much of it is tied to OpenAI, that deliveries ran behind the agreement as of 30 September, that service credits began accruing on 1 October, and that the terminable share in 2026 is under 5% of the OpenAI capacity, not of the backlog. The best replies say to watch whether the two-year share shrinks while the total holds and whether service credits show up as lower fees, with the poster cautioning that new long-dated contracts could also lower the share. thread Single source · not checked against Cerebras's 10-Q",
+              "status": "single-source",
+              "status_html": "<p>Single source · not checked against Cerebras's 10-Q</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Berkshire's Q3 13F has one new stock: 20.7 million shares of Bending Spoons, the app roll-up that owns Evernote and Vimeo.</strong>",
+              "html": "<p><strong>Berkshire's Q3 13F has one new stock: 20.7 million shares of Bending Spoons, the app roll-up that owns Evernote and Vimeo.</strong> The poster gives the value as $689 million at 30 September, the July IPO stake at $29 a share, and an October agreement for 10 million more at $33; the poster adds, in reply, the exact line &quot;20,689,655 shares, $689,379,305&quot;. Elsewhere in the filing, as posted: Lennar nearly doubled, Capital One cut 62%. Replies ask whether a roll-up is a Berkshire business under Greg Abel. <a href=\"https://www.reddit.com/r/investing/comments/1xyixb9/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Berkshire's Q3 13F has one new stock: 20.7 million shares of Bending Spoons, the app roll-up that owns Evernote and Vimeo. The poster gives the value as $689 million at 30 September, the July IPO stake at $29 a share, and an October agreement for 10 million more at $33; the poster adds, in reply, the exact line \"20,689,655 shares, $689,379,305\". Elsewhere in the filing, as posted: Lennar nearly doubled, Capital One cut 62%. Replies ask whether a roll-up is a Berkshire business under Greg Abel. thread Single source · the 13F was not checked on EDGAR",
+              "status": "single-source",
+              "status_html": "<p>Single source · the 13F was not checked on EDGAR</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Waymo paused freeway rides across the US after California's DMV barred its vehicles from freeways, citing entries into active construction zones.</strong>",
+              "html": "<p><strong>Waymo paused freeway rides across the US after California's DMV barred its vehicles from freeways, citing entries into active construction zones.</strong> Reuters, as pasted, quotes the DMV calling the operations &quot;an imminent hazard to public safety&quot;; street service continues. One commenter links it to a robotaxi trying to pass a police escort, which was not checked. <a href=\"https://www.reddit.com/r/stocks/comments/1xz16z5/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Waymo paused freeway rides across the US after California's DMV barred its vehicles from freeways, citing entries into active construction zones. Reuters, as pasted, quotes the DMV calling the operations \"an imminent hazard to public safety\"; street service continues. One commenter links it to a robotaxi trying to pass a police escort, which was not checked. thread Reported from Reuters as pasted",
+              "status": "reported",
+              "status_html": "<p>Reported from <a href=\"https://www.reuters.com/business/autos-transportation/waymo-pauses-robotaxi-rides-us-freeways-after-california-ban-2026-11-18/\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters</a> as pasted</p>",
+              "updated": "2026-11-18",
+              "sources": [
+                "r/stocks",
+                "Reuters"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;If Nvidia matched Costco's forward P/E, it would be worth $16 trillion.&quot;</strong>",
+              "html": "<p><strong>&quot;If Nvidia matched Costco's forward P/E, it would be worth $16 trillion.&quot;</strong> The poster's case is that the bubble is in defensives. The best objections: Costco is not cyclical, a discounted-cash-flow model values a business &quot;until the end of time&quot; and people will shop at Costco longer than they buy any one chip, and Intel was once &quot;unbeatable&quot;. One reply concedes the other half, that Costco at a P/E of about 52 against a two-decade 20–23 is itself stretched. <a href=\"https://www.reddit.com/r/stocks/comments/1xyz9se/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a> (1,062 points)</p>",
+              "text": "\"If Nvidia matched Costco's forward P/E, it would be worth $16 trillion.\" The poster's case is that the bubble is in defensives. The best objections: Costco is not cyclical, a discounted-cash-flow model values a business \"until the end of time\" and people will shop at Costco longer than they buy any one chip, and Intel was once \"unbeatable\". One reply concedes the other half, that Costco at a P/E of about 52 against a two-decade 20–23 is itself stretched. thread (1,062 points) Single source · all multiples as posted",
+              "status": "single-source",
+              "status_html": "<p>Single source · all multiples as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Is an IPO the start of the growth or the exit for earlier investors?</strong>",
+              "html": "<p><strong>Is an IPO the start of the growth or the exit for earlier investors?</strong> Ahead of Anthropic's listing, a <a href=\"https://www.reddit.com/r/stocks/comments/1xyyzl7/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread</a> argues the latter, with a float under 10% and staggered lockups letting up to 1.6 billion shares sell within 76 days, both the poster's figures. Replies mostly say it rehashes the SpaceX debate. A commenter says Anthropic would likely price above &quot;the IPO initial range of $72-$78&quot;; the filed range is $70–$78, and no pricing had been reported when this ran. A separate post cites Bloomberg on projected stock-based compensation of about $45 billion through 2029 (<a href=\"https://www.reddit.com/r/stocks/comments/1xyi4so/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>), unchecked.</p>",
+              "text": "Is an IPO the start of the growth or the exit for earlier investors? Ahead of Anthropic's listing, a r/stocks thread argues the latter, with a float under 10% and staggered lockups letting up to 1.6 billion shares sell within 76 days, both the poster's figures. Replies mostly say it rehashes the SpaceX debate. A commenter says Anthropic would likely price above \"the IPO initial range of $72-$78\"; the filed range is $70–$78, and no pricing had been reported when this ran. A separate post cites Bloomberg on projected stock-based compensation of about $45 billion through 2029 ( thread ), unchecked. Single source · the lockup and SBC figures were not checked against the S-1",
+              "status": "single-source",
+              "status_html": "<p>Single source · the lockup and SBC figures were not checked against the S-1</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Split screen: relief that Nvidia&#x27;s numbers held up, against fatigue and anger about the Huang saga and its politics.",
+              "html": "<p>Split screen: relief that Nvidia's numbers held up, against fatigue and anger about the Huang saga and its politics. Rate-hike talk is now hawkish enough that &quot;shock people&quot; and Druckenmiller's reported &quot;we're in capital preservation&quot; (<a href=\"https://www.reddit.com/r/investing/comments/1xyraab/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>, headlines only, not read) set the tone for anything long-duration.</p>",
+              "text": "Split screen: relief that Nvidia's numbers held up, against fatigue and anger about the Huang saga and its politics. Rate-hike talk is now hawkish enough that \"shock people\" and Druckenmiller's reported \"we're in capital preservation\" ( thread , headlines only, not read) set the tone for anything long-duration.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing (45 posts in the scan; 14 threads read in full).",
+              "html": "<p><strong>Read:</strong> stocks, investing (45 posts in the scan; 14 threads read in full). <strong>Sources checked:</strong> the Federal Reserve monetary policy feed (no new items since 12 November) and Warsh's 16 November speech; Treasury's November par curve (through 17 November); the BLS release schedule (no CPI, jobs or PPI release since the last entry; October import prices on 17 November); Nvidia's newsroom. Commerce's Megaspeed statement returned HTTP 403 and a search did not find it; the CFO commentary PDF could not be read; EDGAR was not checked.</p>",
+              "text": "Read: stocks, investing (45 posts in the scan; 14 threads read in full). Sources checked: the Federal Reserve monetary policy feed (no new items since 12 November) and Warsh's 16 November speech; Treasury's November par curve (through 17 November); the BLS release schedule (no CPI, jobs or PPI release since the last entry; October import prices on 17 November); Nvidia's newsroom. Commerce's Megaspeed statement returned HTTP 403 and a search did not find it; the CFO commentary PDF could not be read; EDGAR was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The FOMC minutes of the October meeting were due later on 18 November, per the pasted CNBC article, and had not appeared in the Fed's feed when checked.</p>",
+              "text": "Announced, not discussed: none. The FOMC minutes of the October meeting were due later on 18 November, per the pasted CNBC article, and had not appeared in the Fed's feed when checked. Verified against the Federal Reserve's monetary policy feed and the BLS schedule",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Federal Reserve's monetary policy feed and the BLS schedule</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none flagged by the scan.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none flagged by the scan.</p>",
+              "text": "Flagged terms set aside: none flagged by the scan.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Also skipped: the stickies; the Trump-accounts link post (no source in the post; replies are politics); the Megaspeed timeline post, whose Commerce link woul…",
+              "html": "<p>Also skipped: the stickies; the Trump-accounts link post (no source in the post; replies are politics); the Megaspeed timeline post, whose Commerce link would not load, beyond the carve-out reply used above; the Samsung–Apple DRAM report (hot-list text only, not read); SLS buyout, cyber-security, VOO, books, M1-to-Fidelity, IPO-allocation and &quot;bagholders&quot; posts (personal or bare asks); the Baidu, Robotis/Fanuc, EU insurance and Meb Faber posts (few or no comments); the expected-return gauge, MJ ETF, AI infrastructure, hyperscaler &quot;swamping&quot;, &quot;is it a bubble&quot; and 10%-drop posts (no substance in replies or not read); the 19 November &quot;convergence&quot; post.</p>",
+              "text": "Also skipped: the stickies; the Trump-accounts link post (no source in the post; replies are politics); the Megaspeed timeline post, whose Commerce link would not load, beyond the carve-out reply used above; the Samsung–Apple DRAM report (hot-list text only, not read); SLS buyout, cyber-security, VOO, books, M1-to-Fidelity, IPO-allocation and \"bagholders\" posts (personal or bare asks); the Baidu, Robotis/Fanuc, EU insurance and Meb Faber posts (few or no comments); the expected-return gauge, MJ ETF, AI infrastructure, hyperscaler \"swamping\", \"is it a bubble\" and 10%-drop posts (no substance in replies or not read); the 19 November \"convergence\" post.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "title": "Stocks & investing digest",
@@ -3804,19 +4367,6 @@
           "due_label": "Q3 results, call at 5 p.m. ET"
         },
         {
-          "headline": "<strong>Anthropic set an IPO range of $70–$78 for 825 million shares on 10 November, up to $1.405 trillion fully diluted, and is reported to price on 18 November and trade on Nasdaq as &quot;ANT&quot; on 19 November.</strong>",
-          "html": "<p><strong>Anthropic set an IPO range of $70–$78 for 825 million shares on 10 November, up to $1.405 trillion fully diluted, and is reported to price on 18 November and trade on Nasdaq as &quot;ANT&quot; on 19 November.</strong> The range and share count are from an amended filing as reported by CNBC; the dates are from unnamed sources.</p>",
-          "text": "Anthropic set an IPO range of $70–$78 for 825 million shares on 10 November, up to $1.405 trillion fully diluted, and is reported to price on 18 November and trade on Nasdaq as \"ANT\" on 19 November. The range and share count are from an amended filing as reported by CNBC; the dates are from unnamed sources. Reported from CNBC of 10 November · the S-1/A was not read · 2026-11-12",
-          "status": "reported",
-          "status_html": "<p>Reported from <a href=\"https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC of 10 November</a> · the S-1/A was not read · 2026-11-12</p>",
-          "updated": "2026-11-12",
-          "sources": [
-            "CNBC"
-          ],
-          "due": "2026-11-18",
-          "due_label": "reported pricing"
-        },
-        {
           "headline": "<strong>China's suspension of its gallium, germanium and antimony export ban to the US expires on 27 November 2026.</strong>",
           "html": "<p><strong>China's suspension of its gallium, germanium and antimony export ban to the US expires on 27 November 2026.</strong> The December 2024 ban was suspended by China's Ministry of Commerce on 9 November 2025 for one year; the metals remain on the dual-use control list, so export licences are still required, and the ban on dual-use exports to US military users was never lifted. No confirmation of an extension has been reported. r/stocks raised it once, at 8 points.</p>",
           "text": "China's suspension of its gallium, germanium and antimony export ban to the US expires on 27 November 2026. The December 2024 ban was suspended by China's Ministry of Commerce on 9 November 2025 for one year; the metals remain on the dual-use control list, so export licences are still required, and the ban on dual-use exports to US military users was never lifted. No confirmation of an extension has been reported. r/stocks raised it once, at 8 points. Verified for the suspension and the date against Reuters coverage of the MOFCOM announcement and CNBC · 2026-10-18",
@@ -3989,6 +4539,20 @@
           "sources": [
             "SEC filing",
             "investor.tsmc.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Anthropic priced its IPO at $83 a share on 18 November, above the $70–$78 range it set on 10 November, and was due to trade on Nasdaq as &quot;ANT&quot; on 19 November.</strong>",
+          "html": "<p><strong>Anthropic priced its IPO at $83 a share on 18 November, above the $70–$78 range it set on 10 November, and was due to trade on Nasdaq as &quot;ANT&quot; on 19 November.</strong> Outlets put the valuation at about $1.5 trillion and the raise at $81.3 billion (one reports less), plus a $26 billion private placement at the same price; the sources do not reconcile the share counts. First-day trading was not found.</p>",
+          "text": "Anthropic priced its IPO at $83 a share on 18 November, above the $70–$78 range it set on 10 November, and was due to trade on Nasdaq as \"ANT\" on 19 November. Outlets put the valuation at about $1.5 trillion and the raise at $81.3 billion (one reports less), plus a $26 billion private placement at the same price; the sources do not reconcile the share counts. First-day trading was not found. Reported from TechCrunch and The Next Web · the filing was not read · 2026-11-22",
+          "status": "reported",
+          "status_html": "<p>Reported from <a href=\"https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch</a> and <a href=\"https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise\" target=\"_blank\" rel=\"noopener noreferrer\">The Next Web</a> · the filing was not read · 2026-11-22</p>",
+          "updated": "2026-11-22",
+          "sources": [
+            "TechCrunch",
+            "thenextweb.com"
           ],
           "due": null,
           "due_label": null
