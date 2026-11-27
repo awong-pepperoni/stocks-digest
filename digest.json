@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-26",
   "meta": {
     "feed": "stocks",
     "title": "Stocks & Investing Digest",
@@ -21,6 +21,289 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-26",
+      "title": "Stocks & investing digest",
+      "intro_html": "<p>Both subs spent the Thanksgiving week on the same two things: Nvidia's governance and export-control troubles, and a 3.8% October PCE reading that commenters take as sealing a December hike. The Dow was reported to have erased a 1,100-point intraday loss on Wednesday while the Nasdaq Composite closed lower, and the day's most upvoted thread was a Microsoft outage story.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Nvidia's board reinstated Jensen Huang as CEO on 23 November, and a pasted Reuters story says S&amp;P then put its 'AA' rating on watch for a downgrade over board independence.</strong>",
+              "html": "<p><strong>Nvidia's board reinstated Jensen Huang as CEO on 23 November, and a pasted Reuters story says S&amp;P then put its 'AA' rating on watch for a downgrade over board independence.</strong> Huang had resigned on 12 November; the S&amp;P action rests on a Reddit paste that I could not find at S&amp;P or in search.</p>\n<ul>\n<li><strong>Why it matters:</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1y5op88/sp_warns_nvidias_board_may_be_compromised_puts/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread on the S&amp;P action</a> (1,316 points, 230 comments) and the <a href=\"https://www.reddit.com/r/investing/comments/1y5gjjx/nvidia_at_risk_of_rating_cut_by_sp_over/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing thread</a> (197 points) are the week's densest discussion, alongside <a href=\"https://www.reddit.com/r/stocks/comments/1y4n5jf/jensen_huang_tells_staff_that_nvidia_doesnt_need/\" target=\"_blank\" rel=\"noopener noreferrer\">Huang telling staff Nvidia needs no succession plan</a> (1,169 points) and a WSJ headline that the Nasdaq-100 &quot;erased the bounce&quot; from his return. The top reply to the S&amp;P post (525 points) says board members were likely bribed or coerced; a reply below it (42 points) says big investors threatened a proxy fight, and neither is sourced. A commenter on the same thread notes the company is expected to generate &quot;$500B+&quot; free cash flow next year, which is that commenter's figure.</li>\n<li><strong>What to watch:</strong> any S&amp;P publication of the rating action, and Nvidia filings that touch the board or the SEC inquiry covered in the 2026-11-22 entry.</li>\n<li><strong>Numbers:</strong> As pasted from Reuters: S&amp;P could cut one notch within 90 days; shares fell 4% on Wednesday and are down 38% since 6 October. A search result describing the 23 November 8-K quotes the board as &quot;satisfied with respect to Mr. Huang's candor and ability to lead&quot;.</li>\n<li><strong>Caveats:</strong> A search for the S&amp;P action found only an earlier S&amp;P upgrade to 'AA' and Moody's moving its outlook to stable after the resignation. The Reddit post's link points to a Reuters story about a different subject, a WSJ report that the US found no evidence of a China-directed spy, so the paste may be mismatched. An earlier report said the board did not intend to reinstate him.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's 8-K press release of 23 November</a>.</li>\n</ul>",
+              "text": "Nvidia's board reinstated Jensen Huang as CEO on 23 November, and a pasted Reuters story says S&P then put its 'AA' rating on watch for a downgrade over board independence. Huang had resigned on 12 November; the S&P action rests on a Reddit paste that I could not find at S&P or in search. Why it matters: The r/stocks thread on the S&P action (1,316 points, 230 comments) and the r/investing thread (197 points) are the week's densest discussion, alongside Huang telling staff Nvidia needs no succession plan (1,169 points) and a WSJ headline that the Nasdaq-100 \"erased the bounce\" from his return. The top reply to the S&P post (525 points) says board members were likely bribed or coerced; a reply below it (42 points) says big investors threatened a proxy fight, and neither is sourced. A commenter on the same thread notes the company is expected to generate \"$500B+\" free cash flow next year, which is that commenter's figure. What to watch: any S&P publication of the rating action, and Nvidia filings that touch the board or the SEC inquiry covered in the 2026-11-22 entry. Numbers: As pasted from Reuters: S&P could cut one notch within 90 days; shares fell 4% on Wednesday and are down 38% since 6 October. A search result describing the 23 November 8-K quotes the board as \"satisfied with respect to Mr. Huang's candor and ability to lead\". Caveats: A search for the S&P action found only an earlier S&P upgrade to 'AA' and Moody's moving its outlook to stable after the resignation. The Reddit post's link points to a Reuters story about a different subject, a WSJ report that the US found no evidence of a China-directed spy, so the paste may be mismatched. An earlier report said the board did not intend to reinstate him. Read next: Nvidia's 8-K press release of 23 November . Reported for the reinstatement, from the 8-K as shown in search results · the S&P watch is Unconfirmed",
+              "status": "reported",
+              "status_html": "<p><strong>Reported</strong> for the reinstatement, from the 8-K as shown in search results · the S&amp;P watch is <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>October PCE inflation was reported at 3.8% year on year, with core at 3.3%, and commenters read it as sealing a December rate hike.</strong>",
+              "html": "<p><strong>October PCE inflation was reported at 3.8% year on year, with core at 3.3%, and commenters read it as sealing a December rate hike.</strong> The r/stocks post is a pasted CNBC article saying headline matched the Dow Jones consensus and core came in 0.1 point above it.</p>\n<ul>\n<li><strong>Why it matters:</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1y58765/feds_preferred_inflation_gauge_accelerated_to_38/\" target=\"_blank\" rel=\"noopener noreferrer\">r/stocks thread</a> (277 points) and a <a href=\"https://www.reddit.com/r/investing/comments/1y585p9/inflation_in_october_comes_in_above_expectations/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing thread</a> (198 points) both argue from it. The previous entry named this release as the next test before the December meeting. A food distributor in the replies (66 points) says January price increases of 5–10% are being announced across snack and food-service lines, which is one person's account; another commenter asks how a hike fixes supply-driven inflation.</li>\n<li><strong>What to watch:</strong> the 8–9 December Fed meeting, November jobs on 4 December and November CPI on 10 December, both from the <a href=\"#tips\" target=\"_blank\" rel=\"noopener noreferrer\">tracker</a>.</li>\n<li><strong>Numbers:</strong> As pasted: headline PCE 3.8%, core 3.3%, consensus headline 3.8%. For comparison, search results of BEA's September release show 3.6% headline and 3.1% core.</li>\n<li><strong>Caveats:</strong> I could not retrieve BEA's October release, so the 3.8% and 3.3% rest on the pasted article. A search result lists the release as scheduled for 25 November.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026\" target=\"_blank\" rel=\"noopener noreferrer\">BEA's personal income and outlays releases</a> (the September edition; the October one was not found).</li>\n</ul>",
+              "text": "October PCE inflation was reported at 3.8% year on year, with core at 3.3%, and commenters read it as sealing a December rate hike. The r/stocks post is a pasted CNBC article saying headline matched the Dow Jones consensus and core came in 0.1 point above it. Why it matters: The r/stocks thread (277 points) and a r/investing thread (198 points) both argue from it. The previous entry named this release as the next test before the December meeting. A food distributor in the replies (66 points) says January price increases of 5–10% are being announced across snack and food-service lines, which is one person's account; another commenter asks how a hike fixes supply-driven inflation. What to watch: the 8–9 December Fed meeting, November jobs on 4 December and November CPI on 10 December, both from the tracker . Numbers: As pasted: headline PCE 3.8%, core 3.3%, consensus headline 3.8%. For comparison, search results of BEA's September release show 3.6% headline and 3.1% core. Caveats: I could not retrieve BEA's October release, so the 3.8% and 3.3% rest on the pasted article. A search result lists the release as scheduled for 25 November. Read next: BEA's personal income and outlays releases (the September edition; the October one was not found). Reported as pasted · not checked against BEA",
+              "status": "reported",
+              "status_html": "<p>Reported as pasted · not checked against BEA</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "r/investing",
+                "bea.gov"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Microsoft's &quot;Code Red&quot; is a memo about the 12–13 November Exchange Online outage, which the post presents as breaking news.</strong>",
+              "html": "<p><strong>Microsoft's &quot;Code Red&quot; is a memo about the 12–13 November Exchange Online outage, which the post presents as breaking news.</strong> The most upvoted thread of the run summarises a Reuters report that Microsoft set a goal of restoring service worldwide within an hour after email was down for as long as 24 hours.</p>\n<ul>\n<li><strong>Why it matters:</strong> The <a href=\"https://www.reddit.com/r/stocks/comments/1y4kt7q/breaking_microsoft_msft_declares_code_red_its/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a> has 7,555 points, but the replies are about corporate process and layoffs, not the stock. The top comment (6,403 points) is a joke about executives asking for an hour recovery target; a 118-point reply from someone who has worked under such alerts says internally it is real but announcing it is &quot;kinda pointless&quot;. Another thread asks whether Microsoft is still a good buy, with 7 points.</li>\n<li><strong>What to watch:</strong> nothing dated has been named.</li>\n<li><strong>Numbers:</strong> As posted from Reuters: more than 11,000 messages across 11 Teams chats; cause a Windows defect introduced in July; Exchange Online &quot;had never left so many customers without email for so long&quot;.</li>\n<li><strong>Caveats:</strong> I found no Reuters story or memo in search, only independent coverage of the outage itself and a Microsoft post-incident report hosted by a third party. The post's framing as &quot;BREAKING&quot; is the poster's; the outage was nearly two weeks old.</li>\n<li><strong>Read next:</strong> <a href=\"https://office365itpros.com/2026/11/16/exchange-online-outage-nov26/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft 365 for IT Pros on the outage</a>.</li>\n</ul>",
+              "text": "Microsoft's \"Code Red\" is a memo about the 12–13 November Exchange Online outage, which the post presents as breaking news. The most upvoted thread of the run summarises a Reuters report that Microsoft set a goal of restoring service worldwide within an hour after email was down for as long as 24 hours. Why it matters: The thread has 7,555 points, but the replies are about corporate process and layoffs, not the stock. The top comment (6,403 points) is a joke about executives asking for an hour recovery target; a 118-point reply from someone who has worked under such alerts says internally it is real but announcing it is \"kinda pointless\". Another thread asks whether Microsoft is still a good buy, with 7 points. What to watch: nothing dated has been named. Numbers: As posted from Reuters: more than 11,000 messages across 11 Teams chats; cause a Windows defect introduced in July; Exchange Online \"had never left so many customers without email for so long\". Caveats: I found no Reuters story or memo in search, only independent coverage of the outage itself and a Microsoft post-incident report hosted by a third party. The post's framing as \"BREAKING\" is the poster's; the outage was nearly two weeks old. Read next: Microsoft 365 for IT Pros on the outage . Reported · the outage is confirmed by several sources, the \"Code Red\" memo is Unconfirmed",
+              "status": "reported",
+              "status_html": "<p>Reported · the outage is confirmed by several sources, the &quot;Code Red&quot; memo is <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/stocks",
+                "office365itpros.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Markets and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Trump administration was reported to have proposed tariffs of up to 20% on China, the EU and 12 other partners, taking effect &quot;probably in January at the earliest&quot;.</strong>",
+              "html": "<p><strong>The Trump administration was reported to have proposed tariffs of up to 20% on China, the EU and 12 other partners, taking effect &quot;probably in January at the earliest&quot;.</strong> The pasted Yahoo Finance text calls 20% on China a &quot;deal rate&quot; that could go higher, stacked on existing tariffs for over 40% on some goods, with the China trade truce set to expire 10 January. Replies are mostly political; the market reading (257 points) is a &quot;manufactured dump&quot; before January. <a href=\"https://www.reddit.com/r/stocks/comments/1y59jnm/us_announces_new_tariffs_of_up_to_20_on_china_the/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "The Trump administration was reported to have proposed tariffs of up to 20% on China, the EU and 12 other partners, taking effect \"probably in January at the earliest\". The pasted Yahoo Finance text calls 20% on China a \"deal rate\" that could go higher, stacked on existing tariffs for over 40% on some goods, with the China trade truce set to expire 10 January. Replies are mostly political; the market reading (257 points) is a \"manufactured dump\" before January. thread Reported as pasted · I confirmed only that USTR opened a Section 301 excess-capacity probe of 16 economies in March, not the proposal itself",
+              "status": "reported",
+              "status_html": "<p>Reported as pasted · I confirmed only that USTR opened a Section 301 excess-capacity probe of 16 economies in March, not the proposal itself</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Dow was reported to have closed up 164.25 points at 50,182.95 after being down more than 1,100 points, while the Nasdaq Composite fell 0.62% to 23,585.80.</strong>",
+              "html": "<p><strong>The Dow was reported to have closed up 164.25 points at 50,182.95 after being down more than 1,100 points, while the Nasdaq Composite fell 0.62% to 23,585.80.</strong> The pasted CNBC text credits light pre-holiday trading and Michael Burry's blog post; the top reply (316 points) says &quot;Nothing. Welcome to the casino&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1y5jb05/dow_closes_higher_wednesday_wiping_out_1100point/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "The Dow was reported to have closed up 164.25 points at 50,182.95 after being down more than 1,100 points, while the Nasdaq Composite fell 0.62% to 23,585.80. The pasted CNBC text credits light pre-holiday trading and Michael Burry's blog post; the top reply (316 points) says \"Nothing. Welcome to the casino\". thread Reported as pasted · index levels not checked",
+              "status": "reported",
+              "status_html": "<p>Reported as pasted · index levels not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Michael Burry told subscribers his portfolio is &quot;temporarily almost entirely long&quot;, per a pasted summary.</strong>",
+              "html": "<p><strong>Michael Burry told subscribers his portfolio is &quot;temporarily almost entirely long&quot;, per a pasted summary.</strong> The post lists remaining puts on Palantir, MetLife and a final quarter of Nvidia puts, and about 25% cash. The best reply (62 points) quotes the statement to show &quot;temporarily&quot; and that he is &quot;continuing to assess short opportunities&quot;. <a href=\"https://www.reddit.com/r/stocks/comments/1y643tl/michael_burry_says_hes_now_almost_entirely_long/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Michael Burry told subscribers his portfolio is \"temporarily almost entirely long\", per a pasted summary. The post lists remaining puts on Palantir, MetLife and a final quarter of Nvidia puts, and about 25% cash. The best reply (62 points) quotes the statement to show \"temporarily\" and that he is \"continuing to assess short opportunities\". thread Single source · second-hand from his paywalled newsletter",
+              "status": "single-source",
+              "status_html": "<p>Single source · second-hand from his paywalled newsletter</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and deals",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Palo Alto Networks was reported to have been sued by a former regional vice president who alleges he was fired for objecting to accounting fraud.</strong>",
+              "html": "<p><strong>Palo Alto Networks was reported to have been sued by a former regional vice president who alleges he was fired for objecting to accounting fraud.</strong> A commenter pastes a MT Newswires summary of a Bloomberg report: the complaint, filed Friday in New York, alleges inflated bookings via resellers and a pretext for firing; the company had not responded. Replies caution that a disgruntled ex-employee's claims prove nothing yet. <a href=\"https://www.reddit.com/r/stocks/comments/1y5kqjv/palo_alto_networks_accused_by_exmanager_of/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Palo Alto Networks was reported to have been sued by a former regional vice president who alleges he was fired for objecting to accounting fraud. A commenter pastes a MT Newswires summary of a Bloomberg report: the complaint, filed Friday in New York, alleges inflated bookings via resellers and a pretext for firing; the company had not responded. Replies caution that a disgruntled ex-employee's claims prove nothing yet. thread Reported, second-hand · allegations only, not checked against the complaint",
+              "status": "reported",
+              "status_html": "<p>Reported, second-hand · allegations only, not checked against the complaint</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>SoftBank's five-year credit default swap was reported above 500 basis points for the first time in about four years.</strong>",
+              "html": "<p><strong>SoftBank's five-year credit default swap was reported above 500 basis points for the first time in about four years.</strong> As pasted from Bloomberg: 516 basis points, a September dollar bond spread near 644, and S&amp;P estimating a loan-to-value above 30% against a 35% threshold. The article also says Anthropic fell below its IPO price less than four sessions after debut. <a href=\"https://www.reddit.com/r/investing/comments/1y5qme5/softbank_credit_risk_tops_500_basis_points_as_ai/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "SoftBank's five-year credit default swap was reported above 500 basis points for the first time in about four years. As pasted from Bloomberg: 516 basis points, a September dollar bond spread near 644, and S&P estimating a loan-to-value above 30% against a 35% threshold. The article also says Anthropic fell below its IPO price less than four sessions after debut. thread Reported as pasted from Bloomberg · not checked",
+              "status": "reported",
+              "status_html": "<p>Reported as pasted from Bloomberg · not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A WSJ headline says Anthropic's record IPO &quot;is already unraveling&quot;.</strong>",
+              "html": "<p><strong>A WSJ headline says Anthropic's record IPO &quot;is already unraveling&quot;.</strong> The post gives the green-shoe option as already exercised; the top reply (216 points) says a move from $83 to $81 &quot;is not exactly unraveling&quot;, answered at 41 points by a commenter pointing to a $110 initial ask now near $75, and a commenter says retail buyers first paid $111. Both figures are commenters', not checked. <a href=\"https://www.reddit.com/r/stocks/comments/1y563ql/anthropic_had_the_biggest_ipo_in_history_the/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A WSJ headline says Anthropic's record IPO \"is already unraveling\". The post gives the green-shoe option as already exercised; the top reply (216 points) says a move from $83 to $81 \"is not exactly unraveling\", answered at 41 points by a commenter pointing to a $110 initial ask now near $75, and a commenter says retail buyers first paid $111. Both figures are commenters', not checked. thread Reported as pasted from WSJ · prices are commenters'",
+              "status": "reported",
+              "status_html": "<p>Reported as pasted from WSJ · prices are commenters'</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Practical questions",
+          "category": "practical",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Why have market recovery times shortened over 120 years?</strong>",
+              "html": "<p><strong>Why have market recovery times shortened over 120 years?</strong> The most useful reply (94 points) says the Dow chart is price-only and so ignores dividends and 1930s deflation, citing an estimate by Mark Hulbert of about four and a half years for the 1929 recovery on an inflation-adjusted total-return basis, rather than 25; it adds that Japan's Nikkei took about 34 years to regain its 1989 peak. Others credit index funds, automatic contributions and quicker Fed action. <a href=\"https://www.reddit.com/r/investing/comments/1y5n2kx/looking_at_120_years_of_market_history_why_have/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Why have market recovery times shortened over 120 years? The most useful reply (94 points) says the Dow chart is price-only and so ignores dividends and 1930s deflation, citing an estimate by Mark Hulbert of about four and a half years for the 1929 recovery on an inflation-adjusted total-return basis, rather than 25; it adds that Japan's Nikkei took about 34 years to regain its 1989 peak. Others credit index funds, automatic contributions and quicker Fed action. thread Single source · the Hulbert figure is a commenter's, not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the Hulbert figure is a commenter's, not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Debates and theses",
+          "category": "debates",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster argues the AI buildout is limited by grid-quality gear, not just power.</strong>",
+              "html": "<p><strong>A poster argues the AI buildout is limited by grid-quality gear, not just power.</strong> The thesis is that GPU load surges force data centres to meet new ride-through rules from PJM and ERCOT, needing batteries, supercapacitors and STATCOMs with 3–5 year backlogs. A commenter asks where the backlog figure comes from, noting lead times are quoted per component, and another asks whether surging loads have caused problems on any existing grid. <a href=\"https://www.reddit.com/r/investing/comments/1y6f156/ai_power_bottleneck_buildout_looks_like_5_years/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A poster argues the AI buildout is limited by grid-quality gear, not just power. The thesis is that GPU load surges force data centres to meet new ride-through rules from PJM and ERCOT, needing batteries, supercapacitors and STATCOMs with 3–5 year backlogs. A commenter asks where the backlog figure comes from, noting lead times are quoted per component, and another asks whether surging loads have caused problems on any existing grid. thread Single source · the backlog figure is unsourced",
+              "status": "single-source",
+              "status_html": "<p>Single source · the backlog figure is unsourced</p>",
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Capitulation and &quot;is it a bubble&quot; threads sit beside long-horizon ones, such as the retirees thread (205 comments).",
+              "html": "<p>Capitulation and &quot;is it a bubble&quot; threads sit beside long-horizon ones, such as the <a href=\"https://www.reddit.com/r/investing/comments/1y59hkb/what_are_retirees_who_have_most_of_their_nw_in/\" target=\"_blank\" rel=\"noopener noreferrer\">retirees thread</a> (205 comments). Several replies call the sell-off a correction and a few warn of accounting problems beyond Nvidia, and the S&amp;P 500 close of 7,182.78 is a pasted figure.</p>",
+              "text": "Capitulation and \"is it a bubble\" threads sit beside long-horizon ones, such as the retirees thread (205 comments). Several replies call the sell-off a correction and a few warn of accounting problems beyond Nvidia, and the S&P 500 close of 7,182.78 is a pasted figure.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/investing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A pasted FT report says Nvidia told Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia.</strong>",
+              "html": "<p><strong>A pasted FT report says Nvidia told Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia.</strong> Commenters push back: one links a Federal Register rule of 19 November on remote access to advanced chips, and several say it adds licence and know-your-customer checks rather than a ban. The post's &quot;$104 billion&quot; Singapore revenue figure is called &quot;billed through Singapore, not shipped&quot; by the top reply (118 points). A search for the FT story found nothing; a CNBC paste says an unusual number of Nvidia GPUs went on sale after the rule was announced on 16 November. <a href=\"https://www.reddit.com/r/stocks/comments/1y5u6tn/breaking_nvidia_halts_chip_shipments_to_southeast/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A pasted FT report says Nvidia told Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia. Commenters push back: one links a Federal Register rule of 19 November on remote access to advanced chips, and several say it adds licence and know-your-customer checks rather than a ban. The post's \"$104 billion\" Singapore revenue figure is called \"billed through Singapore, not shipped\" by the top reply (118 points). A search for the FT story found nothing; a CNBC paste says an unusual number of Nvidia GPUs went on sale after the rule was announced on 16 November. thread Unconfirmed · searched for the FT story and for any Nvidia statement",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · searched for the FT story and for any Nvidia statement</p>",
+              "updated": null,
+              "sources": [
+                "r/stocks"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> stocks, investing.",
+              "html": "<p><strong>Read:</strong> stocks, investing. <strong>Sources checked:</strong> Federal Reserve (through search results of its pages; the feed itself was not fetched, because the unattended run could not run network commands), Treasury (no 25 November close found), BLS (schedule not reloaded; dates from the tracker), BEA (October release not found).</p>",
+              "text": "Read: stocks, investing. Sources checked: Federal Reserve (through search results of its pages; the feed itself was not fetched, because the unattended run could not run network commands), Treasury (no 25 November close found), BLS (schedule not reloaded; dates from the tracker), BEA (October release not found).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the Fed&#x27;s Beige Book of 25 November, per a search result of the Fed&#x27;s press releases.",
+              "html": "<p><strong>Announced, not discussed:</strong> the Fed's Beige Book of 25 November, per a search result of the <a href=\"https://www.federalreserve.gov/newsevents/pressreleases.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Fed's press releases</a>. No FOMC statement was found since 28 October.</p>",
+              "text": "Announced, not discussed: the Fed's Beige Book of 25 November, per a search result of the Fed's press releases . No FOMC statement was found since 28 October. Reported from a search result, not opened",
+              "status": "reported",
+              "status_html": "<p><strong>Reported</strong> from a search result, not opened</p>",
+              "updated": null,
+              "sources": [
+                "Federal Reserve"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> msft is covered in Must know; the investing thread on Microsoft is a personal-advice question and was left out.",
+              "html": "<p><strong>Flagged terms set aside:</strong> msft is covered in Must know; the investing thread on Microsoft is a personal-advice question and was left out.</p>",
+              "text": "Flagged terms set aside: msft is covered in Must know; the investing thread on Microsoft is a personal-advice question and was left out.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were checked for that window, partly through search.",
+              "html": "<p>Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were checked for that window, partly through search.</p>",
+              "text": "Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were checked for that window, partly through search.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "title": "Stocks & investing digest",
@@ -4253,8 +4536,8 @@
       "items": [
         {
           "headline": "<strong>October inflation ran hot again: CPI +0.4% and core +0.3% in the month; PPI +0.3% and 6.5% over the year, with final demand less foods, energy and trade +0.5% and 4.9%.</strong>",
-          "html": "<p><strong>October inflation ran hot again: CPI +0.4% and core +0.3% in the month; PPI +0.3% and 6.5% over the year, with final demand less foods, energy and trade +0.5% and 4.9%.</strong> BLS published no 12-month CPI rates for October, so any annual CPI figure quoted for the month is an estimate. September for comparison: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual. October jobs, released 6 November: payrolls +165,000, unemployment 4.1%. Next: November jobs on 4 December, November CPI on 10 December, November PPI on 15 December.</p>",
-          "text": "October inflation ran hot again: CPI +0.4% and core +0.3% in the month; PPI +0.3% and 6.5% over the year, with final demand less foods, energy and trade +0.5% and 4.9%. BLS published no 12-month CPI rates for October, so any annual CPI figure quoted for the month is an estimate. September for comparison: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual. October jobs, released 6 November: payrolls +165,000, unemployment 4.1%. Next: November jobs on 4 December, November CPI on 10 December, November PPI on 15 December. Verified against the BLS releases of 10 November (CPI) and 13 November (PPI) , and the dates against the BLS schedule · 2026-11-15",
+          "html": "<p><strong>October inflation ran hot again: CPI +0.4% and core +0.3% in the month; PPI +0.3% and 6.5% over the year, with final demand less foods, energy and trade +0.5% and 4.9%.</strong> BLS published no 12-month CPI rates for October, so any annual CPI figure quoted for the month is an estimate. September for comparison: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual. October jobs, released 6 November: payrolls +165,000, unemployment 4.1%. October PCE, as pasted on 25 November, was 3.8% headline and 3.3% core (September, per BEA search results: 3.6% and 3.1%); the BEA release itself was not found. Next: November jobs on 4 December, November CPI on 10 December, November PPI on 15 December.</p>",
+          "text": "October inflation ran hot again: CPI +0.4% and core +0.3% in the month; PPI +0.3% and 6.5% over the year, with final demand less foods, energy and trade +0.5% and 4.9%. BLS published no 12-month CPI rates for October, so any annual CPI figure quoted for the month is an estimate. September for comparison: CPI 3.7% annual and 0.6% monthly, core 2.6%; PPI 6.3% annual. October jobs, released 6 November: payrolls +165,000, unemployment 4.1%. October PCE, as pasted on 25 November, was 3.8% headline and 3.3% core (September, per BEA search results: 3.6% and 3.1%); the BEA release itself was not found. Next: November jobs on 4 December, November CPI on 10 December, November PPI on 15 December. Verified against the BLS releases of 10 November (CPI) and 13 November (PPI) , and the dates against the BLS schedule · 2026-11-15",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against the BLS releases of <a href=\"https://www.bls.gov/news.release/cpi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">10 November (CPI)</a> and <a href=\"https://www.bls.gov/news.release/ppi.nr0.htm\" target=\"_blank\" rel=\"noopener noreferrer\">13 November (PPI)</a>, and the dates against the <a href=\"https://www.bls.gov/schedule/news_release/\" target=\"_blank\" rel=\"noopener noreferrer\">BLS schedule</a> · 2026-11-15</p>",
           "updated": "2026-11-15",
@@ -4290,6 +4573,17 @@
           ],
           "due": "2026-12-09",
           "due_label": "decision day"
+        },
+        {
+          "headline": "<strong>The US-China trade truce is reported to expire on 10 January, and new tariffs of up to 20% on China, the EU and 12 other partners were reported as proposed on 25 November, &quot;probably in January at the earliest&quot;.</strong>",
+          "html": "<p><strong>The US-China trade truce is reported to expire on 10 January, and new tariffs of up to 20% on China, the EU and 12 other partners were reported as proposed on 25 November, &quot;probably in January at the earliest&quot;.</strong> The pasted Yahoo Finance text calls 20% on China a &quot;deal rate&quot; that could rise, stacked on existing tariffs for over 40% on some goods, after an eight-month excess-capacity investigation, with hearings and a comment period still to come.</p>",
+          "text": "The US-China trade truce is reported to expire on 10 January, and new tariffs of up to 20% on China, the EU and 12 other partners were reported as proposed on 25 November, \"probably in January at the earliest\". The pasted Yahoo Finance text calls 20% on China a \"deal rate\" that could rise, stacked on existing tariffs for over 40% on some goods, after an eight-month excess-capacity investigation, with hearings and a comment period still to come. Reported as pasted · only the March Section 301 probe of 16 economies was confirmed, not the proposal · 2026-11-26",
+          "status": "reported",
+          "status_html": "<p>Reported as pasted · only the March Section 301 probe of 16 economies was confirmed, not the proposal · 2026-11-26</p>",
+          "updated": "2026-11-26",
+          "sources": [],
+          "due": "2027-01-10",
+          "due_label": "truce expiry, as pasted"
         },
         {
           "headline": "<strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong>",
@@ -4351,21 +4645,6 @@
       "sub": false,
       "lead_html": null,
       "items": [
-        {
-          "headline": "<strong>Nvidia reports Q3 on 17 November, its first results since Jensen Huang resigned as CEO, president and director on 12 November.</strong>",
-          "html": "<p><strong>Nvidia reports Q3 on 17 November, its first results since Jensen Huang resigned as CEO, president and director on 12 November.</strong> CFO Colette Kress is interim CEO and keeps the CFO role; Harvey C. Jones is Chair; the board will consider internal and external candidates. The board's investigation, run by Joon H. Kim and Wachtell, Lipton, followed reports linking Huang to Alice Huang, a MegaSpeed executive, and reports of relationships with two Nvidia employees. A WSJ report of 13 November describes an August clash in which Kress questioned billions in chip-financing guarantees, including a 4.25 GW OpenAI Ohio phase capped at $105 billion. Nvidia guided Q3 revenue to about $108.0 billion, plus or minus 2%. Three House committee chairs proposed a closed-door briefing on 18 November.</p>",
-          "text": "Nvidia reports Q3 on 17 November, its first results since Jensen Huang resigned as CEO, president and director on 12 November. CFO Colette Kress is interim CEO and keeps the CFO role; Harvey C. Jones is Chair; the board will consider internal and external candidates. The board's investigation, run by Joon H. Kim and Wachtell, Lipton, followed reports linking Huang to Alice Huang, a MegaSpeed executive, and reports of relationships with two Nvidia employees. A WSJ report of 13 November describes an August clash in which Kress questioned billions in chip-financing guarantees, including a 4.25 GW OpenAI Ohio phase capped at $105 billion. Nvidia guided Q3 revenue to about $108.0 billion, plus or minus 2%. Three House committee chairs proposed a closed-door briefing on 18 November. Verified for the resignation and interim arrangement against Nvidia's release · the WSJ account is Reported via Entrepreneur · the briefing request is Reported by Let's Data Science ; whether it happens is unknown · 2026-11-15",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for the resignation and interim arrangement against <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's release</a> · the WSJ account is Reported via <a href=\"https://www.entrepreneur.com/business-news/months-before-his-fall-jensen-huang-called-his-cfo-a-deer-in-the-headlights\" target=\"_blank\" rel=\"noopener noreferrer\">Entrepreneur</a> · the briefing request is Reported by <a href=\"https://letsdatascience.com/news/house-chairs-ask-nvidia-ceo-jensen-huang-for-closed-door-bri-d3ca0fdc\" target=\"_blank\" rel=\"noopener noreferrer\">Let's Data Science</a>; whether it happens is unknown · 2026-11-15</p>",
-          "updated": "2026-11-15",
-          "sources": [
-            "nvidianews.nvidia.com",
-            "entrepreneur.com",
-            "letsdatascience.com"
-          ],
-          "due": "2026-11-17",
-          "due_label": "Q3 results, call at 5 p.m. ET"
-        },
         {
           "headline": "<strong>China's suspension of its gallium, germanium and antimony export ban to the US expires on 27 November 2026.</strong>",
           "html": "<p><strong>China's suspension of its gallium, germanium and antimony export ban to the US expires on 27 November 2026.</strong> The December 2024 ban was suspended by China's Ministry of Commerce on 9 November 2025 for one year; the metals remain on the dual-use control list, so export licences are still required, and the ban on dual-use exports to US military users was never lifted. No confirmation of an extension has been reported. r/stocks raised it once, at 8 points.</p>",
@@ -4499,6 +4778,22 @@
           ],
           "due": "2027-12-31",
           "due_label": "earliest expected closing, \"end of 2027\""
+        },
+        {
+          "headline": "<strong>Jensen Huang resigned as Nvidia CEO on 12 November and was reinstated on 23 November; a pasted Reuters story says S&amp;P has put the 'AA' rating on downgrade watch.</strong>",
+          "html": "<p><strong>Jensen Huang resigned as Nvidia CEO on 12 November and was reinstated on 23 November; a pasted Reuters story says S&amp;P has put the 'AA' rating on downgrade watch.</strong> CFO Colette Kress is interim CEO and keeps the CFO role; Harvey C. Jones is Chair; the board will consider internal and external candidates. The board's investigation, run by Joon H. Kim and Wachtell, Lipton, followed reports linking Huang to Alice Huang, a MegaSpeed executive, and reports of relationships with two Nvidia employees. A WSJ report of 13 November describes an August clash in which Kress questioned billions in chip-financing guarantees, including a 4.25 GW OpenAI Ohio phase capped at $105 billion. Nvidia guided Q3 revenue to about $108.0 billion, plus or minus 2%. Three House committee chairs proposed a closed-door briefing on 18 November.</p>",
+          "text": "Jensen Huang resigned as Nvidia CEO on 12 November and was reinstated on 23 November; a pasted Reuters story says S&P has put the 'AA' rating on downgrade watch. CFO Colette Kress is interim CEO and keeps the CFO role; Harvey C. Jones is Chair; the board will consider internal and external candidates. The board's investigation, run by Joon H. Kim and Wachtell, Lipton, followed reports linking Huang to Alice Huang, a MegaSpeed executive, and reports of relationships with two Nvidia employees. A WSJ report of 13 November describes an August clash in which Kress questioned billions in chip-financing guarantees, including a 4.25 GW OpenAI Ohio phase capped at $105 billion. Nvidia guided Q3 revenue to about $108.0 billion, plus or minus 2%. Three House committee chairs proposed a closed-door briefing on 18 November. Verified for the resignation and interim arrangement against Nvidia's release · the WSJ account is Reported via Entrepreneur · the briefing request is Reported by Let's Data Science ; whether it happens is unknown · 2026-11-15 · 2026-11-26: the reinstatement is Reported from a search result of the 8-K of 23 November ; the S&P watch (\"could downgrade within the next 90 days\", one notch) is Unconfirmed , as only a Reddit paste says it",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the resignation and interim arrangement against <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's release</a> · the WSJ account is Reported via <a href=\"https://www.entrepreneur.com/business-news/months-before-his-fall-jensen-huang-called-his-cfo-a-deer-in-the-headlights\" target=\"_blank\" rel=\"noopener noreferrer\">Entrepreneur</a> · the briefing request is Reported by <a href=\"https://letsdatascience.com/news/house-chairs-ask-nvidia-ceo-jensen-huang-for-closed-door-bri-d3ca0fdc\" target=\"_blank\" rel=\"noopener noreferrer\">Let's Data Science</a>; whether it happens is unknown · 2026-11-15 · 2026-11-26: the reinstatement is Reported from a search result of the <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">8-K of 23 November</a>; the S&amp;P watch (&quot;could downgrade within the next 90 days&quot;, one notch) is <strong>Unconfirmed</strong>, as only a Reddit paste says it</p>",
+          "updated": "2026-11-26",
+          "sources": [
+            "nvidianews.nvidia.com",
+            "entrepreneur.com",
+            "letsdatascience.com",
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>The SpaceX and Tesla boards have each formed a special committee of independent directors to study a merger, and neither has agreed anything.</strong>",
